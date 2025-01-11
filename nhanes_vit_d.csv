@@ -1,0 +1,3067 @@
+SEQN,age,gender,race,vit_d_lab,vit_d_supplements,vit_d_days_taken,vit_d_how_long,vit_d_day1,mins_outdoors_work,mins_outdoors_non_work,sunscreen,long_sleeve_shirt,stay_in_shade
+93711,56,male,Non Hispanic Asian,165,25,30,1825,1,60,300,5,4,4
+93714,54,female,Non Hispanic Black,47.5,0,0,0,0,120,300,5,3,3
+93717,22,male,Non Hispanic White,54.2,0,0,0,0,NA,240,5,3,3
+93718,45,male,Non Hispanic Black,76.4,125,7,7,0,NA,240,5,3,3
+93728,53,male,Non Hispanic Black,54.4,0,0,0,0,60,60,3,4,3
+93729,42,male,Non Hispanic Black,46.7,0,0,0,0,0,120,5,4,3
+93730,57,male,Other Hispanic,50.8,0,0,0,0,0,180,1,5,4
+93731,20,male,Mexican American,32,0,0,0,0,120,60,5,5,3
+93735,52,male,Other Hispanic,89.1,0,0,0,0,NA,300,5,5,2
+93738,26,male,Other Hispanic,63.4,0,0,0,0,480,480,4,4,3
+93746,25,female,Non Hispanic Black,48.7,0,0,0,0,0,20,5,5,4
+93755,26,female,Non Hispanic Black,37.1,0,0,0,0,60,120,4,4,1
+93758,55,female,Non Hispanic White,43.3,0,0,0,0,NA,60,4,4,2
+93760,54,female,Mexican American,47.4,0,0,0,0,60,120,5,2,4
+93761,44,male,Non Hispanic Asian,44.3,0,0,0,0,120,120,5,2,2
+93763,40,male,Non Hispanic White,84,0,0,0,0,60,360,2,5,3
+93766,36,female,Other Hispanic,52.9,0,0,0,0,0,0,3,1,2
+93770,55,male,Other Hispanic,40.4,0,0,0,0,NA,120,2,2,3
+93772,55,female,Non Hispanic Black,224,0,0,0,0,420,240,5,1,1
+93774,41,female,Non Hispanic White,65.7,150,30,61,0,60,180,1,1,3
+93775,47,female,Non Hispanic Asian,47.3,0,0,0,0,60,120,1,3,2
+93776,32,female,Non Hispanic Black,110,12.5,25,25,1,300,0,3,5,3
+93780,46,female,Other,74.6,0,0,0,0,60,120,3,4,3
+93781,32,male,Other Hispanic,56.9,0,0,0,0,0,0,5,5,1
+93782,25,female,Non Hispanic Black,24.6,0,0,0,0,180,240,4,4,3
+93783,21,female,Other Hispanic,75.5,45,30,61,1,0,0,2,3,2
+93789,34,female,Non Hispanic White,93.9,0,0,0,0,60,300,3,5,4
+93791,20,male,Other,28.4,0,0,0,0,300,180,2,3,3
+93797,52,female,Non Hispanic White,80.3,0,0,0,0,0,60,3,5,3
+93801,59,male,Other Hispanic,91.1,17.5,30,3650,0,15,120,4,4,1
+93806,44,male,Non Hispanic Asian,74.4,25,3,365,0,14,14,5,3,4
+93811,24,male,Non Hispanic Asian,54.9,0,0,0,0,180,60,3,5,3
+93813,42,female,Mexican American,36.6,0,0,0,0,NA,0,3,1,3
+93814,41,female,Non Hispanic Black,65.6,0,0,0,0,60,120,1,4,4
+93815,32,female,Other,37,0,0,0,0,180,180,5,5,3
+93817,55,male,Non Hispanic Asian,90.3,25,20,7300,0,120,120,3,3,2
+93823,58,female,Other Hispanic,113,250,2,730,0,NA,35,3,3,2
+93824,52,female,Other Hispanic,75.3,0,0,0,0,15,240,1,5,1
+93829,38,female,Non Hispanic Black,70.9,25,30,1825,1,120,240,3,3,3
+93834,48,female,Non Hispanic White,48.2,1250,4,1095,1,NA,30,5,5,2
+93837,35,female,Non Hispanic White,47.9,0,0,0,0,0,120,2,5,2
+93839,50,female,Non Hispanic White,52.7,20,25,182,1,0,30,3,5,2
+93840,47,male,Non Hispanic Asian,51,0,0,0,0,45,60,3,4,1
+93841,48,female,Other,69.4,25,30,3650,1,480,480,3,3,3
+93843,42,female,Other Hispanic,78.8,0,0,0,0,120,240,1,5,3
+93845,28,female,Non Hispanic White,64.9,0,0,0,0,180,300,5,4,4
+93846,29,female,Non Hispanic Black,42.4,10,1,1,1,0,0,4,2,3
+93847,43,female,Mexican American,50.2,0,0,0,0,60,120,5,3,3
+93849,40,female,Non Hispanic White,131,50,5,91,0,0,300,2,5,4
+93852,45,female,Other,64.7,0,0,0,0,0,480,5,5,3
+93853,50,male,Mexican American,94,0,0,0,0,NA,240,5,3,5
+93863,50,male,Non Hispanic Asian,46.7,0,0,0,0,60,240,5,5,5
+93866,26,male,Non Hispanic White,45.5,0,0,0,0,0,0,5,4,1
+93870,20,female,Non Hispanic White,41.8,0,0,0,0,30,30,3,3,3
+93871,55,female,Mexican American,45,0,0,0,0,NA,30,4,4,2
+93875,37,male,Non Hispanic Black,49.2,0,0,0,0,360,300,3,3,3
+93878,59,female,Non Hispanic Black,79.7,25,2,730,1,NA,240,2,5,3
+93883,30,female,Non Hispanic Black,17.4,0,0,0,0,0,120,5,4,1
+93888,37,female,Non Hispanic White,42.6,0,0,0,0,NA,120,2,3,3
+93890,27,male,Non Hispanic Asian,65.2,0,0,0,0,0,30,5,4,3
+93891,56,female,Mexican American,47.2,0,0,0,0,NA,0,3,5,3
+93893,55,male,Non Hispanic Black,56.7,0,0,0,0,60,60,5,5,3
+93895,40,male,Non Hispanic White,78.2,0,0,0,0,180,180,2,4,2
+93900,48,male,Mexican American,29.2,0,0,0,0,120,240,3,3,3
+93902,24,female,Mexican American,45.9,0,0,0,0,30,30,5,5,3
+93906,39,male,Mexican American,51.7,0,0,0,0,300,480,2,1,1
+93907,41,female,Non Hispanic Black,25.5,0,0,0,0,360,0,1,5,3
+93908,20,female,Non Hispanic Asian,32.7,0,0,0,0,14,60,3,1,1
+93909,41,male,Non Hispanic Asian,23.3,25,10,365,0,60,60,5,2,3
+93912,25,female,Non Hispanic Black,29,0,0,0,0,0,240,5,5,3
+93913,40,female,Non Hispanic Asian,47.9,1.67,30,91,0,15,30,3,3,2
+93914,41,male,Non Hispanic Asian,79.8,0,0,0,0,NA,60,5,5,5
+93915,34,male,Non Hispanic White,72.3,0,0,0,0,120,120,5,4,2
+93916,28,male,Non Hispanic Asian,28,0,0,0,0,20,120,4,3,2
+93918,36,male,Non Hispanic White,93.7,0,0,0,0,240,240,1,5,2
+93923,52,male,Non Hispanic White,64.7,50,20,30,1,60,60,3,3,2
+93926,31,male,Other,44.5,0,0,0,0,40,40,2,3,3
+93927,54,female,Non Hispanic White,64.7,25,20,243,1,300,240,5,5,4
+93929,35,female,Non Hispanic White,142,35,30,365,1,15,30,2,4,4
+93931,24,male,Other,52.1,0,0,0,0,180,0,5,5,1
+93932,54,female,Non Hispanic Asian,58.8,0,0,0,0,NA,45,1,5,2
+93935,39,male,Mexican American,36.6,0,0,0,0,60,120,5,5,3
+93937,30,male,Non Hispanic White,39,0,0,0,0,14,60,2,5,2
+93939,40,female,Non Hispanic Black,37.8,12.5,3,30,0,60,180,4,3,2
+93940,50,male,Non Hispanic White,86.2,0,0,0,0,420,420,3,4,3
+93941,42,male,Other,74.1,0,0,0,0,14,120,3,3,4
+93942,52,female,Non Hispanic White,113,0,0,0,0,180,300,2,5,5
+93946,22,male,Mexican American,56.1,0,0,0,0,NA,300,5,5,3
+93947,53,female,Non Hispanic Asian,96.2,85,30,1095,1,120,180,3,3,1
+93949,49,female,Non Hispanic Asian,75.6,0,0,0,0,14,60,2,4,2
+93950,30,male,Other Hispanic,35.7,0,0,0,0,30,60,3,4,3
+93952,34,female,Non Hispanic White,88.3,10,30,730,1,NA,180,3,5,3
+93953,26,male,Other,16.3,0,0,0,0,60,0,4,4,2
+93957,41,female,Non Hispanic White,68.4,70,14,8395,1,180,300,2,4,2
+93964,52,male,Non Hispanic Asian,49.6,25,20,365,1,15,60,4,3,3
+93965,30,female,Other Hispanic,75.3,0,0,0,0,30,14,1,5,3
+93968,57,male,Non Hispanic Black,27,0,0,0,0,0,0,5,5,4
+93969,33,female,Non Hispanic White,82.2,0,0,0,0,60,60,3,4,3
+93970,33,male,Non Hispanic Asian,73.9,0,0,0,0,30,120,3,3,1
+93971,40,male,Non Hispanic Black,63.8,20,25,365,0,0,60,5,3,3
+93972,35,male,Non Hispanic White,63.2,0,0,0,0,480,300,3,5,3
+93974,59,male,Non Hispanic White,64.9,27.5,10,7300,0,180,60,4,3,3
+93975,54,female,Non Hispanic White,66.9,25,5,182,0,480,480,2,5,3
+93978,57,male,Non Hispanic Asian,25.4,0,0,0,0,0,180,5,2,2
+93980,29,female,Non Hispanic White,67.9,50,2,365,1,0,60,2,5,5
+93981,52,female,Non Hispanic Asian,21.3,0,0,0,0,NA,0,5,3,4
+93982,57,female,Non Hispanic White,93.5,25,30,730,1,240,120,2,3,3
+93984,32,female,Non Hispanic White,68.4,25,30,30,0,0,120,1,3,1
+93987,35,male,Mexican American,67.5,0,0,0,0,420,120,5,3,2
+93988,32,female,Non Hispanic White,56.6,0,0,0,0,60,120,2,3,2
+93989,39,female,Non Hispanic White,74.1,0,0,0,0,60,300,3,5,3
+93998,24,female,Non Hispanic White,76.7,0,0,0,0,300,180,2,3,3
+93999,23,female,Non Hispanic Black,28.1,0,0,0,0,0,0,2,5,2
+94004,25,female,Non Hispanic Asian,45.6,0,0,0,0,15,45,4,3,3
+94008,46,female,Mexican American,59.9,0,0,0,0,NA,0,5,3,1
+94012,25,female,Other,106,25,30,365,1,120,480,1,5,3
+94013,56,male,Non Hispanic White,94.4,0,0,0,0,120,30,5,5,5
+94015,30,female,Non Hispanic White,82,0,0,0,0,0,60,5,3,3
+94017,54,male,Non Hispanic White,81.1,0,0,0,0,120,120,4,2,4
+94021,38,female,Non Hispanic White,46.9,0,0,0,0,NA,120,3,4,3
+94027,20,male,Mexican American,31.3,0,0,0,0,NA,60,3,4,3
+94028,39,female,Other Hispanic,98,125,15,1825,1,60,180,1,5,1
+94029,46,female,Non Hispanic White,78.7,0,0,0,0,60,300,2,5,4
+94030,45,male,Non Hispanic White,71.6,0,0,0,0,0,300,2,3,3
+94033,55,female,Other Hispanic,71.4,30,30,3650,1,60,60,5,5,1
+94034,54,female,Other Hispanic,65.9,5,30,1095,0,300,0,5,1,1
+94037,59,male,Non Hispanic Asian,106,50,0,14,1,30,60,4,5,4
+94038,59,female,Mexican American,57.8,0,0,0,0,120,0,3,4,3
+94040,28,male,Other,15.8,0,0,0,0,180,300,5,4,4
+94042,26,male,Other,94.8,0,0,0,0,NA,360,4,5,5
+94044,34,female,Other Hispanic,73.2,0,0,0,0,0,0,4,5,5
+94046,46,male,Other Hispanic,74.8,0,0,0,0,360,0,3,2,4
+94047,45,female,Mexican American,50.1,0,0,0,0,0,0,5,3,2
+94050,55,female,Non Hispanic White,93.8,0,0,0,0,NA,300,5,5,4
+94054,50,male,Mexican American,25.3,0,0,0,0,NA,120,3,2,2
+94060,59,male,Non Hispanic White,61,0,0,0,0,0,0,4,4,1
+94061,36,female,Mexican American,44.5,0,0,0,0,NA,300,5,5,1
+94067,44,male,Mexican American,67.4,0,0,0,0,480,0,1,5,5
+94074,29,male,Non Hispanic White,39.9,0,0,0,0,30,60,3,5,3
+94092,52,male,Mexican American,65.6,0,0,0,0,0,30,3,1,1
+94093,36,male,Non Hispanic White,68.5,17.5,8,14,0,60,120,4,5,2
+94098,23,female,Non Hispanic Black,42.5,0,0,0,0,30,120,4,5,5
+94105,46,female,Mexican American,42.5,0,0,0,0,0,240,1,5,2
+94112,28,male,Mexican American,51.1,10,11,122,0,120,60,5,2,4
+94117,57,female,Non Hispanic White,78.6,75,30,1825,1,NA,0,3,3,1
+94118,50,female,Other Hispanic,71.1,0,0,0,0,60,0,3,1,1
+94119,57,male,Non Hispanic Black,22.6,0,0,0,0,30,20,5,2,3
+94122,33,male,Other Hispanic,38.5,0,0,0,0,480,240,5,1,1
+94124,55,male,Other Hispanic,83.8,20,1,365,0,30,120,1,5,4
+94127,34,female,Non Hispanic Asian,52.4,0,0,0,0,60,120,4,2,2
+94128,35,male,Non Hispanic Black,43,15,4,14,0,180,120,5,4,3
+94130,27,female,Non Hispanic Black,22.3,0,0,0,0,180,60,2,5,3
+94131,39,female,Non Hispanic White,54,0,0,0,0,60,NA,3,5,3
+94133,28,male,Mexican American,65,0,0,0,0,420,240,4,5,3
+94135,37,female,Other Hispanic,49.9,10,0,274,0,0,0,2,4,1
+94137,49,female,Non Hispanic Black,72.1,0,0,0,0,120,60,4,3,4
+94139,49,female,Other Hispanic,69.4,0,0,0,0,0,0,3,5,3
+94151,23,male,Other Hispanic,70.6,0,0,0,0,300,120,4,5,3
+94155,56,male,Non Hispanic Asian,27,0,0,0,0,20,120,1,5,2
+94160,22,female,Non Hispanic White,85.6,0,0,0,0,0,120,2,5,4
+94163,35,male,Non Hispanic White,79.5,0,0,0,0,360,300,5,5,4
+94166,28,male,Non Hispanic White,36.5,12.5,30,30,0,0,0,3,5,2
+94169,26,male,Non Hispanic Asian,47.7,0,0,0,0,0,60,5,5,3
+94174,45,female,Mexican American,61.1,0,0,0,0,360,120,1,1,3
+94176,24,female,Non Hispanic White,70.8,10,15,365,1,0,300,3,5,4
+94177,59,female,Mexican American,70.4,10,30,1825,0,NA,40,2,2,1
+94181,36,female,Non Hispanic Asian,42.2,0,0,0,0,60,30,4,2,2
+94182,59,female,Non Hispanic White,143,0,0,0,0,300,480,3,5,4
+94183,49,male,Non Hispanic White,67.8,0,0,0,0,60,180,5,5,3
+94187,54,female,Non Hispanic Asian,36.9,0,0,0,0,30,30,3,2,1
+94189,21,female,Mexican American,27.8,0,0,0,0,60,60,3,4,1
+94190,43,male,Non Hispanic Asian,55.8,0,0,0,0,NA,30,4,2,3
+94192,54,female,Non Hispanic White,50.5,0,0,0,0,NA,60,1,5,2
+94193,58,female,Non Hispanic Black,31.5,0,0,0,0,120,60,5,4,3
+94200,26,female,Other Hispanic,25,0,0,0,0,60,30,5,3,2
+94206,56,male,Non Hispanic Asian,90.8,45,30,91,1,120,30,2,5,5
+94208,45,female,Non Hispanic Black,54.8,45,30,6205,1,15,15,5,3,2
+94211,23,female,Non Hispanic White,84.4,0,0,0,0,15,45,3,4,2
+94219,23,female,Mexican American,70,10,24,182,1,0,40,3,4,2
+94221,27,female,Non Hispanic Black,38.9,0,0,0,0,120,240,1,5,1
+94223,43,female,Other Hispanic,83.6,20,10,182,0,NA,120,4,5,3
+94224,23,male,Other Hispanic,69,12.5,15,5475,0,30,0,3,5,3
+94241,30,female,Non Hispanic Asian,50.8,0,0,0,0,180,0,3,1,1
+94245,31,female,Non Hispanic White,73.8,0,0,0,0,120,240,4,4,3
+94247,27,male,Non Hispanic White,67.5,0,0,0,0,60,0,4,4,4
+94248,38,female,Non Hispanic Black,109,20,30,182,1,30,120,4,4,2
+94250,23,female,Non Hispanic White,45.5,0,0,0,0,0,120,3,5,2
+94251,22,female,Non Hispanic White,82.9,0,0,0,0,60,60,1,5,2
+94255,43,male,Mexican American,70.5,50,30,182,1,180,360,4,4,3
+94258,51,male,Non Hispanic White,88.8,0,0,0,0,300,300,5,5,4
+94259,50,female,Non Hispanic Asian,101,12.5,30,91,1,0,0,1,5,2
+94260,48,female,Non Hispanic Asian,37.1,0,0,0,0,30,15,5,4,2
+94262,22,male,Mexican American,52.3,0,0,0,0,360,180,4,2,3
+94266,43,male,Other Hispanic,51.4,0,0,0,0,0,180,5,3,1
+94270,33,male,Mexican American,58.4,0,0,0,0,0,30,5,3,3
+94274,58,female,Other Hispanic,99.5,50,30,730,1,180,420,2,3,3
+94275,54,male,Mexican American,46.3,17.5,10,30,1,0,60,5,5,5
+94277,41,female,Other Hispanic,52.8,10,0,365,1,30,120,3,2,2
+94279,39,male,Non Hispanic Asian,62.5,18.25,30,1460,1,0,120,4,3,4
+94281,31,female,Other,39.7,0,0,0,0,60,60,5,5,3
+94284,58,female,Non Hispanic Black,44.2,0,0,0,0,0,30,5,3,3
+94285,43,male,Other Hispanic,37.2,0,0,0,0,180,0,5,5,2
+94287,20,male,Non Hispanic White,69.1,10,30,182,0,180,60,3,4,2
+94290,35,female,Non Hispanic Asian,41.6,0,0,0,0,0,60,1,1,5
+94291,27,female,Mexican American,74.6,0,0,0,0,40,60,5,2,2
+94295,48,female,Non Hispanic Asian,101,50,30,2555,0,NA,30,5,1,3
+94302,24,female,Non Hispanic Asian,96.2,10,30,182,1,NA,120,5,1,2
+94304,40,male,Non Hispanic Asian,87,0,0,0,0,30,30,3,4,3
+94306,22,female,Non Hispanic White,68,0,0,0,0,180,360,4,5,3
+94311,41,female,Non Hispanic Black,36.7,0,0,0,0,0,240,5,5,1
+94314,48,male,Non Hispanic Asian,59.7,0,0,0,0,0,120,5,5,3
+94319,44,male,Non Hispanic White,72.7,0,0,0,0,60,180,4,5,3
+94320,33,male,Non Hispanic Black,69.5,0,0,0,0,60,60,5,5,2
+94322,20,male,Other Hispanic,43.4,0,0,0,0,480,180,5,1,4
+94324,50,female,Non Hispanic White,203,125,30,122,1,120,60,2,3,3
+94326,55,male,Non Hispanic White,54.5,0,0,0,0,120,360,4,4,3
+94328,29,female,Non Hispanic Asian,31.8,0,0,0,0,0,120,2,2,2
+94330,57,female,Non Hispanic White,30.8,0,0,0,0,0,180,5,5,3
+94337,44,male,Other,23.7,0,0,0,0,60,180,3,4,2
+94339,37,male,Other Hispanic,46.6,0,0,0,0,30,240,4,4,2
+94340,25,male,Non Hispanic White,76.1,0,0,0,0,480,360,2,4,4
+94341,24,male,Mexican American,44.6,0,0,0,0,120,360,5,4,4
+94342,57,female,Non Hispanic Black,81.6,50,0,548,1,480,60,3,2,2
+94350,54,male,Non Hispanic Asian,65.6,0,0,0,0,120,240,5,3,4
+94356,58,male,Non Hispanic Black,36.2,0,0,0,0,NA,300,5,3,4
+94359,36,male,Mexican American,34.3,0,0,0,0,0,240,5,5,3
+94360,44,male,Other Hispanic,36.5,0,0,0,0,240,0,5,5,3
+94361,38,female,Mexican American,65.3,50,30,365,0,60,60,2,4,3
+94365,22,male,Non Hispanic Black,52.3,0,0,0,0,60,0,5,5,2
+94366,25,male,Non Hispanic Asian,96.5,12.5,30,365,1,20,60,4,4,4
+94368,33,female,Non Hispanic White,58.4,20,28,1095,0,0,0,3,4,3
+94374,52,female,Mexican American,90.3,50,20,365,1,15,60,5,1,2
+94375,30,female,Other,51.8,0,0,0,0,14,0,3,5,2
+94377,33,male,Non Hispanic White,33.6,0,0,0,0,0,60,5,5,4
+94379,24,female,Non Hispanic White,36.6,0,0,0,0,120,300,4,3,3
+94382,32,female,Non Hispanic White,68.8,0,0,0,0,NA,240,3,4,3
+94385,48,female,Non Hispanic Asian,49.3,0,0,0,0,0,120,5,4,3
+94387,39,female,Non Hispanic Black,59,31.759999999999998,20,1825,1,0,120,5,3,3
+94388,33,female,Non Hispanic Black,29.8,0,0,0,0,60,60,4,4,3
+94392,25,male,Non Hispanic Black,34.4,18.75,15,61,1,480,480,4,4,3
+94393,36,male,Other Hispanic,39.7,0,0,0,0,0,420,3,5,3
+94398,39,female,Non Hispanic Black,31.7,0,0,0,0,30,60,4,3,3
+94401,57,male,Non Hispanic White,59.3,125,10,1825,0,480,480,5,3,4
+94405,39,female,Non Hispanic White,80,0,0,0,0,60,120,4,5,3
+94406,34,female,Non Hispanic Black,69.4,10,30,243,1,0,0,5,5,1
+94409,23,male,Other Hispanic,46.3,0,0,0,0,240,120,5,3,2
+94414,32,male,Non Hispanic Black,37.3,0,0,0,0,180,120,5,5,1
+94415,37,male,Other Hispanic,56.7,0,0,0,0,360,0,5,2,1
+94416,28,female,Non Hispanic White,60.1,0,0,0,0,60,NA,5,4,2
+94427,49,female,Non Hispanic Asian,102,1250,4,365,0,0,120,3,3,4
+94430,25,female,Other,40.2,0,0,0,0,180,60,4,4,3
+94431,47,male,Non Hispanic White,55.1,10,30,7300,1,180,240,3,2,3
+94433,46,male,Non Hispanic Black,45.8,0,0,0,0,60,180,5,5,2
+94434,26,female,Non Hispanic Asian,19,0,0,0,0,0,120,3,3,2
+94436,31,female,Non Hispanic Black,19.4,0,0,0,0,0,180,3,3,4
+94443,32,male,Mexican American,66.9,0,0,0,0,360,360,5,1,2
+94445,53,male,Non Hispanic White,90.3,25,30,30,1,60,180,3,5,3
+94446,28,female,Other Hispanic,34.8,0,0,0,0,60,60,2,2,2
+94448,41,male,Non Hispanic White,69.3,0,0,0,0,480,180,4,3,3
+94450,30,male,Mexican American,53.3,0,0,0,0,480,0,5,3,5
+94453,20,female,Non Hispanic White,53.9,0,0,0,0,120,300,4,5,3
+94457,46,female,Non Hispanic White,49.6,0,0,0,0,60,180,3,3,3
+94458,56,male,Non Hispanic Asian,91.1,25.03,30,1460,0,0,120,5,2,2
+94459,52,female,Non Hispanic Black,54.9,0,0,0,0,15,60,5,5,1
+94463,26,female,Non Hispanic Black,60,0,0,0,0,180,60,5,5,4
+94465,31,male,Other,75.8,25,2,5840,0,480,180,5,3,5
+94469,37,female,Other,89.6,25,30,730,1,NA,120,1,3,3
+94471,42,female,Other Hispanic,49.5,0,0,0,0,120,60,3,3,3
+94474,55,male,Non Hispanic White,74.4,0,0,0,0,120,360,2,2,3
+94475,26,female,Mexican American,101,0,0,0,0,120,120,1,1,3
+94477,58,female,Non Hispanic Black,97.5,25,14,21,0,180,180,5,4,5
+94478,37,female,Non Hispanic Black,51.3,0,0,0,0,14,14,2,3,2
+94481,31,female,Other,67.7,0,0,0,0,30,120,5,5,3
+94486,44,female,Non Hispanic Black,68.9,10,30,3650,1,0,0,5,5,4
+94487,29,male,Non Hispanic Black,36.1,0,0,0,0,60,60,5,5,3
+94488,38,female,Other Hispanic,73.8,10,3,91,0,60,120,3,5,1
+94497,45,male,Other,76.2,0,0,0,0,480,480,5,5,3
+94501,41,female,Non Hispanic Asian,43.6,20,0,730,0,14,30,2,3,3
+94503,52,female,Non Hispanic Black,34,0,0,0,0,120,180,5,5,3
+94504,28,male,Non Hispanic Black,47.7,0,0,0,0,480,120,5,3,4
+94507,34,male,Non Hispanic Black,28.7,0,0,0,0,0,0,5,4,2
+94508,34,female,Non Hispanic Black,40.4,0,0,0,0,30,240,4,5,3
+94509,53,female,Non Hispanic White,93.9,0,0,0,0,120,120,3,5,3
+94510,49,female,Non Hispanic White,98.6,20,30,182,1,0,120,3,5,3
+94512,43,female,Mexican American,67.9,26.67,30,182,0,0,120,3,5,5
+94515,58,female,Other Hispanic,59.3,0,0,0,0,0,0,5,5,3
+94519,59,male,Non Hispanic White,64.5,20,25,365,0,120,180,5,2,2
+94526,37,male,Non Hispanic Black,19.6,0,0,0,0,30,60,5,4,5
+94527,36,male,Mexican American,62.4,0,0,0,0,0,360,2,2,1
+94528,34,male,Non Hispanic Asian,17.8,0,0,0,0,0,300,5,3,2
+94530,22,male,Non Hispanic Black,34.8,0,0,0,0,60,120,4,3,3
+94531,34,female,Mexican American,35.7,0,0,0,0,120,300,2,5,2
+94532,36,female,Mexican American,51.1,20,15,91,0,0,60,1,3,2
+94539,55,female,Non Hispanic White,92.7,26.25,7,7300,1,480,180,5,5,5
+94542,30,male,Non Hispanic Black,18.4,0,0,0,0,NA,180,4,4,2
+94552,56,female,Non Hispanic Asian,105,25,30,3650,1,60,240,5,5,5
+94557,35,female,Non Hispanic Black,28.3,0,0,0,0,30,0,5,5,4
+94559,41,male,Mexican American,26.6,0,0,0,0,360,360,5,5,4
+94560,24,female,Non Hispanic White,61.4,0,0,0,0,60,480,3,3,5
+94565,45,female,Other Hispanic,86.2,50,0,61,0,NA,0,5,2,4
+94569,27,female,Non Hispanic White,148,150,30,365,1,60,360,3,4,3
+94570,48,male,Non Hispanic White,56.6,0,0,0,0,0,180,5,5,3
+94576,33,female,Mexican American,30.1,0,0,0,0,0,30,5,5,1
+94577,30,female,Non Hispanic White,71,8.33,20,1095,0,NA,60,2,3,2
+94579,52,male,Non Hispanic Black,62.9,0,0,0,0,420,60,5,2,3
+94589,33,male,Non Hispanic White,70.7,0,0,0,0,180,300,2,2,4
+94595,28,male,Non Hispanic Asian,12.6,0,0,0,0,20,0,4,4,3
+94596,45,male,Non Hispanic White,64.6,0,0,0,0,30,240,3,4,3
+94605,42,male,Non Hispanic Black,33.7,0,0,0,0,60,180,5,5,3
+94606,57,female,Non Hispanic White,113,37.5,30,7300,1,NA,360,4,5,3
+94607,38,male,Non Hispanic White,64.3,32.5,20,1825,0,240,300,4,4,4
+94608,24,male,Mexican American,52.4,0,0,0,0,120,120,4,5,3
+94615,47,female,Other Hispanic,101,75,0,2555,1,0,30,1,3,2
+94618,49,male,Non Hispanic White,79.9,25,30,8030,1,15,180,2,2,3
+94623,48,female,Non Hispanic White,92.7,70,30,10950,1,60,120,3,4,1
+94624,38,male,Non Hispanic Asian,61.3,0,0,0,0,0,60,4,3,2
+94625,22,male,Non Hispanic Black,29.7,0,0,0,0,480,180,5,4,3
+94627,59,male,Other Hispanic,87.3,0,0,0,0,NA,NA,4,4,3
+94631,21,female,Non Hispanic Black,23.3,0,0,0,0,60,120,5,3,3
+94640,55,female,Non Hispanic Asian,58.4,20,30,1825,1,0,240,5,4,2
+94644,24,male,Non Hispanic White,75.6,0,0,0,0,0,14,5,4,3
+94647,38,female,Non Hispanic Asian,71.4,10,15,365,0,NA,120,1,1,1
+94648,45,female,Non Hispanic Asian,64.1,20,20,730,0,0,15,3,3,3
+94651,57,female,Non Hispanic White,137,80,30,2920,1,60,60,5,5,2
+94660,40,female,Mexican American,53.9,15,10,365,0,0,0,3,4,2
+94663,30,female,Other,57.1,0,0,0,0,30,60,2,3,3
+94664,41,male,Non Hispanic Asian,74.7,0,0,0,0,60,240,3,3,3
+94666,38,female,Non Hispanic Black,58.4,10,4,5,0,60,120,3,2,2
+94669,38,male,Non Hispanic White,76.1,50,6,91,1,180,120,5,4,3
+94672,29,female,Non Hispanic White,50.3,35,30,365,1,30,120,3,4,3
+94673,23,female,Non Hispanic Black,79,40,8,8,1,30,15,5,4,3
+94677,25,female,Non Hispanic White,51.6,0,0,0,0,120,360,2,5,2
+94678,58,female,Non Hispanic White,128,0,0,0,0,360,360,2,4,3
+94684,38,female,Non Hispanic White,54.9,0,0,0,0,NA,120,3,3,2
+94685,47,female,Non Hispanic Black,32.1,0,0,0,0,15,120,4,5,1
+94686,33,female,Non Hispanic White,94.3,50,30,365,1,60,180,2,4,3
+94687,35,female,Non Hispanic Asian,69.7,50,4,49,0,180,180,5,3,1
+94689,22,male,Other Hispanic,39.6,0,0,0,0,180,120,5,3,4
+94693,59,male,Non Hispanic White,76.5,0,0,0,0,NA,120,5,5,1
+94695,56,female,Non Hispanic White,99.1,0,0,0,0,300,180,5,5,4
+94696,43,female,Non Hispanic White,77,0,0,0,0,0,180,5,5,4
+94697,23,female,Non Hispanic White,61.3,0,0,0,0,30,300,3,5,3
+94698,59,female,Non Hispanic Black,46.2,25,9,30,0,0,0,5,3,2
+94706,43,female,Non Hispanic Asian,101,125,30,30,1,0,0,5,2,3
+94708,41,male,Non Hispanic White,132,125,30,1825,1,360,240,1,3,3
+94710,35,male,Non Hispanic Black,24.9,0,0,0,0,0,0,5,3,1
+94713,56,female,Non Hispanic Black,38.5,0,0,0,0,NA,20,5,3,2
+94719,56,female,Mexican American,64.3,55,30,1095,1,14,30,4,3,2
+94720,22,male,Non Hispanic Black,50.4,0,0,0,0,240,180,4,4,3
+94721,30,male,Other Hispanic,50.2,0,0,0,0,360,60,5,2,2
+94725,56,male,Non Hispanic White,91,60,30,1825,1,20,20,2,4,2
+94726,46,female,Non Hispanic White,95.5,25,30,730,1,0,180,3,4,4
+94729,37,male,Non Hispanic Black,27.2,0,0,0,0,14,240,5,4,3
+94731,44,female,Non Hispanic Black,64.7,10,3,3650,1,30,60,3,4,3
+94732,45,female,Non Hispanic Black,70.9,28.38,7,1460,1,480,120,2,3,3
+94735,45,female,Other Hispanic,37.9,0,0,0,0,0,180,4,5,3
+94736,51,male,Non Hispanic Asian,85.2,17.5,30,365,1,60,480,3,2,3
+94739,57,male,Non Hispanic White,54.2,12.5,30,1825,1,NA,30,2,4,4
+94740,46,female,Non Hispanic Asian,39.8,10,10,91,0,0,0,1,3,5
+94744,43,male,Non Hispanic Black,53.3,0,0,0,0,180,240,5,5,2
+94747,59,female,Non Hispanic White,62.7,0,0,0,0,0,0,1,1,1
+94748,51,female,Non Hispanic Black,50.7,25,30,365,0,NA,30,5,3,3
+94761,24,male,Non Hispanic Asian,42,0,0,0,0,240,180,4,3,3
+94763,43,male,Non Hispanic Black,74.9,0,0,0,0,60,180,2,4,3
+94764,43,female,Non Hispanic Black,28.9,0,0,0,0,20,120,4,4,3
+94765,55,male,Non Hispanic White,80.5,0,0,0,0,420,0,5,2,4
+94766,42,male,Non Hispanic Black,68.7,0,0,0,0,0,0,3,1,1
+94771,42,female,Non Hispanic White,43.2,0,0,0,0,0,120,2,4,2
+94773,32,male,Mexican American,71,50,1,7,0,0,240,5,3,2
+94775,26,female,Non Hispanic Black,20.3,0,0,0,0,0,60,5,3,2
+94783,28,female,Non Hispanic Asian,45.6,0,0,0,0,240,60,1,2,3
+94785,55,male,Non Hispanic Asian,66.5,0,0,0,0,0,0,5,5,5
+94786,24,female,Non Hispanic White,70.2,0,0,0,0,60,60,2,3,3
+94788,53,female,Non Hispanic Asian,101,0,0,0,0,180,240,1,1,1
+94793,40,male,Mexican American,55.7,0,0,0,0,360,120,3,2,4
+94795,27,female,Mexican American,73.8,0,0,0,0,20,30,2,4,2
+94801,45,male,Non Hispanic Black,70.6,0,0,0,0,30,120,3,3,2
+94802,22,male,Other Hispanic,32,10,7,213,0,0,60,5,5,3
+94806,55,male,Other Hispanic,75.8,0,0,0,0,30,360,5,3,3
+94808,41,female,Non Hispanic Black,47.7,0,0,0,0,15,60,5,4,5
+94810,56,male,Other,22.8,0,0,0,0,NA,60,5,3,2
+94812,46,male,Non Hispanic Asian,82.2,100,20,365,0,60,60,5,2,4
+94819,32,female,Mexican American,64.3,0,0,0,0,15,15,3,4,1
+94835,59,female,Non Hispanic White,38.7,25,30,7300,1,90,90,5,5,1
+94837,33,female,Mexican American,49.8,10,30,61,0,20,0,4,4,4
+94844,36,male,Non Hispanic White,62.5,20,21,21,0,40,180,3,3,3
+94848,32,female,Other Hispanic,50.4,10,1,304,0,0,14,3,5,3
+94850,46,male,Non Hispanic White,31.6,0,0,0,0,480,360,5,4,3
+94852,33,male,Mexican American,49.5,0,0,0,0,480,0,1,1,3
+94854,52,female,Non Hispanic White,32,0,0,0,0,60,120,3,2,3
+94855,54,male,Non Hispanic Black,77.2,0,0,0,0,NA,60,5,5,3
+94857,35,female,Other Hispanic,63.2,0,0,0,0,60,0,5,3,1
+94858,44,female,Non Hispanic White,71.4,20,30,304,0,30,300,5,4,2
+94860,33,female,Non Hispanic Black,48.6,10,30,334,1,0,0,4,3,2
+94861,56,female,Non Hispanic Black,19.6,0,0,0,0,60,120,5,3,3
+94862,53,female,Non Hispanic Asian,98.3,75,20,1095,0,0,480,2,3,3
+94863,51,male,Other Hispanic,72.7,0,0,0,0,0,360,5,5,2
+94867,55,male,Non Hispanic White,56,25,15,365,0,30,120,2,3,3
+94868,59,male,Other Hispanic,76,0,0,0,0,60,240,4,3,2
+94873,21,male,Mexican American,59.9,0,0,0,0,20,360,4,4,3
+94878,37,female,Non Hispanic Black,65.6,25,3,14,0,240,240,5,5,1
+94879,48,female,Other,46.6,20,14,14,0,14,180,5,4,2
+94882,55,female,Non Hispanic Asian,54.7,20,8,365,0,14,14,3,3,3
+94883,59,male,Non Hispanic Black,120,50,0,730,0,180,180,3,1,3
+94889,41,female,Mexican American,177,125,30,91,1,NA,120,3,3,3
+94890,57,male,Non Hispanic White,67.8,0,0,0,0,60,300,5,5,3
+94891,40,female,Non Hispanic Black,66.7,0,0,0,0,14,0,NA,NA,6
+94893,48,female,Other,135,75,0,1825,0,0,60,3,2,2
+94894,50,male,Non Hispanic White,112,50,30,2920,1,120,480,3,4,4
+94896,50,female,Non Hispanic Black,57.4,58.34,30,10950,1,30,360,5,5,4
+94899,32,female,Non Hispanic Black,35.4,0,0,0,0,120,300,3,5,3
+94906,46,male,Non Hispanic White,42.1,0,0,0,0,300,120,4,5,4
+94908,56,female,Non Hispanic Black,30.2,0,0,0,0,420,300,5,3,3
+94909,59,male,Non Hispanic White,83.4,0,0,0,0,120,480,5,5,3
+94916,26,female,Non Hispanic Black,21.5,0,0,0,0,120,45,5,5,2
+94920,58,female,Non Hispanic Black,106,50,30,9125,1,NA,240,1,3,2
+94924,29,female,Non Hispanic White,101,0,0,0,0,60,120,3,5,2
+94926,37,male,Non Hispanic White,71.7,0,0,0,0,480,480,5,5,4
+94927,28,female,Non Hispanic Asian,51.8,0,0,0,0,60,60,3,3,3
+94930,50,female,Non Hispanic Black,31.3,25,3,730,0,300,300,5,5,5
+94933,54,female,Mexican American,26.4,0,0,0,0,15,30,5,1,3
+94935,41,female,Other,25.5,12.5,30,182,1,30,0,5,4,3
+94936,25,female,Non Hispanic Black,50.6,0,0,0,0,180,240,5,4,3
+94939,31,male,Other,37.7,0,0,0,0,420,60,5,5,4
+94941,28,male,Non Hispanic Black,32.5,0,0,0,0,300,300,4,4,3
+94945,29,male,Mexican American,43.5,0,0,0,0,0,0,5,5,4
+94946,23,male,Non Hispanic White,51.3,0,0,0,0,60,240,5,5,3
+94953,59,female,Non Hispanic White,104,50,4,42,0,0,0,1,2,1
+94954,34,male,Non Hispanic Black,94.6,20,30,7300,0,30,30,4,4,2
+94957,43,male,Non Hispanic White,59,67.5,25,1825,1,60,180,3,4,4
+94958,58,female,Non Hispanic Asian,107,11.25,20,3650,1,14,15,4,3,5
+94959,48,male,Non Hispanic Black,33.1,0,0,0,0,60,120,3,1,3
+94960,26,male,Non Hispanic White,74.1,0,0,0,0,180,180,3,4,4
+94962,57,female,Non Hispanic Asian,140,125,30,2190,1,30,60,4,1,2
+94964,48,male,Mexican American,34.6,0,0,0,0,0,120,5,5,3
+94966,44,male,Other,101,50,20,730,0,NA,120,5,4,3
+94967,40,female,Non Hispanic Black,70.4,0,0,0,0,180,300,2,3,2
+94968,24,male,Non Hispanic Black,36.3,0,0,0,0,240,300,5,3,3
+94970,55,male,Mexican American,34.6,0,0,0,0,480,480,5,1,5
+94972,39,female,Non Hispanic White,46.7,25,7,7,1,NA,180,4,5,3
+94975,56,male,Non Hispanic Black,50.3,0,0,0,0,120,120,5,4,4
+94982,32,female,Non Hispanic Black,21.2,25,27,5475,1,300,180,3,3,4
+94989,35,male,Other,61.7,0,0,0,0,180,60,5,5,4
+94990,56,male,Non Hispanic Black,38.3,10,30,30,1,480,360,3,3,3
+94995,58,male,Other,50.1,0,0,0,0,180,180,4,3,3
+94997,44,female,Other Hispanic,51.7,0,0,0,0,0,180,1,1,3
+94998,45,male,Non Hispanic White,65.6,0,0,0,0,30,120,2,5,3
+95002,26,male,Mexican American,48,0,0,0,0,0,420,4,5,2
+95013,56,male,Non Hispanic White,75.5,0,0,0,0,30,360,1,2,2
+95014,35,male,Mexican American,48.6,0,0,0,0,120,240,3,4,2
+95019,40,male,Non Hispanic White,104,0,0,0,0,480,480,5,5,4
+95025,57,male,Non Hispanic White,43.9,0,0,0,0,240,240,4,4,3
+95026,20,male,Non Hispanic Black,61.4,10,15,5475,1,240,240,4,3,3
+95028,30,male,Non Hispanic White,51.3,0,0,0,0,60,120,4,3,3
+95029,43,female,Non Hispanic Black,18.8,0,0,0,0,90,180,5,5,2
+95031,54,female,Non Hispanic White,76.8,20,30,730,1,120,480,5,5,4
+95033,49,female,Non Hispanic Asian,80.6,20,30,30,0,90,360,5,5,2
+95035,42,male,Other,25.8,0,0,0,0,60,120,4,5,4
+95037,20,female,Mexican American,45.3,7.5,30,152,1,120,120,3,4,2
+95040,26,female,Non Hispanic White,128,50,30,30,1,60,240,2,4,3
+95048,23,male,Non Hispanic White,67.4,0,0,0,0,60,300,3,5,3
+95051,52,male,Non Hispanic Black,35.8,20,30,91,0,120,14,5,5,3
+95052,40,female,Non Hispanic Asian,113,0,0,0,0,30,30,5,1,3
+95053,50,male,Non Hispanic White,100,0,0,0,0,NA,480,5,5,4
+95055,40,male,Mexican American,60.9,0,0,0,0,300,300,1,3,2
+95056,34,female,Other,27.4,0,0,0,0,120,0,5,4,1
+95058,36,female,Non Hispanic White,66.3,0,0,0,0,120,120,5,5,2
+95059,53,male,Non Hispanic White,54.6,0,0,0,0,480,NA,5,5,1
+95060,44,female,Non Hispanic Asian,74.6,25,30,365,1,0,14,1,2,2
+95061,45,male,Mexican American,68.9,0,0,0,0,480,300,5,5,3
+95063,46,female,Non Hispanic White,66.1,0,0,0,0,NA,240,5,4,3
+95064,27,male,Non Hispanic Black,56.9,0,0,0,0,0,480,5,5,4
+95067,55,female,Non Hispanic Black,68.6,50,1,365,1,30,30,4,5,1
+95069,26,male,Non Hispanic White,76,0,0,0,0,120,180,4,5,2
+95071,38,female,Non Hispanic White,46.2,0,0,0,0,0,60,2,1,1
+95077,47,male,Non Hispanic Asian,69.2,51.67,20,730,1,120,120,3,5,2
+95080,28,male,Other Hispanic,77.3,50,0,61,0,120,300,2,5,3
+95083,37,male,Non Hispanic White,57.3,0,0,0,0,300,300,5,4,4
+95088,50,female,Mexican American,64.3,10,30,1825,1,60,180,5,2,3
+95089,31,female,Non Hispanic Black,31.8,0,0,0,0,240,300,5,5,2
+95093,51,female,Mexican American,34,0,0,0,0,60,60,4,4,3
+95094,37,female,Other Hispanic,56.4,20,30,91,0,0,0,2,1,1
+95096,21,male,Mexican American,20.3,0,0,0,0,120,240,5,5,3
+95103,39,male,Other Hispanic,85.4,17.5,20,730,0,0,60,2,3,3
+95113,20,female,Mexican American,34.4,0,0,0,0,60,120,2,5,4
+95114,34,male,Mexican American,39.2,0,0,0,0,60,120,4,4,3
+95115,33,female,Non Hispanic Black,26.8,0,0,0,0,0,14,5,2,5
+95118,57,male,Non Hispanic Asian,68.7,25,30,1825,1,30,90,1,3,1
+95123,50,female,Other Hispanic,74.8,80,2,1825,0,60,90,1,3,1
+95124,58,male,Non Hispanic Black,48.2,0,0,0,0,300,60,5,5,3
+95126,59,female,Non Hispanic Asian,28.9,0,0,0,0,NA,60,5,1,2
+95128,33,female,Non Hispanic Black,31.9,0,0,0,0,180,300,5,5,2
+95134,37,male,Mexican American,86,0,0,0,0,420,300,5,5,4
+95137,53,female,Non Hispanic White,196,0,0,0,0,15,120,5,1,4
+95140,42,female,Mexican American,74.8,0,0,0,0,60,240,2,5,4
+95143,51,female,Mexican American,112,125,30,45,1,0,120,2,3,3
+95148,56,female,Non Hispanic Black,16.4,0,0,0,0,60,60,5,4,2
+95149,48,female,Non Hispanic White,79.1,135,30,91,1,30,120,5,4,2
+95152,59,male,Non Hispanic Black,36.3,0,0,0,0,180,60,5,3,2
+95153,23,female,Non Hispanic White,56.3,25,30,365,1,60,240,3,4,2
+95157,54,male,Non Hispanic Black,48.2,0,0,0,0,NA,14,5,3,2
+95165,39,female,Non Hispanic Black,42.2,50,30,1095,0,14,120,5,4,3
+95168,59,female,Non Hispanic Black,87.3,40,30,30,0,14,120,5,5,2
+95171,41,female,Non Hispanic White,77,25,30,365,1,240,180,3,4,2
+95174,25,female,Other,54.3,0,0,0,0,120,180,4,5,3
+95179,31,female,Non Hispanic White,50.7,0,0,0,0,20,120,4,5,3
+95181,39,male,Non Hispanic White,99.6,0,0,0,0,30,120,2,5,3
+95182,56,male,Other Hispanic,60.7,0,0,0,0,180,180,3,3,3
+95184,21,female,Non Hispanic White,80.5,0,0,0,0,240,240,2,4,3
+95186,28,female,Non Hispanic Asian,84.4,100,30,37,0,NA,45,3,3,5
+95190,28,female,Mexican American,36,0,0,0,0,60,180,1,2,2
+95191,54,female,Mexican American,58.9,0,0,0,0,180,240,5,3,3
+95197,34,male,Non Hispanic White,80.5,0,0,0,0,420,120,3,3,3
+95200,23,female,Mexican American,69.1,0,0,0,0,NA,90,3,4,3
+95202,23,female,Non Hispanic White,87.4,0,0,0,0,180,180,2,3,2
+95203,54,male,Non Hispanic Black,40.3,0,0,0,0,0,360,4,3,3
+95206,47,male,Non Hispanic Black,73.1,25,10,1825,0,60,45,3,3,2
+95210,44,female,Non Hispanic White,77.5,0,0,0,0,60,120,2,4,4
+95211,22,female,Mexican American,139,20,1,91,1,60,60,4,5,3
+95213,25,male,Mexican American,48.6,0,0,0,0,120,300,5,1,3
+95215,52,female,Non Hispanic White,39.4,0,0,0,0,14,60,5,4,5
+95216,50,male,Non Hispanic Asian,51.5,0,0,0,0,0,60,3,3,1
+95221,35,female,Other,85.8,0,0,0,0,180,180,4,3,3
+95227,22,male,Non Hispanic Asian,54.9,0,0,0,0,120,240,3,3,2
+95228,46,male,Non Hispanic White,78.9,0,0,0,0,120,180,4,4,2
+95231,32,male,Other,68.5,0,0,0,0,240,480,5,5,5
+95232,23,female,Non Hispanic Black,35.5,0,0,0,0,240,240,5,2,2
+95233,21,female,Mexican American,22.7,0,0,0,0,14,0,2,3,1
+95237,29,male,Non Hispanic White,55.6,0,0,0,0,120,190,4,5,3
+95239,23,female,Mexican American,51.3,0,0,0,0,300,0,3,4,2
+95242,58,female,Non Hispanic Black,101,75,30,1825,1,240,120,1,3,3
+95244,48,female,Non Hispanic Black,30.7,0,0,0,0,30,60,5,4,2
+95251,38,female,Non Hispanic White,103,3.13,4,365,1,60,180,2,3,3
+95255,24,female,Non Hispanic White,149,20,30,182,0,60,240,5,4,3
+95257,39,female,Non Hispanic Black,85,10,30,1460,1,0,0,5,1,3
+95260,26,male,Non Hispanic White,81,0,0,0,0,480,300,1,4,3
+95261,24,female,Other Hispanic,76.3,0,0,0,0,0,180,5,5,1
+95262,24,female,Other,45.4,0,0,0,0,60,60,4,3,2
+95265,46,female,Mexican American,60.5,0,0,0,0,NA,0,4,3,1
+95266,58,female,Non Hispanic White,103,0,0,0,0,NA,240,2,3,3
+95274,48,female,Non Hispanic White,21.2,0,0,0,0,0,60,3,5,3
+95275,41,female,Other,111,25,30,1095,1,14,30,3,4,3
+95276,33,male,Non Hispanic White,99.2,25,30,730,1,60,300,4,2,3
+95278,43,female,Other Hispanic,22.1,0,0,0,0,60,120,3,5,2
+95279,36,male,Non Hispanic Asian,44.5,0,0,0,0,360,120,5,3,2
+95280,42,female,Non Hispanic White,70.6,0,0,0,0,240,120,NA,NA,6
+95284,41,female,Other Hispanic,77.4,0,0,0,0,NA,60,5,5,1
+95287,56,female,Non Hispanic Asian,136,25.83,30,3650,1,0,15,NA,NA,6
+95288,34,male,Non Hispanic White,65.1,10,30,365,0,NA,60,5,4,3
+95289,56,female,Mexican American,53.1,0,0,0,0,0,0,3,3,2
+95296,40,male,Non Hispanic Asian,75.7,0,0,0,0,0,180,3,5,3
+95302,45,female,Mexican American,54.8,0,0,0,0,30,14,5,2,4
+95310,52,male,Mexican American,61.2,0,0,0,0,480,360,5,3,5
+95312,25,male,Non Hispanic Asian,25.7,0,0,0,0,20,30,3,1,2
+95313,54,female,Non Hispanic White,51.5,25,30,1460,0,0,240,2,1,3
+95316,43,male,Non Hispanic White,66.3,0,0,0,0,0,60,3,5,3
+95319,55,female,Mexican American,73.8,37.5,30,3650,1,0,0,1,3,2
+95323,21,male,Non Hispanic Asian,63.1,0,0,0,0,180,60,4,3,2
+95329,47,male,Non Hispanic Asian,64,0,0,0,0,120,120,2,3,4
+95333,39,male,Non Hispanic Black,52.8,0,0,0,0,480,240,5,3,2
+95342,31,female,Non Hispanic White,60.5,10,19,21,0,0,180,1,2,2
+95348,39,female,Other Hispanic,52.5,0,0,0,0,120,120,4,5,3
+95351,25,female,Non Hispanic Asian,43.6,10,20,91,0,30,180,4,4,3
+95352,50,female,Non Hispanic White,97.2,100,7,182,0,0,240,4,4,3
+95353,39,female,Mexican American,47.6,0,0,0,0,60,60,2,1,1
+95357,56,female,Non Hispanic Black,114,65,30,1825,1,NA,0,5,5,1
+95362,42,female,Mexican American,44.7,0,0,0,0,480,0,4,5,2
+95366,44,female,Mexican American,22.9,3.3,25,182,0,60,120,3,3,3
+95367,55,female,Mexican American,64,70,30,3650,1,120,360,3,3,3
+95374,27,male,Mexican American,18,0,0,0,0,60,60,5,5,2
+95375,56,male,Other,137,125,30,3650,1,NA,300,1,4,3
+95385,28,female,Non Hispanic Asian,58.8,0,0,0,0,0,60,3,2,2
+95389,20,male,Non Hispanic White,84.5,0,0,0,0,120,60,5,5,4
+95391,44,female,Mexican American,38.5,0,0,0,0,NA,60,3,1,4
+95392,21,male,Non Hispanic White,66.7,0,0,0,0,240,300,4,4,4
+95393,28,female,Non Hispanic Asian,50.5,0,0,0,0,60,180,1,4,3
+95394,47,male,Mexican American,58.8,0,0,0,0,300,240,5,3,3
+95402,28,male,Non Hispanic Black,115,25,5,730,1,0,14,5,3,4
+95403,49,female,Non Hispanic White,38.3,0,0,0,0,NA,60,5,2,5
+95405,53,male,Non Hispanic Asian,78.9,0,0,0,0,60,60,3,2,3
+95413,51,female,Non Hispanic White,122,10,28,365,1,0,240,4,4,2
+95414,27,male,Mexican American,48.9,0,0,0,0,480,180,3,2,3
+95415,36,female,Non Hispanic White,59.7,0,0,0,0,30,240,2,4,2
+95416,36,female,Non Hispanic Asian,78.6,0,0,0,0,60,180,3,5,3
+95418,59,male,Non Hispanic Black,96.4,80,30,213,1,360,120,5,3,3
+95422,39,female,Non Hispanic White,97.3,25,28,1460,1,120,240,2,5,4
+95423,33,female,Non Hispanic Asian,70.9,125,20,365,0,120,60,5,3,3
+95424,40,male,Non Hispanic White,85.8,0,0,0,0,60,300,2,4,4
+95425,22,male,Mexican American,17,0,0,0,0,0,120,5,5,4
+95436,43,female,Mexican American,88.6,0,0,0,0,0,0,1,5,4
+95437,23,male,Non Hispanic Asian,36.2,0,0,0,0,120,60,3,4,2
+95442,33,female,Non Hispanic White,47.9,0,0,0,0,0,30,4,4,4
+95444,37,female,Non Hispanic White,82.4,0,0,0,0,NA,360,3,3,5
+95445,24,female,Other Hispanic,34.4,0,0,0,0,120,180,5,5,4
+95446,42,male,Mexican American,56,0,0,0,0,0,0,4,2,2
+95449,55,male,Other Hispanic,84.7,125,30,730,1,60,240,4,3,4
+95450,38,male,Non Hispanic Black,46.7,17.5,30,30,0,180,300,5,5,3
+95452,38,male,Non Hispanic White,70.2,0,0,0,0,300,180,5,4,3
+95453,39,male,Mexican American,55.6,0,0,0,0,NA,180,1,1,4
+95455,47,male,Other Hispanic,59,0,0,0,0,300,180,5,3,2
+95465,56,female,Mexican American,61.2,20,5,182,0,240,60,5,1,5
+95466,52,male,Non Hispanic White,58.1,0,0,0,0,0,90,4,3,3
+95469,28,male,Non Hispanic White,93.7,50,28,365,0,0,180,2,5,3
+95472,34,male,Non Hispanic White,47.9,0,0,0,0,240,240,2,3,3
+95473,36,male,Non Hispanic White,64.5,0,0,0,0,120,480,5,5,5
+95474,34,female,Non Hispanic Black,24.1,0,0,0,0,240,60,5,4,3
+95479,57,female,Non Hispanic White,58.9,32.5,20,152,1,0,180,1,3,3
+95486,36,female,Non Hispanic Black,55.3,5,30,730,0,300,60,5,5,3
+95488,21,female,Non Hispanic White,66,10,30,91,1,60,120,4,4,3
+95493,25,male,Non Hispanic White,44.8,0,0,0,0,420,300,4,5,3
+95499,52,male,Non Hispanic Black,36.3,0,0,0,0,300,300,5,3,3
+95501,25,female,Non Hispanic White,57.1,0,0,0,0,0,120,4,4,2
+95503,52,male,Mexican American,34,0,0,0,0,240,300,5,3,2
+95505,29,male,Non Hispanic White,46.5,25,30,1095,0,60,120,3,3,4
+95506,48,male,Non Hispanic Asian,56.6,0,0,0,0,0,300,3,3,3
+95509,51,female,Non Hispanic White,68.7,25,30,91,1,60,60,4,4,3
+95510,51,female,Non Hispanic Asian,33.1,0,0,0,0,0,0,4,4,2
+95514,35,male,Mexican American,51.7,0,0,0,0,60,480,5,5,3
+95519,53,female,Non Hispanic White,137,125,30,730,1,120,30,2,2,2
+95522,22,female,Non Hispanic White,55.4,0,0,0,0,120,180,3,3,4
+95525,51,female,Non Hispanic Black,24.2,25,5,730,0,120,120,5,3,1
+95531,58,male,Non Hispanic White,65.4,1250,30,1095,1,120,120,3,3,2
+95535,46,male,Other,37.5,0,0,0,0,240,240,4,4,3
+95537,48,male,Non Hispanic Asian,35.8,0,0,0,0,30,60,5,3,3
+95542,56,female,Non Hispanic Black,27.8,0,0,0,0,60,120,4,5,2
+95543,28,female,Non Hispanic Asian,47.2,0,0,0,0,60,60,4,4,3
+95544,29,male,Non Hispanic White,51.5,0,0,0,0,0,60,3,5,4
+95547,57,male,Other,56,0,0,0,0,120,120,4,5,3
+95548,28,male,Non Hispanic White,63.7,0,0,0,0,60,120,5,4,3
+95549,53,female,Mexican American,49.2,0,0,0,0,360,240,3,3,3
+95551,57,female,Mexican American,41,25,6,10,0,480,0,5,2,3
+95556,41,male,Other Hispanic,26.6,25,6,1825,0,240,360,4,5,4
+95559,42,female,Non Hispanic White,63.6,0,0,0,0,180,300,5,5,5
+95563,46,female,Non Hispanic White,65.7,0,0,0,0,0,360,2,4,3
+95565,29,male,Non Hispanic Asian,29.1,0,0,0,0,120,240,3,3,3
+95568,34,female,Non Hispanic Asian,71.4,25,4,365,0,120,240,1,2,1
+95569,23,female,Non Hispanic Black,38,0,0,0,0,60,0,4,3,4
+95571,54,female,Non Hispanic White,102,50,25,1460,1,0,60,4,4,4
+95573,23,male,Non Hispanic White,74.6,0,0,0,0,480,480,5,5,4
+95574,36,female,Non Hispanic White,61.3,0,0,0,0,60,30,1,5,3
+95579,54,male,Non Hispanic Black,96.3,0,0,0,0,0,0,5,4,1
+95581,44,female,Non Hispanic Asian,65.9,0,0,0,0,NA,120,5,5,5
+95586,26,female,Non Hispanic Black,25.5,0,0,0,0,14,0,5,5,2
+95587,29,female,Non Hispanic White,75.6,50,20,730,0,30,60,1,5,2
+95591,36,female,Non Hispanic Asian,60.6,0,0,0,0,0,0,3,2,1
+95594,50,male,Non Hispanic Asian,70.3,25,25,182,1,30,120,2,2,3
+95595,43,female,Non Hispanic White,62.5,0,0,0,0,NA,120,4,4,3
+95598,22,male,Other Hispanic,46.2,0,0,0,0,30,300,5,3,1
+95599,47,male,Non Hispanic White,65.7,0,0,0,0,480,360,5,4,4
+95602,21,male,Mexican American,51.6,0,0,0,0,240,15,5,4,2
+95607,42,male,Non Hispanic White,75.8,0,0,0,0,60,300,3,5,5
+95609,22,female,Non Hispanic White,77.7,0,0,0,0,60,240,5,5,4
+95610,41,female,Other Hispanic,58.9,0,0,0,0,60,120,1,5,1
+95611,53,male,Other,56.8,0,0,0,0,NA,120,5,4,3
+95622,42,female,Non Hispanic White,59.5,0,0,0,0,0,300,5,4,5
+95625,43,male,Non Hispanic Asian,70.3,100,28,730,0,0,240,2,3,3
+95636,51,female,Other Hispanic,55.1,50,30,12410,1,14,240,1,4,2
+95639,31,male,Mexican American,70.9,10,15,243,1,0,180,4,4,3
+95641,50,female,Other,73.3,0,0,0,0,NA,120,5,5,4
+95643,20,male,Non Hispanic White,68.4,0,0,0,0,20,30,5,4,3
+95649,48,male,Non Hispanic Black,23.9,0,0,0,0,30,30,5,5,2
+95652,44,female,Mexican American,51.4,15,20,91,0,55,55,3,2,2
+95655,22,male,Non Hispanic White,42.5,0,0,0,0,120,60,4,3,3
+95657,31,male,Non Hispanic White,74.3,0,0,0,0,40,20,2,3,1
+95658,29,male,Non Hispanic White,67.5,0,0,0,0,120,60,3,3,3
+95662,44,female,Non Hispanic White,44.5,0,0,0,0,60,180,1,4,3
+95663,43,male,Mexican American,83.8,0,0,0,0,360,360,5,3,3
+95664,47,male,Non Hispanic White,123,0,0,0,0,480,120,5,3,4
+95665,23,male,Non Hispanic White,60.4,0,0,0,0,180,240,2,4,3
+95666,33,male,Non Hispanic White,56.1,0,0,0,0,120,300,4,3,3
+95669,56,female,Non Hispanic White,60.6,125,15,3650,0,60,120,3,4,2
+95674,49,male,Non Hispanic Black,120,0,0,0,0,120,180,5,5,1
+95676,53,male,Other Hispanic,46.8,0,0,0,0,0,180,4,5,4
+95678,34,male,Non Hispanic Black,85.8,62.5,12,91,0,120,120,4,4,3
+95680,45,female,Non Hispanic White,93.8,25,12,730,0,300,300,3,4,3
+95684,30,male,Non Hispanic White,44.5,26.7,5,182,1,14,300,3,3,2
+95685,30,male,Non Hispanic White,66.3,0,0,0,0,120,60,5,5,4
+95690,54,male,Non Hispanic Asian,66.4,0,0,0,0,0,0,5,5,3
+95694,50,female,Non Hispanic Asian,148,250,14,14,1,30,30,4,4,3
+95698,55,female,Non Hispanic Asian,76.4,0,0,0,0,0,0,5,3,3
+95699,22,female,Non Hispanic Black,37.9,0,0,0,0,180,300,5,5,4
+95700,59,female,Other Hispanic,75.6,0,0,0,0,0,120,3,5,1
+95703,24,female,Non Hispanic Black,46.8,0,0,0,0,60,60,5,5,2
+95704,50,male,Non Hispanic Asian,71.5,0,0,0,0,60,0,5,5,1
+95708,52,male,Non Hispanic White,82.9,0,0,0,0,14,360,3,4,3
+95711,54,male,Mexican American,109,10,15,61,1,360,360,3,3,3
+95716,38,female,Other Hispanic,64.6,0,0,0,0,NA,0,5,5,3
+95719,22,male,Non Hispanic White,58.8,0,0,0,0,30,30,3,4,3
+95720,59,female,Non Hispanic White,86.1,25,5,10950,1,60,120,1,4,3
+95722,38,male,Mexican American,68.4,0,0,0,0,420,30,5,3,4
+95726,32,female,Non Hispanic Black,99.5,10,30,426,1,120,120,4,3,4
+95727,52,male,Non Hispanic White,72.5,0,0,0,0,60,180,3,3,3
+95731,47,female,Non Hispanic Asian,75.1,25,30,365,1,120,0,4,5,4
+95736,58,male,Non Hispanic White,70.3,0,0,0,0,NA,120,5,4,1
+95738,49,female,Other,67.3,30,30,182,0,45,30,2,3,3
+95743,58,female,Mexican American,60.5,5,30,182,1,0,0,3,5,4
+95744,57,female,Non Hispanic Asian,99.7,70,20,5475,0,60,300,4,3,2
+95748,43,male,Non Hispanic Black,26.1,0,0,0,0,30,240,5,1,2
+95754,33,male,Non Hispanic White,45.7,0,0,0,0,360,120,4,3,4
+95756,26,male,Non Hispanic White,59.6,7.5,30,91,0,180,60,4,5,3
+95761,51,male,Other Hispanic,67.6,0,0,0,0,480,0,5,3,3
+95762,32,male,Non Hispanic Black,27,0,0,0,0,120,60,5,5,5
+95765,51,male,Mexican American,59.5,0,0,0,0,14,60,5,3,3
+95768,23,male,Other Hispanic,75,0,0,0,0,240,420,5,5,4
+95770,50,male,Non Hispanic Black,24.2,0,0,0,0,120,60,5,3,2
+95775,37,female,Non Hispanic Asian,61.4,0,0,0,0,30,30,4,4,3
+95778,35,female,Non Hispanic Black,29.7,0,0,0,0,0,0,5,5,5
+95785,51,male,Non Hispanic White,104,50,30,1095,1,210,180,5,5,3
+95787,27,male,Mexican American,38.6,0,0,0,0,240,0,5,5,3
+95788,28,female,Non Hispanic White,65,0,0,0,0,20,30,1,4,2
+95789,48,female,Non Hispanic White,62.2,0,0,0,0,0,60,5,5,3
+95791,33,male,Other Hispanic,67.1,0,0,0,0,240,0,5,3,5
+95792,23,male,Non Hispanic White,66.6,0,0,0,0,300,300,4,4,3
+95793,26,female,Mexican American,33.9,5,30,334,0,0,0,4,3,1
+95799,25,female,Non Hispanic White,99.2,0,0,0,0,120,300,3,3,3
+95803,38,male,Non Hispanic White,91.5,0,0,0,0,30,120,4,4,2
+95807,34,female,Non Hispanic White,71.2,25,10,1095,0,30,240,1,4,3
+95809,59,female,Other Hispanic,42.5,0,0,0,0,30,30,1,4,4
+95811,24,female,Mexican American,26.2,0,0,0,0,30,30,5,4,4
+95814,45,male,Non Hispanic Black,12.3,0,0,0,0,0,120,4,4,5
+95825,45,female,Non Hispanic White,53.6,0,0,0,0,0,180,1,5,1
+95835,48,female,Other Hispanic,77.1,1250,4,122,0,0,0,1,1,2
+95836,55,female,Non Hispanic White,50.1,25,20,365,0,120,180,1,3,3
+95839,44,male,Non Hispanic Black,35.3,0,0,0,0,180,480,5,5,1
+95841,27,male,Mexican American,49.4,0,0,0,0,60,60,4,3,3
+95848,52,female,Non Hispanic Asian,79,0,0,0,0,30,30,3,3,3
+95849,40,female,Other Hispanic,45,0,0,0,0,0,0,2,3,2
+95850,27,female,Non Hispanic Black,53.6,0,0,0,0,120,30,2,5,3
+95851,28,male,Mexican American,49,0,0,0,0,60,20,5,4,2
+95853,24,female,Other Hispanic,39,0,0,0,0,60,180,4,3,1
+95854,28,male,Non Hispanic White,51.5,0,0,0,0,30,120,3,5,3
+95858,32,male,Non Hispanic Asian,43.5,0,0,0,0,0,120,5,3,5
+95860,51,female,Non Hispanic White,40.7,0,0,0,0,0,0,5,1,4
+95865,47,female,Non Hispanic Black,72.8,0,0,0,0,180,0,5,3,2
+95867,34,female,Non Hispanic White,79.9,0,0,0,0,360,360,5,5,5
+95870,20,female,Non Hispanic Black,59.1,0,0,0,0,0,240,5,5,1
+95882,26,male,Non Hispanic Black,48,0,0,0,0,480,480,5,3,2
+95883,31,female,Mexican American,75.6,0,0,0,0,30,90,3,3,1
+95886,57,female,Non Hispanic Asian,85.5,0,0,0,0,NA,0,5,1,1
+95891,56,male,Non Hispanic White,21.2,0,0,0,0,NA,60,5,5,5
+95896,32,female,Non Hispanic Black,31.2,0,0,0,0,0,300,5,2,2
+95900,31,male,Non Hispanic White,49.5,0,0,0,0,30,30,3,5,3
+95903,21,male,Mexican American,25.3,25,8,182,1,0,120,5,3,5
+95904,53,female,Non Hispanic Asian,88.2,10,30,5475,1,0,180,1,3,3
+95910,50,male,Non Hispanic Asian,40.1,0,0,0,0,60,120,5,2,3
+95911,38,female,Mexican American,54.3,10,10,730,0,180,180,4,4,3
+95912,50,male,Non Hispanic White,77.4,0,0,0,0,60,300,4,4,3
+95914,47,female,Non Hispanic White,69.3,25,30,1825,1,30,60,2,5,3
+95915,57,male,Non Hispanic White,80.9,15,30,1825,1,240,480,3,4,4
+95919,47,male,Non Hispanic White,63,0,0,0,0,360,180,5,4,3
+95922,25,male,Non Hispanic White,71.2,0,0,0,0,480,300,4,3,4
+95928,56,female,Non Hispanic Asian,28.6,0,0,0,0,NA,30,1,3,1
+95944,54,male,Non Hispanic Asian,49.3,0,0,0,0,420,300,4,4,3
+95950,45,male,Non Hispanic White,89.1,0,0,0,0,360,480,4,4,4
+95951,24,male,Non Hispanic White,62.2,0,0,0,0,360,120,1,3,2
+95955,22,female,Non Hispanic White,34.6,0,0,0,0,0,120,5,3,3
+95962,32,male,Non Hispanic White,77.3,0,0,0,0,120,60,2,5,2
+95968,49,female,Non Hispanic Asian,62.5,0,0,0,0,20,30,1,5,2
+95969,48,male,Non Hispanic White,54.4,0,0,0,0,NA,60,4,4,4
+95973,21,female,Other Hispanic,91.7,0,0,0,0,120,180,3,3,2
+95977,26,female,Non Hispanic Black,23.6,0,0,0,0,180,420,5,5,4
+95978,57,male,Other,99,0,0,0,0,NA,NA,5,1,2
+95986,48,male,Non Hispanic Black,36.5,0,0,0,0,120,180,5,5,3
+95990,28,female,Non Hispanic White,50.2,10,25,182,0,30,30,1,5,3
+95991,43,male,Non Hispanic Asian,76.7,0,0,0,0,120,0,5,3,5
+95998,29,male,Mexican American,55.1,0,0,0,0,NA,0,5,3,2
+96000,29,male,Non Hispanic Black,19.4,0,0,0,0,0,0,5,5,1
+96002,34,female,Mexican American,45.4,60,30,122,0,NA,60,4,4,3
+96003,49,female,Mexican American,28.6,0,0,0,0,0,60,5,4,3
+96004,55,male,Non Hispanic White,92.2,0,0,0,0,480,240,4,3,5
+96008,52,male,Non Hispanic Black,93.6,0,0,0,0,420,420,5,5,3
+96011,32,female,Mexican American,133,1250,1,7,0,60,300,3,3,3
+96014,36,female,Non Hispanic Asian,41.3,0,0,0,0,60,120,1,3,2
+96022,56,male,Mexican American,30.5,0,0,0,0,480,180,5,3,4
+96025,40,male,Other,74.2,0,0,0,0,14,60,2,5,2
+96029,31,male,Non Hispanic Asian,41.9,0,0,0,0,0,120,4,4,2
+96030,59,male,Non Hispanic Black,30.5,0,0,0,0,NA,180,5,3,2
+96031,24,female,Other Hispanic,59.9,0,0,0,0,420,120,4,4,2
+96034,57,male,Non Hispanic White,77.9,0,0,0,0,120,120,3,3,4
+96035,20,female,Non Hispanic Asian,32.1,0,0,0,0,14,0,5,5,3
+96038,55,female,Non Hispanic Asian,102,45,8,2555,0,120,15,1,5,1
+96048,47,male,Other Hispanic,63.6,0,0,0,0,120,0,5,4,3
+96050,46,female,Non Hispanic White,67.1,0,0,0,0,60,180,3,5,5
+96056,20,male,Mexican American,38.5,5,30,61,1,240,360,5,3,2
+96063,27,female,Non Hispanic Asian,50.9,0,0,0,0,180,360,3,5,5
+96064,49,male,Non Hispanic Asian,55.4,0,0,0,0,20,60,3,4,2
+96066,52,male,Other,21.8,0,0,0,0,NA,14,5,4,2
+96067,42,female,Non Hispanic White,62.8,35,30,1460,1,NA,180,1,4,3
+96070,45,male,Non Hispanic Asian,75.5,0,0,0,0,30,30,3,3,3
+96074,34,female,Non Hispanic White,55.9,0,0,0,0,120,240,2,3,2
+96079,52,male,Mexican American,52.5,0,0,0,0,480,480,5,1,3
+96082,37,male,Non Hispanic White,50.7,10,30,365,1,60,60,3,4,3
+96084,34,female,Non Hispanic Black,40.9,10,30,30,1,60,60,5,5,2
+96085,25,male,Non Hispanic White,86.3,0,0,0,0,480,240,1,5,2
+96088,20,male,Non Hispanic Black,50.2,0,0,0,0,180,420,5,4,3
+96091,54,female,Other Hispanic,59.2,0,0,0,0,30,180,1,2,2
+96092,22,male,Other Hispanic,71,0,0,0,0,300,480,3,5,3
+96093,20,female,Non Hispanic White,76.2,15,25,182,1,NA,180,4,4,1
+96094,52,female,Non Hispanic Black,35.2,0,0,0,0,300,240,5,3,4
+96096,52,male,Non Hispanic White,83.2,20,20,730,0,360,240,4,4,4
+96097,58,male,Non Hispanic White,58.8,0,0,0,0,120,180,5,5,3
+96098,42,male,Mexican American,50.6,0,0,0,0,480,0,4,3,3
+96101,52,male,Non Hispanic Asian,76.2,15,30,9125,1,30,180,3,3,3
+96103,23,female,Non Hispanic Asian,57.7,0,0,0,0,60,60,3,4,2
+96105,24,female,Other Hispanic,43.9,0,0,0,0,120,300,5,5,1
+96108,47,female,Mexican American,49.1,10,15,30,1,180,180,1,5,4
+96111,31,female,Non Hispanic Black,32.7,3.75,30,122,0,60,60,4,3,2
+96116,54,female,Non Hispanic White,106,145,30,9490,1,NA,120,1,2,3
+96122,54,female,Non Hispanic Asian,114,100,30,730,0,0,60,1,1,1
+96123,35,female,Mexican American,66.1,23.75,30,274,0,180,300,2,4,3
+96124,52,female,Non Hispanic Asian,69.9,25,30,1460,1,120,120,5,3,3
+96125,28,female,Non Hispanic White,43,125,4,1095,0,60,60,3,3,4
+96133,32,male,Non Hispanic Black,14.9,0,0,0,0,180,300,5,3,5
+96137,48,female,Non Hispanic White,79.1,0,0,0,0,NA,120,4,4,4
+96138,34,male,Non Hispanic White,99.4,0,0,0,0,120,120,2,4,2
+96139,27,male,Other Hispanic,62,0,0,0,0,480,120,3,1,1
+96140,54,male,Other Hispanic,69.5,0,0,0,0,480,300,3,5,3
+96143,55,male,Non Hispanic Asian,39.8,0,0,0,0,30,30,3,3,3
+96147,31,male,Non Hispanic White,63.4,0,0,0,0,240,240,5,3,4
+96150,23,male,Non Hispanic White,37.3,0,0,0,0,240,120,3,4,3
+96151,57,male,Non Hispanic White,75.8,50,30,5475,1,60,180,1,5,4
+96156,46,male,Non Hispanic Asian,73.1,10,30,5475,1,15,120,1,4,4
+96158,26,male,Non Hispanic Black,53.8,0,0,0,0,120,240,4,3,3
+96160,58,female,Mexican American,145,50,30,1095,1,0,180,1,3,3
+96163,35,female,Non Hispanic Asian,28.5,0,0,0,0,120,180,3,3,3
+96175,39,male,Non Hispanic Black,26.4,80,30,365,0,360,180,5,4,3
+96186,45,male,Non Hispanic Black,38.7,5,30,730,1,90,90,5,3,2
+96188,55,female,Non Hispanic Black,67.5,0,0,0,0,60,300,4,3,3
+96189,50,male,Other,77.8,80,30,1825,1,60,60,5,4,2
+96190,54,male,Non Hispanic Asian,81,0,0,0,0,120,120,4,3,4
+96191,39,female,Mexican American,69.6,0,0,0,0,0,300,5,3,3
+96196,34,female,Non Hispanic White,85.1,0,0,0,0,NA,30,3,4,2
+96198,29,female,Non Hispanic Black,29.6,0,0,0,0,0,0,5,3,2
+96205,52,male,Non Hispanic Black,53.4,10,30,365,0,30,120,5,4,3
+96211,32,male,Non Hispanic White,59.2,20,8,365,0,20,20,3,5,3
+96216,56,female,Non Hispanic Black,29.5,0,0,0,0,60,60,4,4,4
+96219,41,female,Non Hispanic Black,21.1,0,0,0,0,14,180,5,5,1
+96222,40,female,Non Hispanic White,78.3,0,0,0,0,NA,30,5,3,3
+96224,59,female,Non Hispanic White,85.2,50,15,365,0,30,180,3,4,2
+96226,31,male,Non Hispanic Black,70.4,0,0,0,0,300,300,5,3,3
+96229,24,female,Non Hispanic White,43.9,0,0,0,0,300,0,3,2,3
+96234,40,male,Other,34.4,0,0,0,0,120,120,5,5,1
+96237,58,female,Non Hispanic White,114,6.67,30,61,0,0,0,5,5,3
+96240,42,female,Non Hispanic Asian,34.3,25,8,365,0,0,0,5,3,2
+96243,29,female,Non Hispanic White,90.4,0,0,0,0,20,60,1,5,1
+96244,38,female,Mexican American,83.9,1250,1,30,0,14,90,4,3,3
+96249,58,female,Mexican American,90.2,0,0,0,0,0,0,5,5,3
+96250,42,male,Non Hispanic White,50.4,0,0,0,0,120,0,2,5,3
+96253,47,female,Non Hispanic White,118,25,30,7300,1,60,120,4,3,3
+96257,32,female,Mexican American,78.2,25,30,91,1,60,120,3,4,3
+96264,45,female,Non Hispanic Black,109,10,30,2190,1,14,120,3,2,2
+96266,53,female,Non Hispanic Asian,51.2,0,0,0,0,60,120,5,3,1
+96269,33,female,Mexican American,34,0,0,0,0,300,360,4,3,2
+96270,25,male,Other Hispanic,67.5,0,0,0,0,180,60,5,4,3
+96272,29,male,Non Hispanic Asian,38.7,0,0,0,0,0,120,3,4,3
+96275,31,female,Non Hispanic White,127,0,0,0,0,0,360,2,4,3
+96276,49,male,Non Hispanic Black,27.4,0,0,0,0,60,15,4,5,4
+96279,54,female,Non Hispanic White,74.9,0,0,0,0,NA,120,5,5,3
+96282,49,male,Non Hispanic White,71.2,30,15,7300,1,0,300,3,4,3
+96283,46,male,Non Hispanic White,75.3,0,0,0,0,180,240,4,5,5
+96291,53,female,Non Hispanic Black,72.9,50,0,21,0,60,340,1,2,2
+96295,31,male,Non Hispanic White,60.4,0,0,0,0,480,120,1,3,2
+96297,32,female,Non Hispanic White,89.9,0,0,0,0,NA,120,4,5,3
+96299,29,male,Non Hispanic White,146,17.5,30,2190,0,180,480,5,5,4
+96301,54,male,Non Hispanic Black,41,0,0,0,0,120,240,5,3,4
+96308,53,male,Mexican American,73.6,25,30,30,1,480,0,5,3,1
+96310,54,male,Non Hispanic Asian,60.1,0,0,0,0,30,120,3,3,2
+96312,31,female,Non Hispanic White,76.9,0,0,0,0,NA,120,4,5,3
+96313,29,female,Non Hispanic Asian,88.9,10,30,91,1,30,30,5,3,2
+96320,46,male,Non Hispanic White,63.6,0,0,0,0,420,240,5,5,5
+96322,34,female,Non Hispanic Asian,49.2,0,0,0,0,NA,120,5,3,2
+96325,26,female,Other,65,60,30,2190,1,240,240,2,3,2
+96329,42,female,Mexican American,35.8,0,0,0,0,300,60,1,1,3
+96332,49,male,Non Hispanic White,71.2,0,0,0,0,240,420,5,4,3
+96337,20,male,Mexican American,37.9,0,0,0,0,120,240,5,4,4
+96340,49,male,Non Hispanic White,85.6,0,0,0,0,30,360,3,5,4
+96344,42,female,Mexican American,48.4,0,0,0,0,0,14,5,3,2
+96346,29,male,Non Hispanic Black,58.4,0,0,0,0,180,60,5,3,3
+96348,54,male,Other,65.7,0,0,0,0,0,480,5,3,4
+96355,20,female,Mexican American,69.8,0,0,0,0,60,0,3,1,2
+96358,48,female,Non Hispanic White,91.2,20,7,3650,1,30,30,3,5,2
+96365,39,female,Non Hispanic White,89.7,0,0,0,0,60,120,2,3,2
+96367,58,male,Non Hispanic Black,56.1,0,0,0,0,NA,NA,5,5,2
+96368,31,female,Other,57.6,25,30,365,0,60,60,4,2,2
+96372,50,male,Non Hispanic Asian,66.9,0,0,0,0,480,480,5,4,3
+96373,53,male,Non Hispanic Black,19.4,0,0,0,0,60,120,5,3,3
+96377,52,female,Non Hispanic Asian,81.7,0,0,0,0,60,60,2,1,3
+96379,21,female,Mexican American,42.3,0,0,0,0,120,120,1,2,3
+96380,43,male,Non Hispanic Black,42.3,0,0,0,0,0,120,5,4,2
+96382,29,male,Non Hispanic Black,28,0,0,0,0,360,240,5,4,3
+96385,59,female,Non Hispanic Black,102,0,0,0,0,NA,60,1,2,2
+96390,46,male,Mexican American,42.7,10,20,3650,1,60,60,2,4,2
+96392,28,female,Mexican American,39.4,0,0,0,0,120,60,3,2,3
+96396,38,male,Mexican American,49.2,0,0,0,0,60,0,4,1,3
+96398,32,male,Non Hispanic Black,91.8,17.5,30,2920,1,14,20,5,5,3
+96399,42,male,Other,46.6,0,0,0,0,30,120,3,4,3
+96400,32,male,Non Hispanic White,80.7,17.5,20,730,1,120,60,4,5,4
+96403,23,male,Mexican American,46.5,0,0,0,0,0,180,2,5,3
+96405,23,female,Other Hispanic,28.4,0,0,0,0,NA,120,5,5,4
+96408,44,female,Non Hispanic Black,29.5,25,8,122,0,60,60,3,4,2
+96415,36,male,Other Hispanic,47.1,0,0,0,0,60,120,2,4,3
+96416,42,female,Non Hispanic White,42.7,0,0,0,0,180,120,5,5,4
+96417,33,female,Non Hispanic Asian,54.3,0,0,0,0,60,60,3,2,3
+96428,37,female,Other,79.2,25,30,91,1,30,30,2,1,2
+96431,47,male,Mexican American,37.1,0,0,0,0,120,0,5,5,4
+96432,47,female,Other,60.9,25,30,730,1,0,60,2,4,2
+96433,35,female,Non Hispanic White,71.4,0,0,0,0,0,120,4,4,3
+96443,24,female,Non Hispanic White,65.8,0,0,0,0,30,120,2,5,2
+96444,21,female,Non Hispanic Asian,29.2,0,0,0,0,14,120,5,2,1
+96448,50,female,Mexican American,98.1,0,0,0,0,30,180,1,2,2
+96450,53,female,Non Hispanic White,134,150,30,3650,1,NA,60,4,4,1
+96452,38,male,Mexican American,51.8,0,0,0,0,300,0,3,3,3
+96453,24,female,Other Hispanic,47,0,0,0,0,480,480,5,5,4
+96455,34,male,Non Hispanic White,44.5,0,0,0,0,60,360,4,5,4
+96457,58,male,Mexican American,50.7,0,0,0,0,45,120,5,4,3
+96463,26,male,Mexican American,56.4,0,0,0,0,NA,180,5,3,3
+96465,41,female,Non Hispanic Asian,65.5,25,20,1825,0,NA,480,1,4,3
+96466,31,female,Non Hispanic Black,44.8,0,0,0,0,60,480,5,5,2
+96469,42,female,Mexican American,62.7,0,0,0,0,NA,360,1,5,2
+96470,47,male,Non Hispanic White,87,0,0,0,0,480,480,5,5,4
+96474,37,female,Non Hispanic Asian,26.1,0,0,0,0,30,0,2,2,1
+96475,51,male,Non Hispanic Black,37.6,0,0,0,0,0,120,5,3,3
+96476,37,female,Non Hispanic Black,15.8,0,0,0,0,30,120,2,3,3
+96479,56,female,Non Hispanic White,132,90,30,1825,0,0,360,1,4,3
+96481,29,male,Mexican American,19.8,0,0,0,0,120,240,4,2,2
+96483,49,female,Non Hispanic Black,65,25,18,61,1,120,60,4,5,4
+96484,27,male,Mexican American,39.3,0,0,0,0,0,60,5,4,3
+96485,21,female,Non Hispanic White,44.7,0,0,0,0,180,0,5,5,2
+96489,57,female,Mexican American,67.2,25,30,91,0,14,60,3,5,2
+96490,39,female,Non Hispanic Asian,58.5,0,0,0,0,0,0,2,3,3
+96491,53,female,Non Hispanic Asian,84.1,25,30,365,1,60,0,1,3,1
+96495,22,male,Non Hispanic Black,47.4,0,0,0,0,480,480,5,4,4
+96497,22,female,Non Hispanic White,130,10,30,152,1,30,60,3,4,3
+96500,24,male,Non Hispanic Asian,58.4,50,30,1825,1,180,180,5,2,3
+96501,50,male,Other Hispanic,35.7,0,0,0,0,NA,NA,5,3,3
+96505,40,female,Other,62.6,0,0,0,0,60,120,4,3,3
+96508,46,female,Mexican American,38.7,0,0,0,0,300,30,4,3,1
+96509,21,male,Mexican American,59.3,0,0,0,0,60,120,3,2,4
+96510,32,female,Non Hispanic White,80.2,5,20,1095,1,60,60,4,5,4
+96511,41,male,Non Hispanic Black,37.4,0,0,0,0,360,60,5,2,4
+96513,24,male,Non Hispanic White,70.4,0,0,0,0,60,120,3,3,2
+96517,54,female,Non Hispanic White,91.7,35,30,730,0,0,NA,4,2,2
+96519,33,female,Non Hispanic Black,79.5,125,7,7,1,0,300,5,5,2
+96522,52,female,Non Hispanic White,44.5,0,0,0,0,30,30,1,3,3
+96523,21,female,Other Hispanic,71.3,0,0,0,0,30,120,3,4,3
+96532,45,female,Non Hispanic White,106,0,0,0,0,60,180,5,5,3
+96534,48,female,Non Hispanic Black,23.7,0,0,0,0,120,240,5,5,3
+96538,51,female,Mexican American,88.8,0,0,0,0,0,0,3,1,2
+96543,46,female,Non Hispanic Black,34.6,0,0,0,0,0,60,5,3,4
+96547,44,female,Non Hispanic White,126,100,30,182,1,0,120,2,3,2
+96548,28,female,Mexican American,57.1,25,6,7,0,60,120,2,4,3
+96551,36,female,Other,77.7,0,0,0,0,60,120,3,4,3
+96552,43,male,Non Hispanic Black,29,0,0,0,0,60,90,5,2,2
+96553,58,male,Non Hispanic Asian,26.7,0,0,0,0,NA,30,4,4,2
+96554,31,male,Non Hispanic Black,9.96,0,0,0,0,0,0,5,5,3
+96555,46,male,Non Hispanic Black,55.6,0,0,0,0,60,120,5,4,4
+96557,38,male,Non Hispanic Black,22,0,0,0,0,480,480,5,4,2
+96558,29,male,Non Hispanic Black,28.3,0,0,0,0,120,120,5,5,3
+96561,53,male,Other,54.6,15,2,7300,0,180,240,3,3,3
+96566,23,male,Non Hispanic White,65,0,0,0,0,60,60,3,5,4
+96571,58,female,Mexican American,44.9,0,0,0,0,480,0,5,5,5
+96573,46,female,Non Hispanic White,97.2,0,0,0,0,30,180,3,4,2
+96574,39,female,Non Hispanic White,89.2,20,30,730,1,60,60,4,4,3
+96576,56,male,Non Hispanic White,133,25,25,730,1,240,240,4,4,4
+96578,54,male,Non Hispanic Black,67,17.5,30,730,1,0,180,4,3,3
+96580,27,male,Non Hispanic White,72.7,0,0,0,0,480,300,4,5,4
+96582,47,male,Non Hispanic Black,77.9,0,0,0,0,300,300,5,3,2
+96587,30,male,Non Hispanic Black,24.6,0,0,0,0,60,300,5,4,4
+96588,40,male,Non Hispanic Asian,53.2,0,0,0,0,180,120,3,3,1
+96590,27,female,Mexican American,22.4,25,30,30,0,60,180,4,3,1
+96593,30,male,Non Hispanic White,72.2,0,0,0,0,300,120,4,5,3
+96596,35,male,Mexican American,38,10,2,274,0,0,0,5,4,4
+96600,25,female,Non Hispanic Black,18.3,0,0,0,0,60,180,5,4,3
+96609,36,female,Non Hispanic Black,22.6,12.5,15,91,0,0,0,5,3,5
+96616,51,male,Non Hispanic Asian,80.4,0,0,0,0,180,120,5,4,4
+96618,36,female,Non Hispanic White,68,20,3,3,0,30,60,5,5,3
+96619,23,female,Non Hispanic White,76.9,0,0,0,0,NA,60,2,4,2
+96622,40,female,Non Hispanic Black,32.1,0,0,0,0,60,120,4,4,3
+96623,53,male,Mexican American,57.7,0,0,0,0,60,240,4,5,3
+96624,36,male,Non Hispanic Asian,26.8,0,0,0,0,30,300,3,5,4
+96625,26,male,Non Hispanic Asian,45.6,0,0,0,0,15,30,2,3,3
+96626,23,male,Non Hispanic Asian,51.2,0,0,0,0,60,60,5,4,3
+96628,32,male,Non Hispanic White,53.6,0,0,0,0,60,120,4,5,2
+96629,46,female,Non Hispanic Black,70.2,0,0,0,0,20,14,3,3,3
+96630,41,male,Other Hispanic,56.7,0,0,0,0,420,0,5,5,3
+96631,37,male,Other Hispanic,37.4,0,0,0,0,120,180,3,3,3
+96634,59,male,Mexican American,78.1,50,2,7,1,0,120,1,5,3
+96636,40,female,Mexican American,138,50,4,30,0,15,20,2,3,2
+96638,58,male,Non Hispanic White,85.4,0,0,0,0,60,360,3,5,3
+96641,35,male,Other,73,0,0,0,0,480,NA,5,3,4
+96646,44,male,Other Hispanic,85,42.5,30,30,1,480,240,3,5,3
+96649,51,male,Non Hispanic Black,42.7,0,0,0,0,480,120,5,4,4
+96651,49,female,Non Hispanic Black,29.7,0,0,0,0,120,360,5,3,3
+96656,24,male,Other Hispanic,62.8,0,0,0,0,480,60,5,1,1
+96657,26,male,Non Hispanic Asian,42.9,0,0,0,0,30,120,1,3,3
+96659,58,female,Non Hispanic White,120,25,30,2920,0,NA,60,1,4,4
+96661,24,female,Non Hispanic Asian,47.5,25,5,14,0,14,30,4,4,3
+96663,20,female,Non Hispanic White,102,0,0,0,0,120,180,2,4,3
+96666,52,male,Mexican American,34.9,0,0,0,0,0,60,5,5,3
+96669,55,female,Non Hispanic Asian,41.8,0,0,0,0,60,60,2,1,1
+96671,37,female,Non Hispanic Asian,89.6,25,30,365,0,14,60,2,2,2
+96672,32,male,Non Hispanic Asian,56.5,20,30,365,0,180,180,3,3,3
+96674,30,male,Other Hispanic,31.8,0,0,0,0,20,90,5,5,5
+96677,25,female,Non Hispanic White,50.7,0,0,0,0,0,0,2,5,2
+96679,30,female,Non Hispanic White,83.7,25,30,730,1,60,180,2,4,3
+96681,33,female,Other,60.7,0,0,0,0,0,180,4,5,2
+96683,41,female,Other Hispanic,93.1,43.75,30,730,1,30,30,1,4,2
+96688,58,male,Non Hispanic Black,111,50,0,2190,0,60,300,5,4,2
+96692,29,male,Other Hispanic,56.8,0,0,0,0,90,180,1,3,2
+96694,39,male,Non Hispanic White,85.3,0,0,0,0,300,180,5,5,4
+96695,25,female,Non Hispanic White,119,25,30,1825,1,60,120,1,5,3
+96697,25,male,Non Hispanic White,74.4,0,0,0,0,20,90,4,5,4
+96698,40,male,Non Hispanic White,65.2,0,0,0,0,120,180,3,3,2
+96699,59,female,Non Hispanic White,28.2,0,0,0,0,0,0,5,5,5
+96705,40,male,Non Hispanic White,82.9,50,30,182,0,60,360,1,5,4
+96706,40,male,Non Hispanic White,67.4,20,30,547,1,240,240,5,5,3
+96708,52,female,Non Hispanic White,91.7,45,30,1095,1,60,360,3,5,5
+96711,36,female,Mexican American,58.1,0,0,0,0,180,360,5,5,4
+96719,50,female,Non Hispanic Black,27.3,0,0,0,0,60,0,5,5,2
+96721,32,female,Mexican American,62.1,0,0,0,0,30,180,4,3,3
+96723,38,female,Non Hispanic White,72.8,0,0,0,0,0,120,5,5,4
+96725,33,female,Other Hispanic,63.1,0,0,0,0,0,300,3,4,5
+96730,53,female,Other Hispanic,32.4,0,0,0,0,0,0,5,1,1
+96731,41,male,Non Hispanic Black,23,0,0,0,0,300,480,5,5,5
+96732,57,male,Non Hispanic White,170,50,28,213,0,180,480,4,5,4
+96737,34,female,Non Hispanic Asian,33.4,0,0,0,0,30,0,1,2,1
+96740,27,male,Non Hispanic Asian,27.5,0,0,0,0,60,180,4,4,2
+96743,33,male,Non Hispanic White,60.9,0,0,0,0,60,240,5,5,4
+96744,33,male,Mexican American,40.1,0,0,0,0,300,120,5,3,4
+96745,52,female,Non Hispanic Black,91.5,50,4,91,0,180,300,4,5,4
+96748,37,female,Mexican American,69.4,0,0,0,0,90,60,2,2,3
+96750,53,female,Non Hispanic White,34.2,0,0,0,0,NA,120,5,4,3
+96752,54,female,Mexican American,52.7,20,30,91,0,0,180,4,2,1
+96756,23,female,Non Hispanic White,98.4,0,0,0,0,NA,60,4,5,3
+96758,47,male,Non Hispanic Black,39.7,0,0,0,0,0,60,5,4,3
+96760,48,male,Non Hispanic White,98.4,125,30,1095,1,120,240,4,5,5
+96764,27,male,Non Hispanic Asian,42.8,0,0,0,0,0,120,3,3,2
+96766,52,female,Non Hispanic Black,23.3,0,0,0,0,NA,40,5,1,1
+96768,56,female,Other Hispanic,38.2,0,0,0,0,180,120,5,5,4
+96774,28,female,Non Hispanic Asian,47.6,10,10,152,0,30,30,1,5,2
+96783,58,female,Other Hispanic,72.2,50,30,243,1,0,30,1,1,1
+96788,29,female,Non Hispanic Black,26.2,25,15,182,0,30,15,4,4,2
+96790,34,male,Mexican American,81.7,25,30,1095,0,NA,120,5,3,3
+96793,54,male,Non Hispanic Black,18.1,0,0,0,0,120,180,5,3,3
+96795,22,male,Non Hispanic White,64.3,0,0,0,0,30,60,4,2,3
+96800,53,male,Non Hispanic Black,62.9,0,0,0,0,60,120,5,3,3
+96810,39,female,Non Hispanic Asian,31.5,8.33,15,61,0,300,60,2,4,3
+96813,30,male,Non Hispanic Asian,28.2,0,0,0,0,360,360,2,3,2
+96818,49,male,Non Hispanic Black,25.6,0,0,0,0,360,300,4,3,2
+96820,47,male,Non Hispanic White,82.3,0,0,0,0,60,180,4,2,2
+96821,21,male,Non Hispanic Asian,56.7,20,4,730,0,300,300,2,3,4
+96826,29,male,Non Hispanic Asian,49.7,25,15,61,0,300,480,5,4,3
+96829,38,female,Non Hispanic White,65.7,0,0,0,0,180,240,1,5,3
+96833,34,female,Non Hispanic Black,21,0,0,0,0,NA,0,5,3,4
+96836,59,female,Non Hispanic Black,80,375,30,243,1,20,0,5,2,1
+96838,32,female,Non Hispanic Asian,34,0,0,0,0,60,60,3,2,2
+96839,22,female,Other,30.3,0,0,0,0,180,180,3,4,3
+96844,55,male,Non Hispanic Asian,140,67.5,0,243,0,0,60,5,2,5
+96847,44,female,Non Hispanic Black,21,0,0,0,0,0,60,5,5,4
+96848,56,female,Non Hispanic Black,28.5,0,0,0,0,NA,0,5,5,2
+96852,35,male,Mexican American,35.3,0,0,0,0,480,120,4,5,4
+96860,22,female,Non Hispanic White,75.1,0,0,0,0,120,300,3,4,4
+96862,51,female,Non Hispanic White,65.4,0,0,0,0,0,60,4,5,3
+96863,56,male,Non Hispanic White,75.7,25,30,1825,1,14,240,3,5,3
+96865,28,female,Non Hispanic Black,55.1,0,0,0,0,30,60,1,3,3
+96869,49,male,Non Hispanic Black,34,110,12,730,0,60,300,4,4,2
+96874,55,female,Mexican American,55.6,0,0,0,0,60,120,4,4,2
+96875,56,female,Non Hispanic Black,59.4,1250,5,365,0,20,300,2,3,3
+96879,25,female,Non Hispanic White,92,10,30,152,1,15,60,2,4,3
+96882,44,female,Non Hispanic Asian,47.3,0,0,0,0,60,60,5,5,5
+96884,55,female,Non Hispanic Asian,158,0,0,0,0,0,360,5,5,2
+96885,24,male,Mexican American,31.5,0,0,0,0,480,300,4,2,3
+96887,57,female,Non Hispanic White,168,250,7,1825,1,45,60,3,3,4
+96890,20,male,Non Hispanic Black,39.4,0,0,0,0,240,60,5,4,3
+96891,41,male,Non Hispanic Black,21.6,25,15,1825,0,120,180,5,5,5
+96893,42,male,Other Hispanic,37.7,0,0,0,0,0,360,5,3,4
+96894,48,male,Other Hispanic,66.7,25,14,14,1,120,120,5,5,3
+96898,56,male,Other Hispanic,44.9,0,0,0,0,0,300,5,5,5
+96899,21,male,Non Hispanic Black,67.8,35,20,30,0,NA,0,5,2,3
+96900,24,male,Other Hispanic,25.4,0,0,0,0,30,0,4,4,5
+96901,33,female,Mexican American,61.6,0,0,0,0,30,30,4,3,2
+96907,35,female,Non Hispanic White,63.7,0,0,0,0,60,180,3,5,4
+96912,50,male,Non Hispanic Black,51.2,25,14,14,1,120,180,5,3,2
+96913,25,female,Non Hispanic Asian,60.4,0,0,0,0,30,30,1,5,4
+96915,49,male,Non Hispanic White,80.6,10,4,14,1,240,120,4,3,3
+96921,57,male,Non Hispanic White,62.2,0,0,0,0,30,120,3,4,3
+96922,57,male,Non Hispanic White,101,32.5,30,5475,1,300,240,4,3,4
+96925,27,male,Other Hispanic,59.6,0,0,0,0,480,480,4,5,3
+96926,59,male,Non Hispanic White,66.2,12.5,5,730,1,240,480,2,4,3
+96933,59,male,Non Hispanic White,87.9,25,30,365,1,0,0,4,1,2
+96934,55,female,Non Hispanic Black,18,0,0,0,0,NA,120,5,1,3
+96935,41,male,Non Hispanic White,51.4,0,0,0,0,NA,0,3,5,1
+96939,32,female,Non Hispanic White,60.5,0,0,0,0,480,360,5,5,4
+96940,59,female,Non Hispanic White,98,25,25,3650,1,0,14,3,2,2
+96941,39,female,Non Hispanic Black,51.7,0,0,0,0,60,60,2,5,1
+96951,36,female,Non Hispanic White,76.3,0,0,0,0,180,300,3,5,3
+96954,55,male,Mexican American,63.4,0,0,0,0,60,60,3,1,5
+96958,24,female,Non Hispanic Black,41.9,10,30,365,0,300,300,5,5,2
+96959,33,male,Non Hispanic Asian,22.7,0,0,0,0,14,60,5,3,3
+96960,47,female,Non Hispanic Black,22.9,0,0,0,0,45,20,5,5,1
+96965,52,male,Other Hispanic,88.8,0,0,0,0,NA,0,5,1,2
+96966,25,female,Non Hispanic White,90.3,2.5,10,61,0,120,300,3,5,3
+96967,21,female,Non Hispanic Asian,31.7,0,0,0,0,14,180,3,5,2
+96969,38,male,Mexican American,45.6,0,0,0,0,60,60,4,2,4
+96970,49,female,Non Hispanic Asian,69.3,25,30,30,0,60,60,5,3,3
+96979,34,female,Other Hispanic,60.4,6.67,4,122,0,60,60,1,5,2
+96984,38,female,Non Hispanic Black,90.9,50,30,3650,0,30,120,5,4,2
+96990,30,male,Other Hispanic,56.3,0,0,0,0,480,60,3,3,3
+96992,28,male,Non Hispanic Black,55.5,0,0,0,0,360,50,2,3,3
+96993,52,male,Non Hispanic White,64.8,0,0,0,0,30,30,4,4,2
+96996,38,female,Other Hispanic,54.8,20,8,730,0,NA,120,3,5,3
+97000,33,male,Non Hispanic Asian,48.5,0,0,0,0,300,300,3,2,3
+97003,20,male,Non Hispanic White,85.2,0,0,0,0,120,360,5,3,3
+97011,26,female,Non Hispanic White,54.9,0,0,0,0,180,120,5,3,4
+97013,50,male,Mexican American,79.9,50,30,182,1,120,60,5,4,2
+97018,27,male,Non Hispanic Black,43.7,0,0,0,0,120,300,5,3,4
+97021,27,male,Non Hispanic White,69.3,0,0,0,0,120,300,4,3,3
+97022,46,male,Other Hispanic,23.7,0,0,0,0,0,60,3,5,3
+97024,55,female,Non Hispanic White,58.6,0,0,0,0,60,60,5,5,4
+97025,36,female,Mexican American,73.4,0,0,0,0,120,0,5,3,5
+97027,26,female,Non Hispanic Asian,52.1,0,0,0,0,30,60,3,2,2
+97029,55,male,Non Hispanic Asian,31.2,0,0,0,0,0,240,5,5,4
+97030,57,female,Other Hispanic,58.4,20,30,365,1,60,120,2,1,1
+97032,50,male,Non Hispanic White,37,0,0,0,0,120,180,4,4,4
+97034,31,female,Non Hispanic White,78.7,0,0,0,0,30,120,4,5,4
+97035,36,female,Non Hispanic Black,39.8,0,0,0,0,NA,30,5,4,2
+97036,28,female,Non Hispanic Black,45.8,0,0,0,0,15,30,3,5,4
+97040,58,female,Non Hispanic Black,138,125,30,1460,1,NA,120,3,2,2
+97041,26,female,Non Hispanic Black,46.8,0,0,0,0,60,30,5,5,3
+97042,33,female,Non Hispanic White,94,0,0,0,0,30,60,2,5,3
+97044,30,female,Non Hispanic Asian,53.2,0,0,0,0,NA,120,3,3,2
+97048,34,female,Non Hispanic Black,25.1,0,0,0,0,60,120,5,2,3
+97049,52,male,Non Hispanic Asian,126,145,30,30,0,30,120,5,2,3
+97054,40,male,Non Hispanic White,76.2,25,30,730,0,480,480,5,5,4
+97055,53,male,Mexican American,80.7,0,0,0,0,0,60,4,5,5
+97057,26,female,Non Hispanic Asian,89.7,25,30,1095,1,30,60,4,3,2
+97059,44,male,Non Hispanic Black,22.7,0,0,0,0,180,240,3,2,2
+97060,20,male,Non Hispanic Black,65.3,0,0,0,0,300,300,4,3,3
+97063,51,male,Non Hispanic Black,82.5,50,30,730,1,0,300,5,2,2
+97064,24,male,Mexican American,28.5,0,0,0,0,240,120,2,4,4
+97065,42,male,Non Hispanic Black,34.5,0,0,0,0,60,0,5,5,3
+97067,59,male,Non Hispanic Asian,65.9,12.5,30,1095,1,0,60,3,3,2
+97071,31,female,Non Hispanic Black,54.7,125,30,182,0,120,120,5,5,2
+97077,52,female,Non Hispanic Black,40.2,25,30,1095,0,0,60,5,4,3
+97078,28,female,Non Hispanic Black,58.2,0,0,0,0,30,60,5,5,3
+97092,31,female,Non Hispanic Black,84.7,70,0,1095,1,120,240,2,5,2
+97093,35,female,Non Hispanic Black,38.7,0,0,0,0,60,60,5,3,2
+97094,30,female,Non Hispanic Asian,36,0,0,0,0,0,120,3,4,3
+97095,44,female,Other,80.8,50,30,91,1,14,0,5,5,2
+97097,53,male,Mexican American,82.5,0,0,0,0,30,240,5,5,4
+97100,22,female,Non Hispanic White,102,0,0,0,0,120,180,4,5,5
+97103,31,female,Other Hispanic,34.2,0,0,0,0,40,180,2,5,3
+97104,38,male,Mexican American,50.1,0,0,0,0,240,120,4,3,2
+97105,56,male,Other,64.5,17.5,30,182,1,360,360,5,5,3
+97106,20,female,Non Hispanic White,123,0,0,0,0,60,120,1,5,3
+97108,51,male,Non Hispanic Asian,107,125,30,1460,1,240,240,3,1,3
+97111,43,male,Non Hispanic Asian,32.3,0,0,0,0,20,120,3,2,2
+97116,23,female,Mexican American,24.6,0,0,0,0,30,30,3,3,2
+97121,44,female,Other,98.4,25,30,7300,1,120,300,2,3,3
+97122,29,female,Non Hispanic Black,35.9,0,0,0,0,60,240,5,5,2
+97123,45,female,Non Hispanic Asian,93.6,0,0,0,0,120,120,2,3,3
+97125,57,male,Non Hispanic Black,51.4,0,0,0,0,180,180,5,2,3
+97128,29,female,Mexican American,46.3,0,0,0,0,20,0,3,2,1
+97129,40,female,Non Hispanic Asian,58.4,0,0,0,0,30,90,1,3,2
+97131,53,female,Non Hispanic Black,162,50,0,91,0,60,120,5,3,2
+97137,39,female,Non Hispanic Black,39.3,0,0,0,0,NA,14,5,5,3
+97138,47,female,Non Hispanic White,78,0,0,0,0,120,180,2,2,3
+97139,29,male,Mexican American,51.7,0,0,0,0,240,120,5,3,3
+97140,43,female,Mexican American,26.2,0,0,0,0,NA,60,3,2,3
+97142,44,female,Mexican American,33.6,0,0,0,0,480,120,3,1,4
+97145,46,female,Non Hispanic White,31.9,10,28,3650,0,0,120,1,4,2
+97147,37,female,Other Hispanic,56.8,0,0,0,0,0,360,5,3,3
+97150,58,male,Non Hispanic Black,24.2,10,3,3650,1,0,180,5,3,3
+97152,45,female,Non Hispanic White,57.6,25,30,30,0,0,180,1,5,3
+97153,30,male,Non Hispanic White,79.2,50,0,30,0,420,240,3,4,4
+97155,52,male,Non Hispanic White,72.8,0,0,0,0,300,120,4,3,4
+97156,45,female,Non Hispanic Asian,76,512.5,4,1095,0,0,120,3,3,2
+97157,23,male,Mexican American,52.9,0,0,0,0,300,420,5,3,4
+97163,55,male,Non Hispanic Asian,41.9,0,0,0,0,0,120,5,3,1
+97166,40,female,Mexican American,46.5,0,0,0,0,60,180,1,5,1
+97168,54,male,Non Hispanic White,62.2,17.5,30,30,1,45,300,5,5,5
+97174,26,female,Other,33.3,10,7,61,0,0,120,1,3,2
+97176,58,female,Other Hispanic,23.9,0,0,0,0,NA,60,1,5,3
+97177,41,male,Mexican American,66.7,0,0,0,0,360,480,3,5,4
+97178,55,female,Non Hispanic Black,68.7,35,30,730,1,NA,120,3,3,4
+97183,27,female,Other Hispanic,85.9,152.5,20,1825,0,60,120,2,4,4
+97186,46,male,Non Hispanic Asian,115,100,30,3650,1,120,120,4,5,3
+97191,44,female,Mexican American,63.7,0,0,0,0,20,NA,3,4,2
+97193,28,male,Mexican American,36.1,0,0,0,0,0,120,4,5,3
+97200,56,male,Non Hispanic Black,54.2,0,0,0,0,240,360,5,4,3
+97208,30,male,Other,45,25,9,61,0,120,120,5,3,2
+97210,47,male,Mexican American,52.9,0,0,0,0,480,180,5,1,5
+97211,54,female,Mexican American,92.7,10,30,91,0,NA,60,5,2,3
+97217,29,female,Non Hispanic Black,28.8,9.98,7,61,0,180,180,5,1,2
+97222,53,female,Non Hispanic Black,57.1,0,0,0,0,NA,0,5,5,4
+97223,26,male,Non Hispanic Black,98,0,0,0,0,60,120,5,3,2
+97228,49,male,Non Hispanic White,60,0,0,0,0,NA,180,3,4,3
+97231,27,female,Non Hispanic Asian,56.9,0,0,0,0,0,60,4,3,3
+97234,32,female,Other,43.6,0,0,0,0,180,180,5,5,3
+97235,35,female,Non Hispanic White,91.7,0,0,0,0,NA,420,1,5,3
+97236,45,male,Non Hispanic Asian,190,125,30,304,1,0,90,2,4,3
+97245,39,male,Non Hispanic White,78,0,0,0,0,120,120,5,5,3
+97247,45,male,Mexican American,84.6,0,0,0,0,180,300,4,2,2
+97249,20,female,Non Hispanic Black,52.7,0,0,0,0,60,360,4,4,3
+97250,32,male,Non Hispanic White,70.8,20,20,30,1,60,60,3,4,4
+97251,41,male,Non Hispanic Black,43.5,25,2,61,0,120,0,5,3,2
+97253,57,female,Non Hispanic Black,27.3,0,0,0,0,30,30,5,5,2
+97255,29,male,Non Hispanic Black,25.7,0,0,0,0,0,0,5,5,3
+97256,57,male,Non Hispanic White,28.7,25,4,7,0,NA,30,5,5,3
+97257,26,female,Mexican American,33.1,0,0,0,0,60,60,5,3,3
+97259,57,male,Non Hispanic Black,16,0,0,0,0,120,120,5,5,5
+97260,45,female,Other Hispanic,72.6,0,0,0,0,14,0,4,5,5
+97263,41,female,Non Hispanic Asian,78.5,40,30,4015,0,NA,180,1,4,2
+97266,43,male,Other,71.8,0,0,0,0,180,180,5,4,5
+97270,36,female,Non Hispanic Black,61.4,0,0,0,0,120,360,5,3,4
+97275,39,female,Non Hispanic Black,62,0,0,0,0,120,120,5,4,2
+97277,47,male,Mexican American,41,0,0,0,0,480,300,5,4,4
+97278,27,female,Non Hispanic Black,22.9,0,0,0,0,180,0,5,4,3
+97280,48,male,Mexican American,20.6,0,0,0,0,180,180,4,3,4
+97284,52,female,Non Hispanic White,146,100,30,1095,1,NA,60,3,3,3
+97289,48,female,Non Hispanic White,79.6,0,0,0,0,60,120,1,3,3
+97293,27,female,Mexican American,56.1,0,0,0,0,0,240,5,4,2
+97299,59,male,Non Hispanic White,60.9,25,30,3650,0,30,120,3,4,3
+97304,26,female,Mexican American,32.5,50,8,182,0,60,60,5,4,2
+97306,20,female,Mexican American,63.1,0,0,0,0,120,180,1,3,2
+97308,51,female,Non Hispanic White,40.1,0,0,0,0,90,0,4,5,4
+97316,27,male,Mexican American,62.5,0,0,0,0,0,30,5,4,1
+97319,32,male,Non Hispanic White,77.6,0,0,0,0,15,120,5,5,4
+97321,37,male,Non Hispanic Asian,28,0,0,0,0,15,30,2,3,3
+97322,32,female,Non Hispanic Black,83.4,25,15,90,1,120,300,2,5,2
+97325,27,female,Mexican American,40.7,0,0,0,0,360,240,5,3,3
+97333,48,female,Non Hispanic Asian,55.9,26.67,30,365,0,NA,0,1,2,1
+97336,58,female,Non Hispanic Asian,51.8,0,0,0,0,0,0,1,1,2
+97338,37,female,Other,42.6,0,0,0,0,NA,60,5,3,4
+97343,57,female,Non Hispanic White,88.1,0,0,0,0,14,60,3,4,2
+97349,31,female,Non Hispanic Asian,30.2,0,0,0,0,0,60,3,4,2
+97352,45,male,Non Hispanic White,67.7,0,0,0,0,120,240,4,3,4
+97354,31,female,Other Hispanic,43.5,0,0,0,0,0,180,5,5,3
+97356,29,female,Mexican American,18.3,0,0,0,0,30,30,3,3,2
+97361,54,male,Other,48.1,10,30,3650,1,240,240,5,1,3
+97362,22,male,Non Hispanic White,54.9,0,0,0,0,14,240,3,2,3
+97364,33,female,Non Hispanic Asian,47,0,0,0,0,0,60,NA,NA,6
+97365,49,female,Non Hispanic White,78.7,0,0,0,0,0,60,4,3,2
+97371,57,female,Non Hispanic White,91.6,12.5,30,7300,1,30,60,2,3,2
+97373,41,female,Non Hispanic White,56.6,0,0,0,0,60,60,2,3,2
+97379,38,male,Other Hispanic,51.4,0,0,0,0,0,0,2,3,3
+97380,22,male,Non Hispanic Asian,41.7,0,0,0,0,14,0,5,5,1
+97382,36,male,Non Hispanic Asian,53.7,0,0,0,0,20,0,3,2,2
+97383,54,male,Non Hispanic White,127,110,20,730,1,0,240,2,5,5
+97384,31,male,Mexican American,69,33.3,22,1825,0,480,360,4,2,4
+97396,47,male,Non Hispanic Black,42.6,0,0,0,0,0,180,5,5,5
+97402,23,female,Non Hispanic Asian,66.9,0,0,0,0,60,60,3,5,3
+97407,55,male,Non Hispanic Black,37.7,5,20,5475,1,NA,NA,NA,NA,NA
+97409,32,male,Non Hispanic Asian,46.2,10,20,30,0,60,60,4,5,3
+97410,46,female,Mexican American,56.2,0,0,0,0,180,120,1,1,3
+97415,54,male,Non Hispanic Asian,49.9,0,0,0,0,30,30,2,3,1
+97418,47,female,Non Hispanic White,67.5,0,0,0,0,60,180,2,5,4
+97419,55,female,Non Hispanic Asian,56.2,0,0,0,0,0,180,5,3,3
+97420,51,male,Other Hispanic,94.9,25,20,1825,0,0,60,3,3,3
+97423,32,female,Other Hispanic,34.9,0,0,0,0,0,240,5,5,1
+97424,38,female,Non Hispanic White,43.9,0,0,0,0,NA,120,4,5,1
+97429,51,male,Non Hispanic White,81.1,0,0,0,0,180,180,5,1,2
+97430,32,male,Mexican American,57.2,0,0,0,0,14,30,4,4,4
+97436,45,male,Non Hispanic Asian,41.9,0,0,0,0,180,120,3,2,2
+97437,48,male,Non Hispanic Asian,63.5,0,0,0,0,30,240,3,2,2
+97443,56,female,Non Hispanic White,82,10,20,30,1,NA,60,2,5,2
+97444,58,male,Mexican American,106,32.5,25,3650,1,360,360,4,3,3
+97445,51,male,Non Hispanic Black,40.8,0,0,0,0,30,60,5,5,3
+97446,52,male,Mexican American,75.7,0,0,0,0,300,120,3,3,3
+97449,37,female,Other,29.1,0,0,0,0,30,120,2,5,2
+97450,27,female,Non Hispanic Black,27.9,0,0,0,0,0,120,4,5,2
+97451,34,female,Other Hispanic,49.1,0,0,0,0,NA,120,1,3,2
+97452,47,female,Non Hispanic Asian,36.7,5,30,365,0,120,240,1,2,2
+97456,38,female,Non Hispanic Black,75.1,15,30,1095,1,20,30,3,5,3
+97458,35,female,Non Hispanic White,44.5,10.03,30,547,1,180,180,2,4,3
+97462,50,male,Other Hispanic,62.5,10,15,152,0,60,240,2,5,3
+97463,34,female,Non Hispanic Asian,75.3,0,0,0,0,NA,240,3,5,4
+97464,55,male,Non Hispanic White,52.4,0,0,0,0,60,20,5,5,2
+97465,38,male,Mexican American,78,25,2,2,0,180,0,5,4,4
+97468,46,male,Non Hispanic White,69.4,17.5,30,61,0,480,0,5,3,4
+97469,28,female,Non Hispanic Black,44.4,25,30,30,0,120,120,5,5,2
+97472,57,male,Non Hispanic Asian,75.3,25,10,10,0,0,0,5,2,2
+97473,53,male,Non Hispanic Asian,78.1,0,0,0,0,30,60,1,2,1
+97474,20,male,Non Hispanic White,31.8,0,0,0,0,120,60,4,5,2
+97478,47,female,Mexican American,63.2,20,15,365,0,15,300,3,4,2
+97484,56,male,Non Hispanic Black,32.8,0,0,0,0,60,180,5,5,1
+97485,33,female,Non Hispanic White,56.7,10,30,547,1,NA,120,1,2,2
+97487,53,female,Non Hispanic Asian,61.1,0,0,0,0,15,120,3,4,3
+97492,45,male,Non Hispanic White,63.5,0,0,0,0,60,300,5,5,5
+97495,43,female,Non Hispanic Black,20.2,0,0,0,0,60,0,5,4,3
+97497,24,male,Non Hispanic Black,14.8,0,0,0,0,60,30,5,1,5
+97501,54,female,Other Hispanic,74.6,0,0,0,0,NA,NA,2,3,2
+97507,20,female,Other Hispanic,50.2,0,0,0,0,120,45,4,3,3
+97509,47,female,Non Hispanic White,93.4,25,30,365,1,60,180,3,4,4
+97513,54,male,Non Hispanic Black,29.5,0,0,0,0,NA,30,NA,NA,6
+97520,57,female,Non Hispanic Black,21.7,0,0,0,0,0,300,5,5,3
+97521,53,male,Mexican American,62.7,15,30,7300,1,300,240,5,5,3
+97522,20,female,Mexican American,58,0,0,0,0,60,60,3,5,3
+97524,44,female,Non Hispanic White,44.6,0,0,0,0,0,240,2,3,1
+97532,28,male,Non Hispanic Black,30.4,0,0,0,0,180,300,4,5,3
+97533,30,male,Non Hispanic Asian,76,0,0,0,0,15,120,3,3,3
+97537,39,female,Other Hispanic,39.8,0,0,0,0,0,180,5,5,5
+97538,54,female,Other Hispanic,63.2,0,0,0,0,30,60,4,2,2
+97539,41,male,Non Hispanic White,53.1,25,30,730,1,0,120,3,4,2
+97541,38,male,Non Hispanic Black,25.6,0,0,0,0,NA,240,5,4,1
+97548,50,female,Other,46.5,0,0,0,0,14,14,1,5,1
+97550,47,female,Non Hispanic White,76.2,0,0,0,0,0,120,3,3,3
+97554,49,male,Non Hispanic White,19.2,25,1,16790,0,NA,14,5,4,2
+97555,48,female,Mexican American,18.7,0,0,0,0,60,60,5,3,2
+97558,56,female,Non Hispanic White,139,90,29,1825,1,NA,60,5,5,4
+97560,55,male,Mexican American,81.9,50,3,7,1,360,180,4,2,3
+97561,46,male,Non Hispanic Black,70.8,25,10,1825,0,14,120,5,4,3
+97568,41,male,Other Hispanic,27.8,0,0,0,0,60,120,4,2,2
+97569,42,male,Non Hispanic Black,78.8,50,30,1095,1,0,120,5,4,3
+97570,50,female,Non Hispanic Asian,54.5,0,0,0,0,30,60,3,2,2
+97571,54,male,Non Hispanic White,69,0,0,0,0,480,480,5,5,4
+97572,50,male,Non Hispanic White,82.4,12.5,20,3650,1,420,NA,3,5,3
+97574,44,female,Non Hispanic Asian,139,0,0,0,0,360,300,3,1,3
+97575,24,female,Non Hispanic White,89.6,0,0,0,0,0,180,1,3,2
+97576,32,male,Mexican American,34.8,0,0,0,0,0,480,5,1,5
+97577,56,female,Non Hispanic White,43.1,0,0,0,0,NA,30,5,5,3
+97578,41,male,Mexican American,72.8,0,0,0,0,60,90,4,3,2
+97580,26,male,Mexican American,57.6,25,20,365,1,30,120,4,3,3
+97585,21,male,Non Hispanic White,57.9,25,5,30,0,30,240,4,4,3
+97588,56,male,Non Hispanic Asian,53.5,0,0,0,0,0,60,4,4,3
+97591,29,male,Non Hispanic White,59.1,0,0,0,0,480,120,3,4,2
+97594,56,female,Non Hispanic Asian,94,250,4,730,0,0,30,NA,NA,6
+97595,36,male,Other,40,17.5,30,7300,1,240,240,4,3,5
+97598,40,female,Mexican American,79,80,30,91,0,60,90,5,3,3
+97600,23,female,Non Hispanic Asian,51.7,0,0,0,0,180,480,4,4,4
+97602,40,female,Non Hispanic Black,22.8,0,0,0,0,0,0,5,5,4
+97610,28,male,Other Hispanic,102,125,20,730,1,0,120,5,5,5
+97617,30,male,Non Hispanic Black,41.4,0,0,0,0,30,120,5,4,2
+97620,41,female,Other,73.1,20,30,30,0,120,60,3,5,3
+97624,32,female,Non Hispanic Asian,53.8,0,0,0,0,60,120,3,4,2
+97627,34,female,Non Hispanic White,80.7,0,0,0,0,60,180,3,5,3
+97635,56,female,Other Hispanic,69.3,0,0,0,0,60,60,3,2,1
+97638,51,male,Non Hispanic Black,106,0,0,0,0,NA,NA,5,5,3
+97640,41,male,Mexican American,46.4,50,7,7,0,360,120,4,2,3
+97641,49,female,Non Hispanic White,109,0,0,0,0,0,120,3,5,3
+97643,40,female,Non Hispanic White,157,125,30,365,0,0,60,2,4,2
+97644,24,male,Other Hispanic,61.1,0,0,0,0,0,120,5,5,3
+97648,32,female,Non Hispanic White,39.3,0,0,0,0,60,90,2,4,3
+97659,46,male,Other Hispanic,72.7,0,0,0,0,0,25,5,4,2
+97670,27,female,Other,50.3,0,0,0,0,NA,180,2,4,3
+97671,20,female,Other Hispanic,43.5,0,0,0,0,0,0,1,2,2
+97672,45,female,Mexican American,28.4,0,0,0,0,60,180,3,3,1
+97675,41,female,Non Hispanic Black,23.6,0,0,0,0,0,120,5,5,1
+97683,49,female,Mexican American,31.9,0,0,0,0,0,120,5,3,3
+97684,47,female,Non Hispanic White,27.3,0,0,0,0,15,60,2,5,2
+97685,23,male,Other Hispanic,46.5,0,0,0,0,300,60,3,5,3
+97688,56,female,Non Hispanic Black,44.5,0,0,0,0,300,420,2,3,3
+97691,29,female,Non Hispanic Black,37.6,0,0,0,0,NA,420,3,5,2
+97692,31,male,Other Hispanic,49.1,0,0,0,0,240,120,3,3,3
+97695,52,female,Non Hispanic Asian,90.5,0,0,0,0,0,30,4,2,1
+97698,47,female,Other Hispanic,69.2,0,0,0,0,60,180,3,4,2
+97699,55,female,Mexican American,68.7,0,0,0,0,60,30,1,1,1
+97701,42,male,Non Hispanic White,81.8,0,0,0,0,60,60,5,5,4
+97702,21,female,Non Hispanic Black,19.8,25,30,365,0,0,60,5,3,2
+97703,35,male,Other Hispanic,85.1,0,0,0,0,300,60,5,5,3
+97704,54,female,Non Hispanic Black,32.4,0,0,0,0,14,120,5,4,1
+97705,33,female,Non Hispanic Black,54.4,0,0,0,0,0,300,5,5,2
+97706,50,male,Mexican American,38.4,0,0,0,0,0,120,5,2,1
+97709,22,female,Non Hispanic White,53.1,0,0,0,0,180,300,4,5,3
+97714,47,male,Other,54.1,20,20,1095,0,120,60,4,4,2
+97716,29,female,Non Hispanic White,68.7,0,0,0,0,120,120,4,5,4
+97722,24,female,Non Hispanic Black,91.8,0,0,0,0,15,120,5,3,1
+97726,39,female,Mexican American,59.6,0,0,0,0,480,0,5,5,1
+97727,53,male,Non Hispanic Black,32.3,0,0,0,0,120,0,5,4,3
+97735,30,male,Mexican American,50.7,1.67,5,182,1,20,30,4,5,3
+97737,57,male,Non Hispanic White,110,0,0,0,0,30,30,4,4,4
+97739,36,female,Non Hispanic Black,33.2,0,0,0,0,120,240,5,4,4
+97740,52,female,Other,30.1,0,0,0,0,NA,60,4,5,3
+97741,36,female,Non Hispanic White,65.3,0,0,0,0,360,360,2,5,4
+97744,55,male,Non Hispanic Asian,54.3,10,2,3650,0,30,30,3,5,2
+97747,47,male,Non Hispanic Black,69.1,25,20,5475,0,60,120,5,4,3
+97748,50,female,Non Hispanic Asian,83.6,13.33,15,730,0,20,60,2,3,3
+97751,54,female,Other Hispanic,115,25,30,1825,1,30,30,3,2,3
+97756,23,female,Mexican American,20.6,0,0,0,0,55,14,5,4,2
+97758,54,female,Non Hispanic Black,120,50,30,1460,0,NA,120,5,3,1
+97760,55,female,Other Hispanic,55.6,0,0,0,0,0,60,2,4,1
+97761,56,female,Non Hispanic Black,88.6,20,30,1460,1,60,60,2,3,2
+97762,50,female,Non Hispanic White,53.8,0,0,0,0,0,480,2,5,5
+97763,21,female,Non Hispanic White,65.5,0,0,0,0,0,20,4,3,2
+97764,45,male,Non Hispanic Black,24.9,0,0,0,0,0,180,5,5,4
+97765,53,female,Non Hispanic Asian,65.1,0,0,0,0,180,180,5,3,5
+97768,56,female,Other,53.9,0,0,0,0,30,60,1,4,3
+97771,31,female,Non Hispanic White,106,10,30,152,1,30,14,2,5,3
+97773,26,female,Non Hispanic Black,32.1,0,0,0,0,180,240,5,5,4
+97774,33,male,Mexican American,26.1,0,0,0,0,0,180,5,3,3
+97776,58,female,Other Hispanic,55.1,0,0,0,0,NA,120,3,3,3
+97782,39,female,Non Hispanic Black,32.8,25,5,7,1,30,180,5,5,4
+97783,46,female,Non Hispanic Black,27.4,0,0,0,0,60,60,5,5,2
+97784,31,male,Non Hispanic White,63.2,0,0,0,0,420,0,2,2,2
+97787,52,male,Other,64.5,125,30,1095,0,0,0,4,3,3
+97794,45,female,Non Hispanic Asian,29,0,0,0,0,60,120,3,3,4
+97795,33,female,Non Hispanic White,76.3,0,0,0,0,0,180,3,5,4
+97810,57,male,Other,50.8,0,0,0,0,0,420,5,4,4
+97811,26,female,Non Hispanic Black,40.3,0,0,0,0,240,240,5,3,3
+97822,42,female,Non Hispanic Black,87.5,20,30,30,0,30,30,3,4,2
+97823,29,male,Other Hispanic,35.1,0,0,0,0,NA,180,4,3,4
+97827,50,male,Non Hispanic Asian,27.8,0,0,0,0,300,300,5,1,3
+97829,24,male,Non Hispanic Black,43.4,0,0,0,0,40,0,5,3,1
+97840,32,male,Non Hispanic Asian,60.9,0,0,0,0,240,180,3,3,5
+97841,44,female,Non Hispanic White,76.2,0,0,0,0,60,60,4,5,4
+97845,47,male,Other,12.5,0,0,0,0,NA,0,5,5,1
+97848,30,female,Non Hispanic Black,70.8,12.5,30,365,1,NA,240,4,3,4
+97851,23,male,Non Hispanic Black,34,0,0,0,0,420,240,5,4,4
+97853,20,female,Non Hispanic Asian,23.5,0,0,0,0,NA,300,1,1,1
+97866,39,male,Non Hispanic White,114,142.5,30,5475,1,0,120,4,5,4
+97876,58,male,Non Hispanic White,105,67.5,30,365,1,NA,0,5,5,5
+97877,29,female,Non Hispanic Black,37.6,0,0,0,0,60,0,5,5,5
+97878,49,female,Non Hispanic Black,44.4,0,0,0,0,0,120,4,5,3
+97886,54,female,Non Hispanic Asian,113,75,30,5475,1,0,0,4,3,2
+97896,57,female,Other,56.4,0,0,0,0,0,120,3,5,4
+97897,58,male,Non Hispanic Asian,140,40,30,730,1,480,0,5,3,3
+97901,45,male,Non Hispanic White,101,65,20,1460,1,30,30,3,5,2
+97904,34,male,Non Hispanic Black,74.8,125,10,1825,0,14,14,3,5,3
+97909,45,female,Non Hispanic Asian,28.3,0,0,0,0,14,0,1,2,2
+97915,42,female,Mexican American,69.1,0,0,0,0,90,120,4,3,5
+97923,43,female,Non Hispanic White,19.8,0,0,0,0,60,60,5,3,4
+97928,56,male,Mexican American,60.6,0,0,0,0,0,180,2,5,3
+97930,32,male,Other,63.8,0,0,0,0,300,300,4,1,3
+97934,25,male,Non Hispanic White,51.5,0,0,0,0,60,420,5,5,4
+97935,22,male,Other Hispanic,32.9,0,0,0,0,480,0,5,3,3
+97938,35,male,Non Hispanic Black,29.5,0,0,0,0,480,120,5,4,3
+97940,29,male,Non Hispanic Asian,33.7,0,0,0,0,0,NA,5,5,3
+97941,28,female,Mexican American,52,0,0,0,0,90,120,2,4,2
+97945,28,female,Mexican American,25.5,0,0,0,0,0,120,3,4,3
+97946,34,female,Non Hispanic White,62.8,0,0,0,0,20,300,2,5,4
+97948,32,female,Non Hispanic White,61.9,60,15,334,1,0,180,4,3,3
+97949,30,female,Non Hispanic White,30.7,0,0,0,0,30,120,3,2,3
+97951,24,female,Non Hispanic Asian,76.8,0,0,0,0,0,180,2,5,3
+97952,57,male,Non Hispanic Asian,57.1,0,0,0,0,20,60,5,5,3
+97958,24,female,Non Hispanic Black,30.7,10,1,365,0,120,60,5,5,3
+97963,29,male,Non Hispanic White,72.2,10,30,10585,0,60,180,3,5,3
+97965,32,male,Non Hispanic Asian,34.7,0,0,0,0,60,0,3,3,2
+97966,54,female,Non Hispanic White,101,12.5,30,3650,1,30,30,1,3,2
+97967,40,female,Mexican American,50.8,0,0,0,0,300,480,3,2,4
+97972,30,female,Non Hispanic Black,46,0,0,0,0,0,90,4,4,1
+97974,44,female,Non Hispanic Asian,47.1,0,0,0,0,14,14,1,1,1
+97978,41,female,Non Hispanic Black,21.4,0,0,0,0,NA,240,4,1,2
+97982,52,female,Non Hispanic White,73.7,0,0,0,0,30,30,3,5,2
+97986,29,female,Non Hispanic Black,53.3,0,0,0,0,180,180,5,5,2
+97987,58,female,Non Hispanic White,102,0,0,0,0,14,240,2,5,2
+97995,47,male,Mexican American,58.8,0,0,0,0,480,120,5,1,5
+98006,36,male,Non Hispanic Black,18.9,0,0,0,0,90,90,5,5,3
+98007,31,male,Non Hispanic Black,51.3,0,0,0,0,120,60,3,5,3
+98009,57,male,Non Hispanic White,66.4,17.5,30,7300,1,360,120,5,3,2
+98010,27,female,Non Hispanic Asian,44.2,0,0,0,0,0,180,1,1,1
+98014,59,female,Non Hispanic White,40.4,0,0,0,0,15,0,3,5,2
+98015,49,male,Non Hispanic Black,54.8,0,0,0,0,0,0,5,5,2
+98018,22,male,Non Hispanic Black,28.3,0,0,0,0,180,180,5,5,3
+98023,37,female,Non Hispanic Black,26.2,0,0,0,0,60,60,3,4,3
+98028,34,female,Non Hispanic White,69.5,375,4,182,0,0,360,3,5,3
+98030,24,female,Non Hispanic Black,73.4,0,0,0,0,0,0,4,5,3
+98031,31,male,Other,45.4,0,0,0,0,240,0,5,2,3
+98033,42,female,Non Hispanic Black,88.1,266.67,30,15330,0,0,480,1,1,4
+98035,35,female,Mexican American,46.9,0,0,0,0,60,60,1,3,3
+98036,38,female,Non Hispanic Asian,55.6,25,25,1825,1,0,120,4,3,3
+98041,55,female,Mexican American,36.9,0,0,0,0,60,240,3,5,2
+98045,40,female,Non Hispanic Asian,19.3,0,0,0,0,60,120,3,3,2
+98046,49,female,Non Hispanic White,37.6,0,0,0,0,0,0,5,5,1
+98047,53,male,Mexican American,66,0,0,0,0,180,20,3,3,3
+98048,30,female,Non Hispanic Asian,105,25,30,365,0,60,30,2,3,2
+98052,26,female,Non Hispanic Black,23.1,0,0,0,0,100,70,2,3,3
+98054,43,male,Non Hispanic White,62.3,0,0,0,0,480,480,5,5,4
+98056,34,female,Non Hispanic White,48.6,0,0,0,0,180,180,5,2,3
+98057,21,male,Mexican American,56.7,0,0,0,0,480,300,5,5,4
+98065,29,female,Other,60,0,0,0,0,0,360,5,5,3
+98073,23,female,Other Hispanic,52.4,0,0,0,0,NA,60,5,1,1
+98081,56,male,Non Hispanic Black,22,0,0,0,0,NA,240,5,5,2
+98082,46,female,Non Hispanic White,66.5,5,7,7,0,180,120,3,5,2
+98083,54,female,Non Hispanic Black,41.8,25,30,4745,1,14,14,5,3,4
+98085,59,male,Other Hispanic,82.5,17.5,30,3285,0,180,60,5,4,4
+98088,33,male,Non Hispanic White,61.5,0,0,0,0,0,360,1,1,2
+98092,41,male,Mexican American,35.8,0,0,0,0,480,480,3,1,3
+98094,45,female,Mexican American,20.8,0,0,0,0,0,300,2,2,3
+98096,36,female,Other Hispanic,49.9,0,0,0,0,0,180,1,5,3
+98097,29,male,Non Hispanic White,82.7,0,0,0,0,120,120,2,3,2
+98099,54,male,Non Hispanic White,98.2,75,30,1095,1,60,120,4,3,3
+98100,33,male,Non Hispanic White,87,25,30,3650,1,20,120,2,5,2
+98102,35,female,Non Hispanic Asian,36.5,0,0,0,0,NA,120,5,5,3
+98103,37,male,Non Hispanic Black,20.9,0,0,0,0,NA,120,5,2,3
+98113,25,female,Non Hispanic White,83.4,10,30,274,0,300,300,5,4,2
+98119,30,female,Non Hispanic White,71.2,75,30,182,1,60,180,3,4,2
+98120,41,female,Non Hispanic White,57.8,0,0,0,0,0,0,2,5,3
+98124,31,male,Non Hispanic White,65.6,0,0,0,0,120,240,3,4,3
+98131,40,female,Non Hispanic Black,112,50,30,2190,1,30,180,5,5,3
+98135,42,female,Non Hispanic White,60.6,0,0,0,0,180,120,4,5,4
+98138,40,male,Non Hispanic Asian,61,0,0,0,0,0,180,5,5,3
+98141,56,female,Mexican American,88.1,125,30,61,1,60,90,3,5,3
+98144,45,female,Non Hispanic White,109,120,30,61,1,60,60,5,4,3
+98145,24,female,Non Hispanic White,85.1,12.5,20,61,0,360,360,3,3,3
+98147,29,male,Non Hispanic White,86.8,0,0,0,0,30,60,4,5,4
+98148,37,female,Non Hispanic White,81.1,0,0,0,0,120,0,5,5,4
+98153,55,male,Non Hispanic Asian,56.3,0,0,0,0,60,60,3,1,3
+98156,46,female,Mexican American,92.5,25,30,730,1,20,60,3,5,3
+98161,43,female,Non Hispanic White,75,0,0,0,0,60,120,5,5,3
+98165,55,male,Non Hispanic White,92.2,0,0,0,0,480,180,3,5,4
+98168,55,female,Mexican American,53,10,25,91,0,20,60,1,2,2
+98169,28,female,Other Hispanic,40.8,0,0,0,0,60,480,2,4,3
+98174,48,male,Non Hispanic Black,18.9,0,0,0,0,120,300,5,4,3
+98178,47,male,Non Hispanic White,79.1,0,0,0,0,0,240,2,4,3
+98180,49,male,Mexican American,49.5,0,0,0,0,0,120,5,4,3
+98187,32,female,Other Hispanic,64,10,30,2190,1,120,60,1,4,2
+98189,43,male,Non Hispanic White,64,0,0,0,0,480,360,4,3,3
+98195,28,male,Non Hispanic Black,64.6,0,0,0,0,480,60,5,3,3
+98202,50,male,Non Hispanic Black,54.7,50,3,61,0,0,240,5,4,3
+98203,35,male,Non Hispanic White,49.6,20,20,730,0,30,60,2,5,3
+98207,46,male,Other,53.9,0,0,0,0,240,120,5,2,2
+98208,39,female,Non Hispanic White,77.9,50,20,578,0,30,30,1,2,2
+98209,58,male,Non Hispanic White,76.4,0,0,0,0,480,480,4,5,4
+98215,51,female,Non Hispanic White,88.3,25,30,122,1,120,240,4,5,2
+98216,47,male,Other Hispanic,56.7,0,0,0,0,30,120,2,3,2
+98220,50,male,Non Hispanic Black,93.7,65,30,730,1,180,60,5,4,3
+98222,26,female,Non Hispanic White,92,0,0,0,0,15,180,1,4,4
+98223,52,male,Non Hispanic Black,27.7,0,0,0,0,240,180,5,4,3
+98225,26,male,Non Hispanic Black,24.1,0,0,0,0,120,300,5,3,1
+98228,52,female,Non Hispanic Black,41.2,0,0,0,0,0,180,5,3,2
+98238,44,female,Other,38.5,0,0,0,0,14,240,2,4,2
+98241,32,male,Non Hispanic Asian,50.9,0,0,0,0,120,180,1,3,4
+98242,53,female,Non Hispanic Black,73.3,125,30,730,0,120,120,3,5,2
+98243,35,male,Non Hispanic Asian,20.5,0,0,0,0,360,300,4,3,4
+98251,47,male,Non Hispanic White,84.7,0,0,0,0,180,360,4,4,2
+98253,59,female,Non Hispanic Asian,53.2,0,0,0,0,0,0,5,5,1
+98256,25,female,Non Hispanic Black,48.7,0,0,0,0,360,120,4,2,3
+98259,52,female,Non Hispanic Black,77,0,0,0,0,NA,0,3,5,2
+98262,59,male,Non Hispanic White,59.8,0,0,0,0,120,240,4,5,3
+98266,41,female,Other Hispanic,52,125,30,1095,1,60,0,2,4,4
+98267,49,male,Non Hispanic Black,15.3,0,0,0,0,NA,0,5,3,1
+98271,50,male,Non Hispanic Asian,57.5,0,0,0,0,180,60,2,2,3
+98272,55,male,Other Hispanic,35.5,0,0,0,0,150,0,5,5,3
+98274,52,female,Non Hispanic White,56.3,0,0,0,0,60,90,3,4,3
+98280,31,female,Non Hispanic Asian,38.5,0,0,0,0,60,60,3,5,3
+98284,38,female,Non Hispanic White,63.8,0,0,0,0,480,0,1,3,2
+98285,24,female,Non Hispanic Asian,29.1,0,0,0,0,120,0,3,3,2
+98292,42,female,Non Hispanic Black,60.8,0,0,0,0,300,180,5,4,3
+98293,52,female,Non Hispanic Black,77.6,25,30,5475,1,NA,60,5,5,3
+98295,23,female,Mexican American,48.5,0,0,0,0,120,300,4,3,3
+98298,28,female,Other,18.9,0,0,0,0,180,300,4,5,3
+98300,48,female,Non Hispanic White,52.3,0,0,0,0,0,30,3,5,3
+98302,29,male,Mexican American,78.1,0,0,0,0,240,240,5,4,3
+98303,34,female,Non Hispanic Black,47.3,10,14,14,1,0,0,5,4,3
+98308,35,male,Mexican American,60.3,0,0,0,0,0,120,3,5,3
+98310,47,female,Mexican American,34.5,0,0,0,0,30,60,3,4,2
+98314,25,male,Non Hispanic Black,25.4,0,0,0,0,0,60,5,5,4
+98318,40,male,Non Hispanic White,67.1,17.5,30,730,1,180,300,3,4,4
+98320,48,female,Non Hispanic Black,34.7,0,0,0,0,20,60,5,5,2
+98322,29,female,Non Hispanic White,61.7,0,0,0,0,120,120,5,4,2
+98323,31,female,Non Hispanic White,87.7,25,30,1825,1,90,180,3,5,3
+98326,55,female,Non Hispanic Black,80.1,25,15,30,0,120,120,4,4,3
+98328,30,female,Non Hispanic Asian,108,10,30,1095,1,0,30,1,3,2
+98332,34,female,Non Hispanic White,49.1,0,0,0,0,0,300,5,4,4
+98336,41,female,Non Hispanic Black,23.5,0,0,0,0,60,300,5,4,4
+98338,54,male,Non Hispanic White,139,50,30,3650,1,60,120,1,4,2
+98343,31,female,Non Hispanic Black,36.2,40,30,6205,0,300,0,3,5,4
+98345,22,male,Non Hispanic Asian,31.9,0,0,0,0,480,300,5,1,1
+98350,36,female,Mexican American,60.4,15,5,30,0,0,120,3,4,2
+98351,38,female,Mexican American,69.8,75,25,1095,1,150,120,3,4,3
+98354,57,female,Non Hispanic Black,82.4,25,20,3650,1,60,180,3,5,3
+98355,53,female,Non Hispanic Asian,126,127.5,30,3650,0,NA,60,5,5,3
+98357,21,male,Non Hispanic Black,24,0,0,0,0,300,480,5,4,3
+98358,33,male,Non Hispanic Black,28.8,10,20,10950,0,120,300,3,3,2
+98364,37,male,Non Hispanic White,73.5,0,0,0,0,30,300,3,3,3
+98374,42,female,Non Hispanic White,67.1,0,0,0,0,120,0,5,5,3
+98376,20,male,Other Hispanic,33.8,0,0,0,0,120,30,3,4,3
+98381,40,male,Non Hispanic Asian,53.7,0,0,0,0,151,60,3,4,4
+98384,54,female,Mexican American,114,25,30,5475,1,0,60,3,5,3
+98392,47,male,Non Hispanic Black,47.9,17.5,14,730,1,120,180,4,5,4
+98394,38,female,Other Hispanic,76.4,35.42,30,3650,1,0,60,1,4,3
+98395,24,female,Non Hispanic White,44.2,0,0,0,0,120,120,5,4,4
+98399,54,male,Non Hispanic Asian,77.8,0,0,0,0,15,120,2,4,3
+98401,41,male,Non Hispanic Black,65.2,10,30,61,1,300,180,5,4,3
+98402,22,male,Mexican American,42.4,0,0,0,0,120,120,5,4,3
+98403,27,male,Non Hispanic Asian,63.9,0,0,0,0,60,480,4,4,2
+98416,25,female,Non Hispanic Asian,68.4,13.33,17,42,0,15,15,4,1,2
+98420,27,female,Non Hispanic White,119,0,0,0,0,15,120,2,4,3
+98426,28,male,Non Hispanic Black,43.6,17.5,12,730,0,0,300,5,4,2
+98428,25,female,Non Hispanic White,99,0,0,0,0,150,120,4,5,3
+98435,21,female,Non Hispanic Black,52.5,25,7,7,1,60,30,2,3,3
+98436,36,male,Non Hispanic Black,56.5,0,0,0,0,120,180,4,5,3
+98437,32,female,Non Hispanic Black,24.5,0,0,0,0,420,180,5,5,3
+98441,22,male,Non Hispanic White,50.9,0,0,0,0,0,0,3,5,1
+98442,22,female,Non Hispanic Black,21.7,0,0,0,0,60,120,5,3,1
+98443,21,female,Non Hispanic White,42.5,0,0,0,0,0,120,3,4,1
+98444,59,female,Non Hispanic White,31.6,0,0,0,0,0,30,1,3,2
+98445,25,female,Other Hispanic,65.1,0,0,0,0,NA,300,5,2,2
+98447,32,male,Non Hispanic White,73.7,0,0,0,0,NA,120,4,5,3
+98452,52,male,Non Hispanic Asian,43.5,0,0,0,0,120,120,4,4,1
+98456,36,male,Non Hispanic Black,15.2,0,0,0,0,0,0,5,5,5
+98458,24,male,Other Hispanic,74.1,0,0,0,0,480,120,3,3,3
+98460,27,female,Mexican American,55.2,0,0,0,0,0,180,4,5,2
+98461,54,female,Non Hispanic Asian,85.3,150,30,365,0,NA,30,5,5,1
+98469,41,male,Non Hispanic Asian,44.5,0,0,0,0,60,180,3,3,3
+98470,38,female,Other Hispanic,66.6,20,30,91,0,0,120,4,4,4
+98474,35,male,Non Hispanic Black,14.3,0,0,0,0,60,180,5,5,1
+98475,22,male,Mexican American,49.6,0,0,0,0,180,180,4,3,2
+98479,27,male,Non Hispanic Asian,54.4,32.5,5,1460,0,120,180,4,5,2
+98483,26,female,Non Hispanic White,100,0,0,0,0,15,120,5,5,3
+98485,21,male,Other,60.9,0,0,0,0,15,240,5,5,4
+98489,55,female,Non Hispanic Black,91.9,50,0,30,0,0,60,5,5,1
+98490,24,male,Non Hispanic White,148,150,30,3650,1,180,120,3,5,3
+98494,25,female,Other,76.2,23.33,15,182,1,240,120,2,5,4
+98495,48,male,Non Hispanic White,108,0,0,0,0,0,180,5,5,4
+98500,56,female,Other Hispanic,28.2,0,0,0,0,180,60,4,3,4
+98509,28,female,Non Hispanic White,52.1,0,0,0,0,NA,0,3,5,3
+98512,32,female,Non Hispanic Black,55.8,0,0,0,0,14,0,2,4,2
+98514,32,male,Non Hispanic White,48.2,0,0,0,0,30,120,5,5,4
+98521,40,male,Non Hispanic Black,44.6,0,0,0,0,300,480,5,5,1
+98524,49,female,Non Hispanic Black,60.7,25,30,1825,1,180,300,2,3,1
+98527,30,female,Non Hispanic Black,24.5,0,0,0,0,120,60,5,5,5
+98528,32,male,Non Hispanic White,55.3,0,0,0,0,60,300,3,5,3
+98531,20,female,Non Hispanic White,85.3,0,0,0,0,120,120,4,4,3
+98537,59,female,Mexican American,104,50,30,1095,1,0,120,2,3,2
+98542,54,female,Non Hispanic Black,73.2,0,0,0,0,180,60,2,4,2
+98545,36,female,Other Hispanic,56.4,0,0,0,0,90,30,4,4,1
+98548,43,male,Other Hispanic,99.1,0,0,0,0,240,360,5,4,1
+98550,40,male,Non Hispanic Black,63.4,50,30,730,1,0,60,4,2,2
+98551,32,female,Non Hispanic Asian,38.8,0,0,0,0,0,120,2,3,2
+98553,40,female,Other Hispanic,71.5,0,0,0,0,0,300,1,5,2
+98556,48,male,Non Hispanic Asian,112,75,28,2920,1,30,120,3,3,3
+98561,44,male,Non Hispanic Black,42.2,68.75,30,1825,0,480,480,5,5,4
+98564,39,female,Non Hispanic White,133,131.25,30,365,1,0,300,3,4,2
+98565,57,female,Non Hispanic White,87.6,25,1,5475,1,60,150,4,4,3
+98571,28,female,Non Hispanic Black,23.8,25,5,182,0,90,60,5,5,3
+98574,56,female,Non Hispanic Black,45.5,0,0,0,0,60,120,5,4,3
+98585,51,female,Mexican American,138,270,30,2190,1,0,0,1,1,1
+98589,21,female,Mexican American,65.6,0,0,0,0,60,90,5,5,2
+98594,38,female,Mexican American,27.9,0,0,0,0,0,180,5,4,3
+98595,50,female,Mexican American,72.2,0,0,0,0,300,480,3,3,1
+98601,41,female,Non Hispanic Black,65.3,10,7,7,1,120,120,4,3,3
+98605,55,female,Non Hispanic Black,68.6,50,30,30,0,15,14,5,5,4
+98611,59,female,Other Hispanic,81.3,25,30,7300,1,60,420,1,5,3
+98616,44,female,Non Hispanic Asian,113,50,30,1825,1,30,120,1,3,2
+98617,55,female,Other,81.4,20,30,1095,1,180,180,3,4,3
+98622,59,female,Non Hispanic Black,45.2,0,0,0,0,NA,180,3,3,3
+98624,53,male,Non Hispanic Black,51.9,0,0,0,0,120,180,5,4,3
+98627,53,male,Non Hispanic Asian,76.6,50,30,2190,1,0,180,2,3,1
+98628,48,male,Mexican American,56.3,0,0,0,0,120,240,4,5,4
+98629,45,male,Non Hispanic White,87.1,0,0,0,0,480,480,3,5,3
+98631,43,female,Non Hispanic White,65.1,0,0,0,0,0,240,5,2,3
+98646,43,female,Mexican American,63.7,0,0,0,0,420,0,4,4,3
+98653,57,male,Non Hispanic Black,69.6,50,0,61,0,60,240,5,5,3
+98656,54,male,Non Hispanic White,77.1,25,30,274,1,240,180,4,4,3
+98657,55,male,Other Hispanic,104,12.5,30,3650,1,20,180,3,4,3
+98661,31,female,Non Hispanic Black,13.6,0,0,0,0,120,240,5,4,2
+98666,53,male,Non Hispanic Black,60.7,25,30,1460,1,180,180,5,3,2
+98673,55,female,Non Hispanic Asian,54.4,25,7,7,1,0,120,2,2,2
+98677,23,male,Non Hispanic White,44.4,0,0,0,0,90,210,5,1,2
+98680,37,female,Non Hispanic Black,28.9,0,0,0,0,60,360,5,4,3
+98687,30,female,Non Hispanic White,90.5,20,30,365,1,NA,300,2,3,2
+98689,35,male,Non Hispanic White,56.2,25,1,182,0,480,240,5,5,4
+98691,56,male,Other Hispanic,70.7,0,0,0,0,60,300,4,4,5
+98692,25,male,Non Hispanic Black,43.7,0,0,0,0,240,300,5,2,3
+98693,56,female,Mexican American,57.3,0,0,0,0,NA,60,5,1,1
+98694,54,female,Non Hispanic White,73.3,0,0,0,0,60,120,2,4,2
+98698,27,female,Non Hispanic Asian,66.1,0,0,0,0,120,240,3,5,3
+98708,43,male,Non Hispanic White,57,17.5,20,1825,0,60,60,3,4,3
+98710,24,male,Mexican American,40.3,0,0,0,0,0,120,5,5,4
+98711,53,male,Other,79.6,0,0,0,0,420,240,4,5,2
+98713,59,female,Other,72.9,0,0,0,0,NA,480,1,3,3
+98714,40,female,Mexican American,35.2,0,0,0,0,0,240,1,5,3
+98716,41,female,Non Hispanic Black,36,0,0,0,0,30,240,2,3,4
+98718,35,female,Other Hispanic,57.8,0,0,0,0,0,0,5,5,3
+98721,55,female,Non Hispanic Black,44.6,0,0,0,0,NA,60,5,5,3
+98722,57,female,Non Hispanic Black,63.4,0,0,0,0,300,360,5,3,2
+98724,22,male,Other Hispanic,61.8,0,0,0,0,420,360,4,5,3
+98726,38,male,Non Hispanic White,108,75,30,5840,1,120,300,2,3,3
+98728,41,male,Non Hispanic Asian,67.5,0,0,0,0,60,0,3,4,3
+98729,30,female,Non Hispanic Asian,61.7,5,20,3650,0,180,480,2,4,2
+98733,36,female,Non Hispanic White,66.9,0,0,0,0,30,60,3,3,3
+98734,32,male,Non Hispanic White,41.1,0,0,0,0,0,90,5,4,4
+98740,31,male,Non Hispanic Asian,96.3,250,7,14,0,0,300,5,5,3
+98747,21,male,Non Hispanic Black,54.3,0,0,0,0,NA,240,5,3,2
+98748,50,male,Non Hispanic White,61.8,0,0,0,0,30,30,5,5,4
+98749,37,male,Non Hispanic White,58.3,0,0,0,0,120,0,5,5,2
+98751,42,male,Non Hispanic Asian,128,1250,4,61,0,0,0,3,4,3
+98757,41,male,Non Hispanic White,82.4,0,0,0,0,360,240,2,5,4
+98762,28,male,Non Hispanic White,43.3,0,0,0,0,180,360,3,5,3
+98769,41,male,Non Hispanic Asian,43.2,0,0,0,0,30,30,5,2,5
+98770,46,female,Non Hispanic Black,17.2,0,0,0,0,120,0,5,4,3
+98772,59,male,Non Hispanic White,27.1,0,0,0,0,0,0,5,5,2
+98775,26,male,Other,38.3,0,0,0,0,90,120,3,3,3
+98776,45,female,Non Hispanic White,32.6,0,0,0,0,0,60,4,4,3
+98778,42,male,Non Hispanic Asian,63.6,25,25,1460,0,60,240,3,3,2
+98780,45,male,Non Hispanic Black,27.6,10,10,61,0,300,480,5,4,4
+98781,55,female,Non Hispanic White,34.3,0,0,0,0,NA,360,2,2,2
+98782,43,female,Non Hispanic Black,38.2,0,0,0,0,120,60,5,4,2
+98783,40,female,Non Hispanic White,86.9,0,0,0,0,180,180,2,5,3
+98784,25,female,Other,42,0,0,0,0,NA,25,5,3,2
+98788,20,female,Mexican American,39.9,0,0,0,0,0,180,5,4,4
+98789,53,female,Other Hispanic,93.9,20,30,182,1,120,180,3,3,3
+98790,44,male,Other,31.3,0,0,0,0,240,360,5,4,3
+98791,54,male,Non Hispanic White,120,17.5,30,3650,1,15,60,3,3,3
+98793,46,female,Non Hispanic Asian,64.3,20,30,91,1,0,0,1,2,1
+98796,21,female,Non Hispanic Black,18.7,0,0,0,0,120,60,3,3,2
+98797,55,female,Non Hispanic White,78.5,56.25,14,14,1,60,30,2,4,4
+98799,32,female,Non Hispanic White,64.1,50,30,243,0,15,60,2,5,3
+98803,45,male,Mexican American,51.7,0,0,0,0,120,180,4,5,3
+98804,39,female,Non Hispanic Asian,73.9,12.5,30,61,1,30,120,5,5,1
+98807,29,female,Mexican American,92.6,25,30,30,1,300,120,2,4,2
+98810,55,female,Non Hispanic Black,20.4,0,0,0,0,0,120,3,5,2
+98812,31,female,Non Hispanic Asian,43.7,0,0,0,0,60,60,5,1,3
+98817,21,female,Non Hispanic White,80.9,25,30,182,0,60,120,1,3,2
+98819,58,female,Non Hispanic Black,83.9,0,0,0,0,120,240,3,3,2
+98821,35,female,Non Hispanic White,90.8,0,0,0,0,NA,90,2,5,3
+98822,39,male,Non Hispanic White,81.5,0,0,0,0,20,120,3,5,3
+98823,51,female,Other Hispanic,66.3,0,0,0,0,NA,120,5,1,1
+98824,24,male,Other,74.4,0,0,0,0,480,0,4,5,3
+98828,29,female,Non Hispanic Black,34.7,20,25,1095,0,120,180,5,5,1
+98832,48,female,Non Hispanic Black,43.5,10,7,365,0,0,120,4,5,2
+98834,55,female,Non Hispanic White,139,0,0,0,0,NA,240,4,5,2
+98840,50,female,Other,57.8,25,30,30,1,NA,0,5,4,1
+98843,56,male,Non Hispanic White,81.4,25,30,3650,1,240,480,5,5,4
+98845,50,female,Non Hispanic Asian,72.3,0,0,0,0,120,120,5,5,2
+98846,47,female,Non Hispanic White,58.8,0,0,0,0,NA,30,4,4,3
+98847,52,male,Non Hispanic White,47.7,0,0,0,0,480,180,2,1,3
+98851,23,female,Other,80.9,10,30,182,1,30,120,4,4,3
+98854,22,male,Mexican American,48.3,0,0,0,0,300,120,2,2,2
+98857,58,male,Non Hispanic Asian,116,125,20,1460,1,30,30,5,4,3
+98865,36,male,Non Hispanic White,59,0,0,0,0,20,60,4,5,2
+98868,20,male,Non Hispanic Black,64,0,0,0,0,240,360,5,5,4
+98872,44,female,Non Hispanic Black,75.6,14.58,30,1460,1,0,0,2,3,1
+98876,22,male,Non Hispanic Black,43.1,0,0,0,0,30,60,5,4,3
+98877,39,male,Non Hispanic Asian,56.7,0,0,0,0,180,180,5,2,3
+98878,42,female,Mexican American,60.4,10,30,61,0,60,120,5,3,3
+98891,53,female,Other Hispanic,65.5,25,30,91,0,NA,120,3,5,2
+98892,55,male,Non Hispanic White,105,0,0,0,0,360,240,3,5,3
+98894,35,male,Non Hispanic Asian,41.1,0,0,0,0,360,60,5,3,3
+98895,38,male,Non Hispanic Black,37.6,0,0,0,0,120,60,5,5,4
+98900,36,male,Non Hispanic White,97.2,10,30,3650,1,30,60,2,2,2
+98902,56,female,Non Hispanic Asian,87.8,12.5,20,1825,1,30,90,2,2,1
+98904,51,female,Non Hispanic White,88.2,0,0,0,0,30,120,2,4,2
+98906,33,male,Other Hispanic,55.3,0,0,0,0,60,480,5,1,5
+98907,56,male,Mexican American,64.6,0,0,0,0,14,30,4,5,3
+98910,22,male,Non Hispanic Black,45.3,0,0,0,0,240,60,5,4,4
+98917,56,female,Non Hispanic White,80,0,0,0,0,30,360,1,3,3
+98918,24,male,Non Hispanic Black,55.9,0,0,0,0,120,120,5,5,5
+98920,23,male,Non Hispanic White,99.6,0,0,0,0,240,480,5,4,4
+98921,26,female,Non Hispanic White,58.4,0,0,0,0,60,60,1,5,2
+98923,48,female,Non Hispanic Black,89.5,25,30,1095,1,30,30,4,5,2
+98925,21,female,Mexican American,41.5,0,0,0,0,NA,60,3,1,4
+98926,48,female,Non Hispanic Asian,66.5,0,0,0,0,0,0,4,3,2
+98932,45,male,Other Hispanic,35.5,0,0,0,0,480,240,5,4,5
+98933,46,female,Non Hispanic White,92.2,0,0,0,0,0,300,1,5,3
+98935,25,male,Non Hispanic Black,31.6,0,0,0,0,20,20,4,5,2
+98936,27,male,Non Hispanic White,56.6,0,0,0,0,0,60,5,5,4
+98941,59,female,Non Hispanic Asian,49.9,0,0,0,0,90,90,1,1,2
+98944,27,male,Non Hispanic White,90.1,0,0,0,0,480,300,3,3,3
+98945,43,male,Non Hispanic White,86.3,0,0,0,0,360,360,5,3,3
+98948,33,male,Non Hispanic White,57.3,0,0,0,0,0,240,5,2,4
+98951,52,female,Non Hispanic Black,11.4,0,0,0,0,NA,15,5,5,1
+98952,24,male,Non Hispanic Asian,15.5,0,0,0,0,180,120,5,4,3
+98958,23,female,Non Hispanic White,62.1,10,2,243,0,0,0,4,3,3
+98960,35,male,Non Hispanic White,68.7,0,0,0,0,120,360,4,4,3
+98968,33,male,Non Hispanic White,37,0,0,0,0,60,180,5,3,4
+98971,28,female,Non Hispanic Black,34.5,0,0,0,0,NA,120,5,2,2
+98980,54,male,Mexican American,66.7,0,0,0,0,0,0,NA,NA,6
+98981,31,male,Non Hispanic Black,32.8,0,0,0,0,30,120,5,5,3
+98982,25,female,Non Hispanic Black,31.2,0,0,0,0,120,120,5,3,3
+98983,57,male,Non Hispanic Black,95.4,0,0,0,0,NA,0,3,3,3
+98985,31,female,Non Hispanic Asian,75.6,25,5,182,1,0,120,3,4,3
+98988,59,female,Mexican American,42,0,0,0,0,120,60,3,1,1
+98992,56,male,Mexican American,75,0,0,0,0,480,120,3,5,2
+98994,30,male,Other,39.6,0,0,0,0,480,0,4,4,2
+98995,55,female,Other Hispanic,72,0,0,0,0,300,180,1,5,4
+98998,51,female,Non Hispanic Black,62.7,0,0,0,0,30,30,4,4,4
+99001,37,male,Other,78.5,0,0,0,0,240,240,5,5,3
+99005,26,female,Non Hispanic Black,26.6,0,0,0,0,120,240,5,5,3
+99007,26,male,Non Hispanic White,86.2,0,0,0,0,30,120,5,5,2
+99009,38,female,Non Hispanic White,139,0,0,0,0,180,300,4,3,3
+99012,51,female,Other Hispanic,114,0,0,0,0,0,300,3,4,4
+99016,36,male,Other Hispanic,59.5,0,0,0,0,480,240,4,5,3
+99019,41,female,Mexican American,34.6,0,0,0,0,0,0,5,5,1
+99023,32,male,Non Hispanic White,50,25,28,365,1,60,150,3,5,4
+99024,38,female,Non Hispanic Asian,102,115,30,730,1,90,60,2,2,2
+99025,45,female,Non Hispanic White,75.2,0,0,0,0,14,480,5,4,2
+99028,42,female,Mexican American,46.5,0,0,0,0,0,120,5,5,3
+99029,46,male,Non Hispanic Black,23.7,0,0,0,0,480,240,5,2,1
+99033,56,male,Non Hispanic White,62.9,0,0,0,0,360,360,2,2,4
+99036,44,male,Non Hispanic White,76.9,0,0,0,0,300,NA,5,5,5
+99038,27,female,Non Hispanic Black,34.9,0,0,0,0,120,14,4,5,3
+99060,55,male,Non Hispanic White,58.3,0,0,0,0,180,300,4,4,3
+99062,29,female,Other Hispanic,18.7,0,0,0,0,0,120,3,4,2
+99063,41,male,Non Hispanic Black,38.7,15,20,8030,0,60,60,5,3,3
+99067,39,male,Non Hispanic White,66.7,0,0,0,0,20,120,4,4,2
+99081,59,male,Non Hispanic Black,54.6,0,0,0,0,NA,240,5,3,4
+99089,25,female,Non Hispanic Black,37.3,15,30,1460,1,30,150,2,3,3
+99095,47,female,Non Hispanic Asian,70.6,70,20,730,0,60,60,1,5,2
+99098,39,female,Mexican American,44.6,0,0,0,0,0,0,2,2,2
+99099,45,female,Mexican American,63.8,0,0,0,0,0,0,5,5,3
+99102,50,male,Mexican American,56.5,25,2,1095,0,480,480,4,2,3
+99103,39,male,Non Hispanic Asian,57.9,0,0,0,0,15,300,3,2,3
+99105,39,female,Non Hispanic Asian,40.8,0,0,0,0,NA,120,3,3,1
+99108,51,male,Non Hispanic White,43.2,0,0,0,0,120,180,4,4,3
+99110,20,female,Mexican American,69.9,20,25,91,0,180,240,2,5,4
+99111,48,female,Non Hispanic Black,17.8,0,0,0,0,NA,480,5,3,3
+99114,41,male,Other Hispanic,71.9,0,0,0,0,120,180,3,1,5
+99116,53,female,Non Hispanic Asian,60.7,25,20,365,0,0,120,1,4,2
+99121,20,female,Mexican American,39.1,0,0,0,0,480,120,4,2,2
+99125,20,female,Non Hispanic Asian,55.5,0,0,0,0,120,300,2,5,2
+99128,36,male,Non Hispanic Black,48.3,0,0,0,0,60,60,2,2,3
+99130,59,male,Non Hispanic Black,55.8,55,15,2920,1,NA,180,5,1,3
+99131,56,female,Non Hispanic White,86.5,50,30,730,1,NA,60,5,4,4
+99136,40,male,Non Hispanic Black,20.3,0,0,0,0,60,20,5,5,3
+99138,31,male,Non Hispanic Black,54.3,0,0,0,0,240,240,5,4,2
+99151,22,female,Non Hispanic White,73.1,0,0,0,0,120,360,2,5,4
+99153,53,female,Other,36.1,10,30,1460,0,60,180,4,5,3
+99154,24,male,Other,21.5,0,0,0,0,420,420,4,3,4
+99155,28,male,Non Hispanic Black,23.3,0,0,0,0,120,180,5,5,2
+99159,57,female,Non Hispanic White,149,25,30,2555,1,0,360,1,3,2
+99160,43,female,Other,46.2,0,0,0,0,0,60,4,5,3
+99167,50,female,Non Hispanic Black,27.9,0,0,0,0,0,30,5,3,2
+99168,40,female,Other Hispanic,58.7,0,0,0,0,360,60,1,3,3
+99171,37,male,Other Hispanic,68.3,0,0,0,0,360,480,4,5,4
+99181,29,male,Non Hispanic White,43.7,0,0,0,0,0,120,1,4,2
+99182,34,female,Other Hispanic,26.1,0,0,0,0,0,0,3,4,1
+99186,26,male,Mexican American,53.8,0,0,0,0,360,300,3,3,2
+99187,42,male,Non Hispanic White,73.7,0,0,0,0,60,120,5,5,5
+99190,53,female,Other Hispanic,45.8,0,0,0,0,NA,120,1,1,2
+99193,44,female,Non Hispanic Asian,40.6,0,0,0,0,120,480,5,3,2
+99194,30,female,Non Hispanic Black,23.9,0,0,0,0,0,60,5,5,2
+99195,43,male,Non Hispanic White,61.2,0,0,0,0,45,480,2,4,2
+99197,28,female,Other Hispanic,73.5,20,30,304,1,60,300,3,4,3
+99198,22,female,Mexican American,51.8,0,0,0,0,14,0,5,4,2
+99207,24,female,Non Hispanic Black,38.8,0,0,0,0,120,60,5,3,2
+99208,41,male,Mexican American,64,0,0,0,0,240,480,3,1,2
+99212,33,male,Non Hispanic Black,50.9,0,0,0,0,120,60,5,3,4
+99224,46,female,Non Hispanic Black,22.2,25,1,365,1,240,60,5,3,3
+99226,47,female,Other Hispanic,54.7,0,0,0,0,240,420,4,5,3
+99227,52,male,Mexican American,54,0,0,0,0,300,0,5,4,4
+99231,37,female,Non Hispanic White,40.1,8.33,4,365,1,30,30,2,3,3
+99232,30,male,Non Hispanic White,61.9,0,0,0,0,240,180,5,4,3
+99233,20,female,Mexican American,69.4,0,0,0,0,30,0,5,4,2
+99234,33,male,Non Hispanic White,71.8,17.5,30,122,1,180,180,3,5,3
+99237,44,female,Non Hispanic Asian,58.1,20,10,30,0,30,90,3,4,4
+99240,54,female,Non Hispanic Black,43.2,20,28,91,1,480,300,5,1,3
+99242,46,female,Mexican American,79.8,0,0,0,0,60,60,4,5,5
+99246,39,female,Non Hispanic Black,32.1,0,0,0,0,15,60,3,5,2
+99247,23,male,Non Hispanic White,60,0,0,0,0,120,120,4,5,2
+99251,45,male,Non Hispanic White,67,0,0,0,0,30,30,4,5,3
+99255,56,female,Non Hispanic Black,22.5,0,0,0,0,120,120,4,4,3
+99257,49,female,Mexican American,46.4,0,0,0,0,NA,60,4,4,3
+99258,49,male,Non Hispanic Black,73.5,0,0,0,0,30,180,4,4,3
+99260,48,female,Non Hispanic White,91,100,30,2190,0,0,0,5,5,1
+99263,50,female,Non Hispanic Asian,57,25,3,30,0,30,20,2,2,2
+99271,56,female,Non Hispanic Asian,127,50,24,91,1,0,30,5,1,1
+99274,53,female,Other Hispanic,65.9,0,0,0,0,NA,90,5,3,3
+99277,58,male,Mexican American,12.4,0,0,0,0,NA,0,5,5,2
+99278,35,male,Non Hispanic Black,31.5,0,0,0,0,360,360,5,3,4
+99279,34,female,Mexican American,68.9,0,0,0,0,180,300,4,3,2
+99280,31,male,Non Hispanic White,48.1,0,0,0,0,15,60,3,5,3
+99282,42,female,Non Hispanic Black,29,0,0,0,0,240,30,3,5,1
+99284,37,male,Other Hispanic,64.9,50,30,91,1,0,120,5,5,2
+99287,57,male,Mexican American,54.8,50,6,365,0,60,60,2,1,3
+99291,42,male,Non Hispanic Black,50,0,0,0,0,360,300,5,5,2
+99292,29,male,Non Hispanic White,37.1,0,0,0,0,0,0,5,4,4
+99297,32,male,Non Hispanic White,25.4,0,0,0,0,180,180,5,4,4
+99300,44,female,Other Hispanic,62.9,0,0,0,0,0,240,2,5,1
+99304,29,male,Mexican American,62.4,0,0,0,0,480,120,1,3,3
+99305,50,male,Other Hispanic,70.1,25,30,61,1,240,240,5,3,3
+99308,26,male,Non Hispanic Black,38.9,0,0,0,0,240,300,5,4,3
+99315,22,male,Non Hispanic Black,26.5,0,0,0,0,60,90,4,3,3
+99316,47,male,Mexican American,54.3,0,0,0,0,480,240,3,2,2
+99318,28,female,Non Hispanic Black,67.7,10,2,61,1,0,480,5,5,2
+99320,30,female,Non Hispanic Asian,51.5,0,0,0,0,60,60,4,2,3
+99321,45,male,Non Hispanic Asian,83.1,15,20,1095,1,15,45,3,5,3
+99322,35,female,Non Hispanic Black,30.6,0,0,0,0,60,60,5,5,2
+99327,59,male,Non Hispanic Black,47.2,17.5,30,365,1,NA,15,5,5,1
+99330,35,male,Non Hispanic White,87,17.5,10,182,0,30,360,3,4,3
+99335,46,male,Other,25.3,0,0,0,0,480,120,5,4,2
+99338,37,female,Mexican American,47.6,0,0,0,0,120,240,3,5,2
+99339,21,female,Mexican American,98.3,10,0,152,1,120,120,2,4,3
+99340,52,female,Non Hispanic White,88.5,0,0,0,0,360,480,5,3,5
+99344,45,male,Non Hispanic Asian,69.6,25,30,1825,1,15,180,2,3,3
+99345,52,male,Mexican American,21.4,0,0,0,0,120,120,5,5,5
+99346,26,male,Non Hispanic Asian,29.8,0,0,0,0,60,60,3,2,2
+99349,37,male,Non Hispanic White,85.3,62.39,30,3285,1,0,480,5,5,4
+99353,30,female,Non Hispanic Black,24.5,0,0,0,0,120,120,5,5,1
+99358,43,male,Non Hispanic Asian,64.9,0,0,0,0,60,300,2,2,2
+99359,37,female,Non Hispanic Asian,76.3,0,0,0,0,NA,60,4,3,2
+99361,34,male,Non Hispanic White,76.7,0,0,0,0,480,360,2,5,4
+99364,52,male,Other,59.4,0,0,0,0,0,420,5,4,3
+99366,47,female,Mexican American,42.7,0,0,0,0,15,60,5,5,2
+99370,48,female,Non Hispanic Black,61.5,0,0,0,0,0,120,5,3,2
+99376,53,male,Other,51.8,0,0,0,0,15,30,5,3,3
+99378,36,female,Mexican American,46.5,1.67,16,365,0,30,60,4,3,2
+99388,55,female,Non Hispanic Black,59.4,135,5,1095,0,0,0,5,4,2
+99389,59,female,Non Hispanic White,105,0,0,0,0,0,300,3,5,4
+99390,41,female,Other,64.4,7.5,15,3650,0,30,240,5,5,3
+99394,20,male,Non Hispanic Black,74,0,0,0,0,240,360,5,5,3
+99396,22,female,Mexican American,33.4,0,0,0,0,20,0,2,4,3
+99400,26,female,Mexican American,43.2,0,0,0,0,0,0,5,3,2
+99401,22,female,Non Hispanic Asian,70.6,25,15,365,0,60,120,1,3,2
+99404,34,female,Other Hispanic,62.1,13.33,30,365,0,120,300,2,1,3
+99405,54,male,Other,53.9,0,0,0,0,NA,120,5,4,3
+99407,49,female,Non Hispanic Black,60.6,0,0,0,0,30,60,5,4,4
+99410,52,female,Non Hispanic White,108,50,0,365,1,0,60,2,3,3
+99416,45,male,Other Hispanic,48.1,0,0,0,0,15,60,2,3,2
+99419,46,male,Mexican American,98.7,0,0,0,0,480,480,1,1,1
+99420,51,female,Non Hispanic Black,65.2,2.5,30,1095,1,60,30,5,5,1
+99422,57,male,Other,54.2,0,0,0,0,240,180,4,3,4
+99424,54,male,Non Hispanic Black,15.3,0,0,0,0,60,180,5,2,4
+99425,57,female,Non Hispanic Black,41.4,0,0,0,0,NA,60,4,5,2
+99427,45,female,Non Hispanic White,67.7,0,0,0,0,180,180,3,5,5
+99430,36,male,Mexican American,52.2,0,0,0,0,480,240,5,1,2
+99435,20,male,Other Hispanic,72.8,0,0,0,0,45,120,3,4,3
+99436,22,female,Non Hispanic Black,40.1,0,0,0,0,NA,60,4,4,3
+99438,41,female,Non Hispanic Asian,86.9,25,30,1095,0,60,0,3,3,3
+99439,34,female,Other,58.5,25,1,61,0,120,120,5,3,3
+99440,55,female,Non Hispanic Asian,24.5,0,0,0,0,NA,240,3,2,2
+99442,35,female,Non Hispanic White,55.8,0,0,0,0,120,300,1,5,2
+99443,57,male,Non Hispanic White,44.7,25,3,21,0,60,120,4,4,3
+99444,52,male,Other,122,50,30,1825,1,240,120,2,2,3
+99446,29,female,Non Hispanic White,104,25,30,1095,1,0,60,3,4,4
+99448,49,male,Other,81.7,10,30,1825,0,480,240,5,5,4
+99449,41,male,Non Hispanic Black,63.5,125,15,730,1,60,120,5,5,3
+99453,29,female,Other Hispanic,56,0,0,0,0,NA,420,5,3,3
+99454,57,male,Non Hispanic Black,36.6,0,0,0,0,NA,0,5,3,3
+99456,26,male,Non Hispanic Asian,31.4,0,0,0,0,NA,180,4,3,3
+99457,40,male,Mexican American,35.9,0,0,0,0,300,20,3,3,3
+99459,20,female,Other Hispanic,17.2,0,0,0,0,0,0,1,4,1
+99460,30,male,Other Hispanic,48.2,0,0,0,0,0,180,4,3,3
+99463,23,female,Other Hispanic,51.7,0,0,0,0,30,60,2,5,2
+99464,48,male,Non Hispanic White,44.9,21.25,30,9125,1,480,120,5,1,3
+99466,29,female,Other Hispanic,56.3,0,0,0,0,30,120,5,3,3
+99469,59,male,Non Hispanic White,72.7,0,0,0,0,120,420,4,3,4
+99470,56,female,Non Hispanic Black,50.2,35,30,730,0,0,0,3,4,2
+99473,41,male,Non Hispanic White,87.1,125,7,730,0,240,180,3,3,3
+99479,58,female,Mexican American,59.6,10,20,182,0,60,240,3,5,3
+99481,32,female,Non Hispanic White,62,0,0,0,0,120,120,3,3,3
+99484,51,female,Other Hispanic,84.3,25,30,152,0,NA,60,3,4,3
+99488,57,male,Mexican American,99.9,50,30,182,1,480,120,3,2,4
+99489,51,male,Non Hispanic Asian,47.6,0,0,0,0,60,60,5,4,3
+99494,46,female,Mexican American,63.3,0,0,0,0,14,14,4,5,1
+99495,43,female,Non Hispanic White,75,20,2,182,0,30,60,2,4,4
+99496,43,female,Non Hispanic Black,110,1250,4,1825,0,240,240,5,1,2
+99497,56,female,Non Hispanic Asian,69.8,25,30,730,0,30,0,1,5,3
+99498,32,male,Non Hispanic Asian,70.8,17.5,30,2920,1,0,0,5,5,2
+99510,35,female,Non Hispanic Asian,48.7,0,0,0,0,14,30,1,5,1
+99511,55,female,Non Hispanic White,57.4,0,0,0,0,120,120,5,5,5
+99513,36,female,Non Hispanic Asian,68.7,25,8,1460,0,0,0,2,2,2
+99517,39,female,Mexican American,102,0,0,0,0,30,120,1,3,2
+99525,26,female,Non Hispanic White,32.2,0,0,0,0,120,180,2,3,1
+99526,29,female,Non Hispanic Asian,38.9,20,30,730,0,60,120,2,5,2
+99531,55,female,Mexican American,42.1,0,0,0,0,60,120,4,3,1
+99536,36,female,Non Hispanic Black,66.4,25,30,91,0,360,300,5,5,1
+99539,22,male,Non Hispanic Black,42.4,0,0,0,0,150,0,5,4,3
+99540,57,male,Other,67.3,0,0,0,0,60,0,4,4,3
+99541,43,male,Non Hispanic Black,51.5,20,6,61,0,14,14,5,5,1
+99545,29,male,Mexican American,50.7,0,0,0,0,60,300,5,3,1
+99563,52,male,Non Hispanic Black,29.9,0,0,0,0,NA,0,5,4,3
+99568,52,female,Other Hispanic,106,1255,30,365,1,60,60,3,5,5
+99573,25,male,Non Hispanic Black,32.8,0,0,0,0,180,300,5,5,4
+99577,27,female,Non Hispanic White,61.9,0.75,20,182,0,0,60,1,5,3
+99583,23,female,Non Hispanic White,53.1,0,0,0,0,0,240,3,3,3
+99584,21,male,Mexican American,23.3,0,0,0,0,0,60,5,5,3
+99585,35,male,Non Hispanic Black,63.8,85,30,365,1,0,14,5,1,2
+99590,54,female,Non Hispanic White,64.2,0,0,0,0,NA,15,3,3,3
+99593,34,male,Other,59.7,25,20,3650,0,15,180,2,5,3
+99596,48,male,Non Hispanic Asian,32.9,0,0,0,0,0,120,5,3,3
+99599,48,female,Non Hispanic White,110,70,30,730,1,0,0,4,5,3
+99600,55,female,Non Hispanic Black,35.1,0,0,0,0,30,120,5,4,2
+99605,46,male,Non Hispanic White,55.4,17.5,30,1460,1,60,300,1,4,3
+99609,46,male,Non Hispanic Black,31.1,0,0,0,0,0,60,5,4,4
+99613,38,male,Non Hispanic Black,45.4,0,0,0,0,20,60,4,5,4
+99616,39,female,Non Hispanic White,42.8,0,0,0,0,NA,60,3,5,2
+99618,46,male,Non Hispanic Black,39.2,0,0,0,0,60,240,5,4,3
+99619,50,male,Mexican American,43.2,0,0,0,0,60,60,5,1,1
+99624,45,male,Non Hispanic White,71.8,0,0,0,0,300,180,4,4,3
+99628,52,female,Mexican American,80.5,0,0,0,0,90,180,5,5,3
+99631,40,male,Non Hispanic Asian,29.6,0,0,0,0,60,60,5,3,3
+99636,53,female,Mexican American,52.8,0,0,0,0,120,120,5,5,3
+99637,30,male,Non Hispanic Asian,63.6,0.75,30,730,1,0,120,3,3,2
+99641,23,male,Non Hispanic Black,59.2,0,0,0,0,480,90,4,3,4
+99653,53,male,Other Hispanic,176,142.5,30,1460,1,60,300,4,4,3
+99655,38,male,Non Hispanic Black,60.2,0,0,0,0,60,120,5,3,3
+99659,41,female,Non Hispanic Asian,74.6,50,20,547,1,30,120,3,3,3
+99661,48,female,Non Hispanic Black,74.6,25,14,14,1,30,0,1,3,2
+99665,46,female,Non Hispanic Asian,55.8,0,0,0,0,30,0,5,1,2
+99672,32,female,Non Hispanic Asian,71.6,50,30,730,0,20,60,2,5,2
+99675,53,female,Non Hispanic White,77,25,30,274,1,0,240,2,5,3
+99676,51,female,Other Hispanic,53.9,0,0,0,0,0,0,1,4,4
+99686,40,male,Non Hispanic Black,37.8,0,0,0,0,14,120,5,5,5
+99689,28,male,Non Hispanic White,120,0,0,0,0,240,240,4,4,3
+99691,44,female,Mexican American,55.6,0,0,0,0,14,60,3,3,3
+99694,48,male,Non Hispanic White,73.5,0,0,0,0,60,120,4,4,2
+99695,37,female,Non Hispanic White,75,25,14,14,1,30,120,1,4,3
+99709,26,male,Non Hispanic Asian,61.1,0,0,0,0,30,0,1,4,2
+99710,30,female,Other,56.3,0,0,0,0,240,360,4,5,3
+99711,58,female,Non Hispanic Asian,55.2,0,0,0,0,0,0,3,1,3
+99714,35,female,Non Hispanic White,57.9,16.67,15,730,0,30,30,2,3,2
+99715,24,female,Non Hispanic Black,28.1,0,0,0,0,60,60,5,4,2
+99716,35,male,Mexican American,48.6,0,0,0,0,480,120,3,2,5
+99720,53,male,Non Hispanic Asian,56,0,0,0,0,30,180,4,1,3
+99721,20,female,Non Hispanic Black,66.3,15,26,61,1,120,300,5,5,2
+99724,56,male,Non Hispanic White,85.3,0,0,0,0,NA,240,4,5,5
+99744,51,female,Non Hispanic White,52.6,0,0,0,0,30,60,3,3,2
+99745,33,male,Non Hispanic Asian,44.9,6.67,21,730,1,30,240,1,3,3
+99749,33,female,Non Hispanic Black,30.1,0,0,0,0,120,60,2,2,2
+99751,27,female,Non Hispanic White,61.6,0,0,0,0,120,240,5,4,3
+99759,50,male,Mexican American,52.7,0,0,0,0,480,480,5,1,5
+99761,20,female,Other Hispanic,49.5,0,0,0,0,NA,120,3,4,3
+99762,55,female,Mexican American,59.6,25,20,1460,0,60,30,3,3,2
+99763,54,female,Mexican American,68.4,25,30,730,1,14,60,1,3,2
+99765,46,female,Mexican American,54.2,0,0,0,0,0,0,5,3,2
+99766,49,male,Non Hispanic Asian,72.4,50,5,730,1,15,60,4,3,2
+99768,28,female,Non Hispanic White,63.4,0,0,0,0,60,120,1,4,3
+99772,43,female,Non Hispanic Black,12,0,0,0,0,0,0,4,3,5
+99777,21,male,Non Hispanic White,58.6,0,0,0,0,120,180,4,5,3
+99778,46,male,Other,59.3,0,0,0,0,30,120,2,3,3
+99779,41,female,Mexican American,24.2,0,0,0,0,120,0,1,5,3
+99782,53,female,Mexican American,54.3,0,0,0,0,0,120,5,5,2
+99783,35,male,Mexican American,46.9,0,0,0,0,480,180,5,1,4
+99786,44,male,Non Hispanic White,93.6,0,0,0,0,120,240,5,3,3
+99790,24,male,Non Hispanic Asian,54.3,17.5,3,365,1,120,120,4,4,3
+99793,26,female,Non Hispanic White,46.8,0,0,0,0,90,180,2,3,3
+99795,21,female,Other Hispanic,66,0,0,0,0,180,120,4,5,3
+99798,29,male,Non Hispanic White,79.2,0,0,0,0,240,120,5,2,3
+99807,27,male,Mexican American,56.4,12.5,30,152,0,120,180,5,5,4
+99808,39,female,Other Hispanic,102,50,30,1095,0,60,300,1,4,3
+99811,48,female,Mexican American,35.7,0,0,0,0,20,20,3,3,3
+99813,48,male,Non Hispanic Asian,79.1,1250,4,30,0,0,60,3,2,2
+99816,55,female,Non Hispanic White,94.1,0,0,0,0,NA,420,4,3,2
+99817,57,female,Non Hispanic Black,76.1,25,15,730,0,0,180,4,5,2
+99819,50,male,Non Hispanic White,117,25,15,182,0,480,240,5,4,4
+99824,33,female,Non Hispanic Asian,57.9,20,20,1095,0,0,300,1,2,1
+99831,58,male,Non Hispanic Black,24.3,0,0,0,0,NA,0,5,3,3
+99834,44,male,Non Hispanic Asian,39.4,0,0,0,0,20,20,5,1,4
+99838,48,female,Non Hispanic White,67,50,30,486,1,60,240,3,5,3
+99839,42,male,Non Hispanic Black,47,0,0,0,0,60,120,5,4,2
+99841,21,male,Non Hispanic Asian,38.5,0,0,0,0,0,180,5,5,5
+99842,47,male,Non Hispanic White,47.2,0,0,0,0,360,300,3,4,3
+99844,45,male,Non Hispanic Black,54.7,0,0,0,0,240,240,5,4,3
+99848,39,female,Non Hispanic White,40.9,0,0,0,0,60,60,4,4,3
+99855,34,male,Non Hispanic Black,31,0,0,0,0,60,240,5,5,3
+99856,54,male,Non Hispanic Black,44.1,0,0,0,0,0,30,4,3,3
+99857,36,female,Mexican American,73.3,10,1,730,0,60,60,4,3,2
+99858,58,male,Non Hispanic White,157,435,30,2555,1,NA,300,2,4,4
+99861,30,female,Non Hispanic Asian,64.4,0,0,0,0,240,240,2,3,2
+99864,36,female,Non Hispanic White,60.1,0,0,0,0,120,60,1,1,1
+99867,29,male,Non Hispanic White,41,0,0,0,0,30,60,2,3,3
+99869,24,male,Non Hispanic White,68.3,0,0,0,0,60,60,4,5,2
+99871,25,female,Mexican American,50.8,0,0,0,0,NA,120,4,5,4
+99872,31,female,Non Hispanic White,86,10,27,213,1,120,60,3,5,3
+99876,25,male,Non Hispanic White,76.7,0,0,0,0,300,480,5,5,4
+99879,27,female,Non Hispanic Black,39.9,10,30,1825,0,120,480,5,5,1
+99881,55,female,Non Hispanic Asian,71.9,0,0,0,0,15,240,1,3,3
+99883,51,male,Other Hispanic,72.7,0,0,0,0,480,300,5,1,3
+99887,27,female,Non Hispanic White,71.9,0,0,0,0,60,60,4,3,3
+99891,36,female,Non Hispanic White,67.2,0,0,0,0,120,60,4,5,3
+99893,41,female,Non Hispanic Black,57.7,20,30,1095,1,0,30,2,5,5
+99894,32,male,Mexican American,45.1,0,0,0,0,420,180,4,3,5
+99896,47,male,Other Hispanic,51.9,0,0,0,0,480,300,5,2,5
+99898,33,male,Non Hispanic White,50.2,0,0,0,0,120,60,4,5,4
+99899,59,male,Non Hispanic White,98.1,0,0,0,0,120,240,4,4,4
+99901,36,female,Non Hispanic Black,36,0,0,0,0,300,120,5,2,4
+99905,45,male,Non Hispanic Black,79.6,20,25,2555,1,30,120,3,4,3
+99909,42,male,Other Hispanic,77.7,20,7,7,1,300,120,5,5,4
+99910,30,female,Non Hispanic White,31.4,0,0,0,0,0,120,2,5,2
+99918,33,female,Non Hispanic Asian,24.5,0,0,0,0,0,480,1,2,2
+99920,36,female,Non Hispanic White,78,10,21,21,1,60,60,5,4,4
+99924,21,female,Non Hispanic Asian,104,0,0,0,0,30,90,2,4,2
+99925,38,male,Other Hispanic,90.4,75,30,730,1,60,360,3,5,4
+99926,54,female,Mexican American,87.9,0,0,0,0,0,0,5,2,1
+99927,25,male,Mexican American,53.2,0,0,0,0,420,420,5,3,1
+99928,29,male,Mexican American,35.5,0,0,0,0,480,360,4,1,5
+99929,39,male,Non Hispanic White,54,0,0,0,0,360,20,5,5,5
+99931,20,female,Non Hispanic Asian,24.5,0,0,0,0,240,300,5,3,3
+99935,42,female,Mexican American,56.5,0,0,0,0,420,180,2,2,2
+99937,54,female,Other Hispanic,126,125,30,1460,1,0,240,2,3,2
+99938,37,female,Non Hispanic Black,30.4,0,0,0,0,60,120,4,3,2
+99939,39,female,Non Hispanic Black,41.8,0,0,0,0,30,0,1,5,1
+99941,56,female,Non Hispanic Asian,78.2,0,0,0,0,120,60,3,1,1
+99942,35,female,Mexican American,36.6,0,0,0,0,0,180,4,4,3
+99947,56,female,Non Hispanic Black,38.7,0,0,0,0,0,120,3,3,2
+99949,21,female,Non Hispanic Asian,17.9,0,0,0,0,0,0,2,4,2
+99951,38,female,Other Hispanic,54.3,0,0,0,0,60,0,3,5,2
+99959,48,male,Non Hispanic Black,29.4,0,0,0,0,60,60,5,5,3
+99961,39,female,Non Hispanic Asian,45.6,0,0,0,0,0,60,2,2,2
+99964,21,female,Mexican American,35,0,0,0,0,14,0,5,2,2
+99966,46,female,Non Hispanic Asian,86.6,35,30,1095,1,0,0,3,3,3
+99974,26,female,Non Hispanic White,101,0,0,0,0,NA,240,2,5,3
+99983,33,female,Non Hispanic Black,16.6,0,0,0,0,NA,60,5,5,2
+99984,54,female,Other Hispanic,73,0,0,0,0,15,120,4,4,3
+99985,37,female,Non Hispanic White,74.1,0,0,0,0,60,60,2,4,3
+99986,31,female,Mexican American,84.1,10,30,91,1,120,60,3,5,3
+99987,58,male,Non Hispanic Asian,105,265,30,3650,1,480,300,3,3,3
+99989,21,female,Mexican American,34.1,0,0,0,0,60,300,4,3,2
+99994,48,female,Mexican American,99.2,0,0,0,0,480,60,3,5,2
+99996,51,female,Non Hispanic Black,104,75,0,1460,1,0,120,5,5,1
+99999,25,male,Mexican American,35.6,0,0,0,0,180,120,5,4,3
+100000,21,female,Non Hispanic Black,39.4,0,0,0,0,0,180,4,5,3
+100001,39,male,Non Hispanic White,98.6,17.5,30,11315,0,14,15,4,4,2
+100008,56,female,Non Hispanic Asian,82.8,20,30,182,0,NA,180,2,1,3
+100012,51,male,Non Hispanic White,119,0,0,0,0,60,180,2,5,2
+100013,43,female,Non Hispanic Asian,59.4,25,15,730,0,240,180,3,3,2
+100015,27,male,Non Hispanic White,66.6,0,0,0,0,180,60,4,5,2
+100016,36,male,Non Hispanic Asian,33.2,0,0,0,0,180,120,5,5,4
+100018,22,male,Non Hispanic White,51.5,0,0,0,0,90,20,4,3,3
+100024,39,female,Non Hispanic White,64,0,0,0,0,0,240,5,3,3
+100025,35,female,Non Hispanic White,57.8,0,0,0,0,180,180,4,4,3
+100026,22,female,Other,22.3,0,0,0,0,30,0,5,4,1
+100029,20,female,Mexican American,55.3,0,0,0,0,300,240,5,2,2
+100032,27,female,Non Hispanic Asian,35.9,50,30,365,0,60,180,1,3,3
+100037,54,male,Mexican American,89,25,30,30,0,180,60,3,1,3
+100039,28,male,Non Hispanic White,80,20,5,30,0,0,240,5,1,3
+100040,24,male,Other,61.6,0,0,0,0,300,300,5,3,4
+100041,47,male,Non Hispanic White,90.8,10,30,365,1,60,480,2,3,2
+100044,27,male,Mexican American,54.2,0,0,0,0,480,240,5,4,4
+100046,51,male,Other,96.8,0,0,0,0,NA,120,5,5,3
+100047,42,male,Non Hispanic Black,54.5,0,0,0,0,360,180,5,3,3
+100055,47,female,Non Hispanic Asian,32,0,0,0,0,15,180,3,3,2
+100056,57,male,Mexican American,53.6,25,30,2555,1,0,180,2,3,3
+100061,55,female,Non Hispanic Asian,60.6,0,0,0,0,0,0,5,5,5
+100062,48,female,Non Hispanic Asian,56.5,0,0,0,0,240,60,5,3,3
+100068,22,female,Non Hispanic White,38.4,0,0,0,0,0,0,3,5,2
+100070,28,female,Non Hispanic White,62.3,0,0,0,0,60,60,4,5,4
+100072,33,female,Mexican American,38.1,0,0,0,0,0,60,1,4,3
+100077,32,female,Mexican American,68.7,20,30,91,0,120,120,1,1,2
+100087,30,female,Non Hispanic White,58.3,0,0,0,0,0,240,5,5,4
+100089,24,female,Non Hispanic White,27.5,0,0,0,0,0,30,4,3,3
+100090,24,female,Mexican American,40.3,0,0,0,0,60,60,4,3,3
+100092,22,male,Other,50.7,0,0,0,0,20,360,5,4,2
+100095,27,female,Other Hispanic,60.7,25,3,365,0,0,420,2,4,3
+100099,45,male,Non Hispanic White,58.1,0,0,0,0,360,480,4,5,4
+100100,32,male,Non Hispanic Black,46.3,0,0,0,0,240,240,5,3,3
+100102,41,male,Non Hispanic Asian,47.3,10,4,365,0,300,180,5,3,3
+100105,50,female,Non Hispanic Black,58.6,0,0,0,0,60,0,5,5,2
+100107,23,male,Non Hispanic Black,39.5,0,0,0,0,180,120,4,5,3
+100108,27,female,Non Hispanic White,75.8,0,0,0,0,60,120,3,5,3
+100110,26,male,Non Hispanic Black,23.4,0,0,0,0,14,15,5,5,5
+100111,26,male,Mexican American,69.9,25,20,365,1,360,480,4,3,3
+100112,57,female,Other Hispanic,64.3,16.25,30,1825,1,30,30,2,3,2
+100115,47,female,Non Hispanic White,88.4,0,0,0,0,0,120,4,5,3
+100117,29,female,Non Hispanic Asian,49.6,0,0,0,0,0,0,3,4,3
+100119,47,female,Non Hispanic White,43.9,50,20,3650,1,30,120,2,2,2
+100123,57,male,Non Hispanic White,68.2,0,0,0,0,NA,180,5,5,3
+100127,55,male,Other Hispanic,38.4,0,0,0,0,60,120,3,2,2
+100128,47,male,Non Hispanic White,65.7,0,0,0,0,20,360,4,5,4
+100137,43,female,Other Hispanic,73.4,0,0,0,0,NA,120,3,3,2
+100144,33,female,Other Hispanic,11.1,0,0,0,0,0,NA,2,2,3
+100145,45,female,Other Hispanic,67.2,25,30,365,1,NA,60,1,5,3
+100148,22,female,Other Hispanic,65.1,0,0,0,0,30,240,4,4,3
+100150,51,female,Mexican American,100,0,0,0,0,0,0,1,1,1
+100160,26,female,Non Hispanic White,63,0,0,0,0,NA,120,5,3,2
+100165,56,male,Non Hispanic White,81.3,0,0,0,0,480,480,5,5,3
+100168,51,male,Other Hispanic,70.1,0,0,0,0,180,120,4,4,3
+100171,28,female,Mexican American,54.7,0,0,0,0,60,120,5,4,3
+100172,42,female,Non Hispanic White,80.3,25,30,30,1,20,120,3,4,2
+100173,47,male,Non Hispanic White,95.9,0,0,0,0,390,180,5,5,3
+100175,33,male,Non Hispanic Black,51.4,0,0,0,0,0,180,5,4,3
+100178,40,female,Non Hispanic White,67,0,0,0,0,NA,240,4,5,2
+100180,45,male,Non Hispanic Black,69.2,0,0,0,0,300,60,4,3,3
+100181,37,female,Mexican American,42.4,0,0,0,0,120,480,1,3,2
+100186,32,male,Non Hispanic Asian,74,0,0,0,0,120,60,4,3,3
+100190,32,female,Other Hispanic,58,0,0,0,0,60,60,4,4,5
+100191,42,female,Non Hispanic White,65.4,0,0,0,0,180,180,1,3,3
+100192,56,male,Mexican American,60.7,0,0,0,0,360,180,5,1,5
+100195,32,female,Non Hispanic Asian,48.7,0,0,0,0,0,60,4,4,3
+100196,32,female,Non Hispanic Black,67.4,20,30,1095,1,14,14,5,3,1
+100200,43,female,Other,64.6,0,0,0,0,0,180,5,4,3
+100201,43,male,Non Hispanic White,105,0,0,0,0,0,300,5,5,4
+100202,22,female,Mexican American,55.9,25,10,21,0,120,60,5,2,3
+100203,39,male,Non Hispanic Black,23.3,0,0,0,0,60,0,5,5,4
+100204,36,female,Other Hispanic,64.4,0,0,0,0,60,120,1,5,1
+100205,48,male,Non Hispanic Black,34.9,0,0,0,0,120,240,5,5,2
+100212,58,male,Non Hispanic White,60.2,0,0,0,0,60,240,5,5,4
+100214,57,male,Non Hispanic Black,54.5,0,0,0,0,NA,120,5,5,1
+100216,42,female,Mexican American,50.9,500,25,182,0,120,180,2,3,3
+100221,30,female,Non Hispanic Black,61.6,0,0,0,0,45,120,2,3,3
+100229,59,male,Non Hispanic White,63.1,0,0,0,0,NA,180,5,1,2
+100234,30,female,Non Hispanic Asian,47.6,0,0,0,0,60,120,3,4,2
+100238,58,male,Non Hispanic White,95,85,30,1825,1,360,360,5,4,4
+100241,36,female,Non Hispanic White,78.1,0,0,0,0,30,30,3,4,3
+100242,32,female,Non Hispanic Black,62.4,0,0,0,0,0,0,5,5,5
+100246,22,female,Non Hispanic Asian,74,20,30,91,1,30,0,1,4,4
+100248,28,male,Non Hispanic Asian,39.3,0,0,0,0,0,180,3,3,2
+100250,57,female,Non Hispanic White,85.2,62.5,10,3650,0,180,60,2,3,2
+100251,45,female,Non Hispanic Black,78.3,50,30,1095,1,180,180,4,5,3
+100253,30,male,Other Hispanic,44.8,0,0,0,0,60,120,3,3,3
+100254,28,female,Non Hispanic Black,29.5,0,0,0,0,0,180,5,4,1
+100257,55,female,Non Hispanic Asian,111,125,30,730,0,15,120,3,2,1
+100258,25,female,Non Hispanic White,91.9,10,15,91,1,20,60,5,4,2
+100264,26,male,Non Hispanic Black,35,0,0,0,0,480,480,5,4,2
+100265,55,female,Non Hispanic Asian,94.7,25,30,730,0,0,60,1,3,3
+100266,40,female,Non Hispanic White,70.8,0,0,0,0,60,180,2,5,2
+100269,24,female,Non Hispanic White,98.1,25,30,365,1,NA,60,4,4,3
+100270,36,male,Other Hispanic,45.7,0,0,0,0,420,480,5,5,2
+100271,36,female,Non Hispanic White,74.8,25,25,304,0,30,120,4,5,4
+100272,35,male,Non Hispanic Asian,62.8,0,0,0,0,300,180,5,5,5
+100280,33,female,Non Hispanic White,107,0,0,0,0,NA,120,5,1,4
+100281,59,female,Non Hispanic White,73.5,0,0,0,0,0,120,2,5,2
+100286,45,female,Non Hispanic Black,30.4,0,0,0,0,60,30,3,5,2
+100288,43,female,Non Hispanic Asian,62.3,0,0,0,0,NA,0,2,3,2
+100292,56,female,Other,92,25,20,365,0,0,0,2,4,2
+100293,29,female,Non Hispanic Black,27.7,0,0,0,0,0,NA,5,3,1
+100294,40,female,Non Hispanic Black,42.2,10,15,7300,0,NA,60,2,4,2
+100295,36,male,Non Hispanic Black,93.1,17.5,30,730,0,360,240,5,5,3
+100298,47,female,Non Hispanic Black,102,20,30,730,1,25,60,5,4,3
+100299,27,female,Non Hispanic Black,66.5,40,20,2555,0,120,NA,3,4,3
+100301,53,female,Other,76.5,0,0,0,0,30,0,3,5,3
+100305,48,male,Non Hispanic Asian,43.3,0,0,0,0,480,240,1,3,3
+100311,55,male,Mexican American,51.5,0,0,0,0,480,240,5,1,3
+100313,35,female,Non Hispanic White,87.7,0,0,0,0,0,60,4,5,4
+100318,41,male,Mexican American,83.3,50,30,182,1,0,0,4,5,3
+100319,47,female,Non Hispanic White,41.9,25,20,30,0,0,15,2,4,2
+100324,46,female,Other Hispanic,68.3,0,0,0,0,60,0,4,3,3
+100325,35,female,Non Hispanic Asian,45.6,0,0,0,0,0,0,5,5,3
+100326,21,female,Non Hispanic Black,19.9,0,0,0,0,0,0,5,5,3
+100329,27,female,Other Hispanic,38.2,0,0,0,0,180,0,NA,NA,6
+100332,43,male,Non Hispanic White,45.6,0,0,0,0,420,360,2,1,4
+100333,29,male,Non Hispanic Asian,43.4,0,0,0,0,30,300,5,4,4
+100338,45,male,Non Hispanic White,42.1,0,0,0,0,180,240,5,2,3
+100347,57,male,Mexican American,40.4,0,0,0,0,0,120,3,5,3
+100348,49,female,Non Hispanic Black,87.8,25,30,365,1,30,180,3,3,2
+100353,59,male,Non Hispanic Asian,49.7,0,0,0,0,NA,25,5,4,1
+100356,39,female,Non Hispanic Black,26.5,0,0,0,0,45,20,5,4,2
+100361,57,male,Mexican American,59.9,0,0,0,0,300,180,5,3,5
+100365,22,female,Mexican American,49.8,0,0,0,0,60,30,4,5,2
+100369,55,female,Non Hispanic Asian,66.4,0,0,0,0,180,180,5,5,5
+100376,49,male,Non Hispanic Black,80.5,20,24,3650,0,60,240,3,4,4
+100377,47,male,Non Hispanic Asian,50.5,20,20,122,1,120,360,3,3,3
+100378,44,female,Other,59.3,60,30,4745,1,60,120,3,2,3
+100382,45,male,Other,32.5,0,0,0,0,NA,180,4,5,3
+100386,37,female,Mexican American,59.1,10,30,122,1,30,60,3,3,2
+100388,56,female,Non Hispanic White,22.9,0,0,0,0,NA,30,3,5,2
+100389,55,female,Non Hispanic Black,49.5,0,0,0,0,NA,120,5,5,2
+100393,52,male,Non Hispanic White,173,375,1,365,0,0,180,4,4,3
+100402,51,female,Non Hispanic White,59.8,0,0,0,0,NA,60,3,5,1
+100407,55,male,Other,77.2,25,4,4,0,NA,120,5,3,3
+100410,58,female,Mexican American,61.6,25,3,1095,0,60,0,5,5,2
+100415,49,female,Non Hispanic Black,21.4,2.2,5,365,0,0,60,5,4,2
+100418,31,male,Non Hispanic White,95.4,0,0,0,0,14,240,3,4,3
+100419,40,male,Non Hispanic White,203,125,30,1460,1,120,14,4,4,3
+100421,50,female,Other Hispanic,101,25,26,10950,1,20,45,1,1,2
+100427,38,female,Mexican American,42.4,0,0,0,0,0,30,3,3,3
+100428,29,female,Non Hispanic White,84.9,0,0,0,0,180,120,2,5,4
+100429,33,male,Mexican American,22.6,0,0,0,0,60,120,5,5,4
+100431,28,female,Non Hispanic White,42,0,0,0,0,300,60,4,4,5
+100434,32,female,Mexican American,36.8,0,0,0,0,15,60,1,2,2
+100436,48,female,Mexican American,44.7,0,0,0,0,NA,0,4,3,1
+100438,22,female,Mexican American,63.4,0,0,0,0,120,30,4,2,3
+100440,28,female,Mexican American,70,100,4,122,0,0,0,3,2,3
+100447,50,male,Non Hispanic White,81.4,25,30,274,0,120,360,2,3,2
+100451,40,female,Non Hispanic Asian,43.6,0,0,0,0,60,60,3,3,3
+100454,52,female,Non Hispanic Asian,81.8,15,10,1460,0,360,240,3,1,2
+100460,55,male,Non Hispanic White,33.7,0,0,0,0,120,120,3,5,1
+100463,28,male,Non Hispanic Black,52.5,0,0,0,0,360,240,4,3,2
+100464,32,male,Other,42.2,0,0,0,0,60,NA,5,3,4
+100468,52,female,Non Hispanic Black,71.8,50,30,730,1,180,300,5,4,3
+100476,38,female,Non Hispanic Asian,45.5,0,0,0,0,30,60,4,5,2
+100481,59,female,Non Hispanic Asian,80.6,0,0,0,0,NA,120,2,2,3
+100483,51,female,Mexican American,56.4,0,0,0,0,120,240,3,4,3
+100484,55,female,Non Hispanic White,28.7,0,0,0,0,240,240,5,4,2
+100492,55,male,Non Hispanic Black,26.7,0,0,0,0,120,180,5,3,3
+100494,29,male,Non Hispanic Asian,42.8,0,0,0,0,120,180,3,4,2
+100499,52,female,Other Hispanic,14.5,0,0,0,0,0,0,1,5,2
+100500,34,female,Non Hispanic Black,14.7,0,0,0,0,120,120,5,4,3
+100505,57,female,Mexican American,64.8,0,0,0,0,480,0,5,3,5
+100510,37,female,Non Hispanic Black,74.8,0,0,0,0,NA,180,5,3,3
+100513,56,male,Non Hispanic Black,14.3,0,0,0,0,480,480,5,1,1
+100514,37,male,Mexican American,58.2,0,0,0,0,180,120,4,3,2
+100517,39,male,Non Hispanic White,75.1,0,0,0,0,NA,0,2,5,3
+100521,58,male,Non Hispanic Asian,89.5,0,0,0,0,15,300,4,3,2
+100524,20,male,Mexican American,61.9,0,0,0,0,480,120,4,3,3
+100526,33,female,Other Hispanic,67.5,0,0,0,0,NA,120,5,5,2
+100528,47,female,Non Hispanic White,70.9,0,0,0,0,60,180,4,4,3
+100530,52,male,Non Hispanic Asian,44.2,0,0,0,0,20,180,3,4,3
+100532,46,female,Non Hispanic Black,35.5,0,0,0,0,90,180,5,3,3
+100535,56,female,Non Hispanic Asian,132,125,30,730,1,120,60,4,3,2
+100537,32,female,Mexican American,42,40,25,30,0,NA,120,4,3,3
+100540,35,female,Other Hispanic,31.9,0,0,0,0,0,60,3,4,2
+100546,31,female,Non Hispanic White,79.5,10,15,547,0,60,180,2,5,3
+100548,33,female,Non Hispanic White,94.6,20,15,182,0,0,60,2,5,3
+100557,52,male,Non Hispanic Black,38.8,0,0,0,0,0,0,5,5,5
+100563,45,female,Non Hispanic Black,30.6,0,0,0,0,NA,0,5,5,4
+100568,46,male,Mexican American,30.9,0,0,0,0,15,120,3,3,3
+100571,30,male,Non Hispanic Black,40.5,0,0,0,0,180,120,5,2,1
+100572,41,male,Non Hispanic White,70.6,0,0,0,0,300,300,5,5,3
+100574,53,female,Other Hispanic,71.1,275,30,1095,0,0,0,1,1,1
+100575,50,female,Non Hispanic Asian,168,75,30,10950,1,0,180,1,2,2
+100577,27,female,Non Hispanic Black,27.4,0,0,0,0,60,120,5,4,5
+100579,59,male,Non Hispanic White,88.2,0,0,0,0,60,150,5,5,2
+100582,54,male,Non Hispanic Black,27.3,0,0,0,0,NA,480,5,4,3
+100583,29,female,Mexican American,40.8,0,0,0,0,60,120,4,1,3
+100589,33,female,Mexican American,41,0,0,0,0,480,120,5,1,5
+100590,24,male,Non Hispanic Asian,14.4,0,0,0,0,45,14,4,3,2
+100594,59,male,Non Hispanic Black,65.1,20,0,1095,0,NA,0,5,3,1
+100599,54,male,Mexican American,64.3,0,0,0,0,0,30,3,3,2
+100610,41,female,Non Hispanic Black,60.5,12.5,30,30,0,120,NA,5,4,3
+100611,43,male,Mexican American,74,10,30,7300,1,14,15,4,5,3
+100619,28,female,Non Hispanic White,84.4,30,30,2190,1,30,45,2,5,3
+100621,40,male,Other,51.5,0,0,0,0,0,180,4,3,3
+100622,43,male,Other,159,1250,4,365,0,NA,120,4,4,3
+100623,36,female,Non Hispanic White,31.2,0,0,0,0,25,25,3,5,3
+100624,23,male,Mexican American,33.4,0,0,0,0,120,300,5,3,4
+100625,54,female,Mexican American,43.6,0,0,0,0,0,0,3,3,3
+100627,43,female,Other,120,0,0,0,0,180,480,5,5,5
+100628,33,male,Non Hispanic Asian,99.3,0,0,0,0,60,180,3,5,3
+100632,39,male,Non Hispanic White,73.5,0,0,0,0,480,120,1,4,3
+100634,38,male,Non Hispanic Black,82.8,25,30,3285,1,300,0,5,5,3
+100635,39,male,Non Hispanic Asian,68,25,30,0,1,120,120,3,3,2
+100636,46,male,Non Hispanic Black,54.7,0,0,0,0,NA,240,5,5,2
+100638,42,male,Mexican American,25.8,0,0,0,0,20,20,1,3,1
+100641,24,female,Non Hispanic Asian,56.5,0,0,0,0,480,480,1,2,2
+100644,31,female,Non Hispanic White,88.5,0,0,0,0,NA,480,5,5,3
+100647,33,male,Non Hispanic White,70.3,75,0,365,0,30,120,1,3,2
+100649,43,male,Non Hispanic White,52.4,0,0,0,0,360,180,3,5,3
+100653,25,male,Non Hispanic Black,44,0,0,0,0,0,0,5,3,3
+100657,57,female,Non Hispanic Black,24.6,0,0,0,0,60,30,5,5,1
+100667,20,male,Non Hispanic Black,31.4,195,15,1460,0,30,60,5,5,2
+100670,41,male,Non Hispanic Asian,73.9,0,0,0,0,120,120,3,5,3
+100672,25,female,Mexican American,49.7,0,0,0,0,0,0,2,3,3
+100673,35,female,Non Hispanic Black,22,0,0,0,0,NA,120,5,4,3
+100675,21,female,Non Hispanic Black,57.2,0,0,0,0,300,0,5,3,3
+100677,56,female,Non Hispanic White,62.1,0,0,0,0,0,30,2,3,2
+100681,56,female,Other Hispanic,61.6,0,0,0,0,0,0,1,1,2
+100684,35,female,Non Hispanic Black,22.4,0,0,0,0,45,120,4,2,2
+100689,21,male,Non Hispanic Black,30.3,0,0,0,0,0,120,5,5,2
+100693,49,female,Non Hispanic Black,97.1,50,2,365,0,60,60,4,4,3
+100697,32,male,Non Hispanic White,59.2,0,0,0,0,0,480,5,1,5
+100698,48,female,Non Hispanic Asian,77.6,0,0,0,0,30,60,3,3,1
+100701,33,female,Non Hispanic Black,16.5,25,28,365,0,30,240,3,3,2
+100705,56,female,Non Hispanic White,56.8,75,20,3650,0,14,0,2,4,1
+100707,34,female,Non Hispanic White,54.9,0,0,0,0,60,120,1,1,1
+100709,38,male,Non Hispanic White,104,0,0,0,0,60,480,4,5,4
+100710,33,male,Other Hispanic,47.7,0,0,0,0,NA,30,5,5,3
+100713,38,female,Non Hispanic White,73.8,25,30,2555,1,240,90,1,2,2
+100714,37,female,Non Hispanic White,62.8,0,0,0,0,30,60,1,4,2
+100715,51,female,Non Hispanic White,72.4,0,0,0,0,NA,20,3,5,3
+100717,49,female,Non Hispanic White,51,0,0,0,0,60,180,3,4,3
+100720,59,male,Non Hispanic White,91.1,17.5,20,1825,1,360,300,5,5,3
+100727,26,male,Non Hispanic White,47.7,0,0,0,0,60,120,5,3,3
+100730,44,female,Non Hispanic White,99.4,25,30,61,0,15,120,5,5,3
+100732,35,male,Non Hispanic Asian,26.6,0,0,0,0,120,60,5,5,3
+100733,44,female,Non Hispanic Asian,46.4,0,0,0,0,0,0,5,4,3
+100738,39,female,Other Hispanic,47.5,0,0,0,0,30,60,3,4,2
+100740,20,male,Non Hispanic White,58.5,0,0,0,0,60,300,4,3,3
+100742,34,male,Non Hispanic Black,44.9,0,0,0,0,120,120,5,4,2
+100743,52,female,Mexican American,80,50,30,730,1,60,300,5,4,5
+100747,55,female,Other,89.7,10,30,2190,1,NA,300,1,3,2
+100749,21,male,Non Hispanic Asian,58.4,0,0,0,0,360,60,4,5,4
+100752,42,male,Non Hispanic Asian,21.5,0,0,0,0,15,30,1,2,2
+100754,54,male,Non Hispanic Black,31.3,0,0,0,0,120,240,5,5,4
+100759,35,male,Non Hispanic White,101,25,10,182,0,0,60,5,4,3
+100765,48,female,Non Hispanic Asian,48.5,0,0,0,0,60,240,4,3,4
+100768,42,female,Non Hispanic Asian,107,60,30,1825,1,120,0,5,5,4
+100772,45,female,Other,72.4,45,30,365,1,180,180,5,4,3
+100775,21,female,Non Hispanic White,49,0,0,0,0,15,0,1,5,3
+100780,54,male,Non Hispanic White,64.9,0,0,0,0,NA,120,5,3,3
+100782,39,male,Non Hispanic White,48.3,5,30,730,1,240,240,5,4,3
+100788,35,male,Non Hispanic White,44.9,0,0,0,0,300,480,2,3,3
+100801,34,male,Non Hispanic White,63.2,0,0,0,0,120,120,5,5,2
+100802,51,female,Non Hispanic Black,50.9,0,0,0,0,20,120,3,5,2
+100816,43,female,Non Hispanic White,137,0,0,0,0,240,300,3,5,3
+100819,30,male,Non Hispanic Black,15.8,0,0,0,0,0,0,5,3,4
+100825,37,female,Non Hispanic Black,23.9,0,0,0,0,180,240,3,3,3
+100827,45,female,Non Hispanic White,42.5,0,0,0,0,30,60,3,5,2
+100829,43,male,Non Hispanic Black,26.3,0,0,0,0,90,120,5,5,3
+100838,37,female,Non Hispanic White,20.9,0,0,0,0,0,0,2,5,1
+100841,41,female,Non Hispanic Asian,164,125,27,730,1,60,120,4,4,2
+100843,33,male,Other,73.8,0,0,0,0,360,360,5,5,2
+100844,59,male,Non Hispanic Black,53.5,0,0,0,0,NA,0,5,2,3
+100846,29,male,Non Hispanic White,80,0,0,0,0,480,60,3,3,3
+100849,26,male,Non Hispanic Asian,35.2,0,0,0,0,0,0,5,4,4
+100855,30,female,Non Hispanic White,109,10,30,304,1,300,480,5,5,3
+100860,36,female,Non Hispanic Black,26,0,0,0,0,180,60,5,3,2
+100861,36,male,Non Hispanic White,55.2,0,0,0,0,60,360,5,4,3
+100865,52,female,Non Hispanic White,116,1250,4,1825,0,180,180,5,3,3
+100866,46,male,Non Hispanic White,73.7,50,2,730,0,0,180,2,4,2
+100874,55,male,Non Hispanic Asian,94.6,0,0,0,0,120,180,3,3,3
+100877,25,male,Non Hispanic Black,37.1,0,0,0,0,45,0,3,3,3
+100880,46,male,Non Hispanic White,73.6,0,0,0,0,360,360,5,4,3
+100881,26,male,Non Hispanic Black,59.7,0,0,0,0,480,180,4,2,3
+100892,23,male,Mexican American,70.2,0,0,0,0,60,180,2,5,3
+100895,58,female,Non Hispanic Asian,86.1,50,30,1825,0,60,60,1,2,2
+100896,28,female,Non Hispanic White,107,10,30,304,1,NA,0,5,4,2
+100898,42,female,Non Hispanic White,73.9,0,0,0,0,30,300,3,5,4
+100902,52,female,Non Hispanic Asian,79.3,0,0,0,0,14,120,2,5,3
+100907,41,male,Non Hispanic White,99.9,0,0,0,0,60,120,4,5,4
+100911,26,male,Non Hispanic White,64.1,0,0,0,0,180,300,4,4,4
+100913,23,female,Non Hispanic Black,47.3,0,0,0,0,180,60,3,4,2
+100923,22,male,Other Hispanic,44.4,0,0,0,0,14,45,5,2,4
+100924,40,female,Non Hispanic White,101,0,0,0,0,120,300,5,5,5
+100925,45,female,Non Hispanic Black,37.1,0,0,0,0,300,120,5,3,2
+100928,25,male,Non Hispanic White,60.8,0,0,0,0,240,180,5,5,3
+100929,40,female,Non Hispanic Black,24.5,0,0,0,0,60,180,5,4,2
+100930,59,female,Other Hispanic,45,0,0,0,0,60,360,3,2,3
+100934,37,female,Non Hispanic White,67,25,30,5110,1,60,120,1,3,2
+100935,20,male,Non Hispanic Black,85.3,25,7,30,0,NA,360,5,4,3
+100936,57,female,Non Hispanic Asian,70.3,0,0,0,0,0,120,5,4,5
+100937,55,male,Other Hispanic,79.4,70,30,91,1,180,120,5,3,3
+100942,20,male,Non Hispanic White,72.1,0,0,0,0,480,360,5,2,4
+100947,37,female,Non Hispanic White,79.5,0,0,0,0,60,60,5,5,2
+100949,51,female,Non Hispanic Black,24.1,0,0,0,0,360,0,5,1,1
+100952,21,male,Non Hispanic White,63.5,0,0,0,0,60,180,3,5,4
+100954,47,male,Non Hispanic Asian,55.3,0,0,0,0,480,300,5,2,3
+100961,20,female,Non Hispanic White,57.7,0,0,0,0,120,240,1,3,2
+100965,25,female,Non Hispanic Black,35.4,10,15,304,0,480,180,5,3,1
+100966,37,female,Non Hispanic White,65.8,0,0,0,0,60,120,4,4,4
+100967,38,female,Non Hispanic White,87.9,0,0,0,0,30,120,3,4,4
+100971,22,female,Non Hispanic Black,42.2,0,0,0,0,60,0,5,4,3
+100972,57,male,Other,57.6,25,5,365,1,60,60,5,4,3
+100973,28,male,Other,79.2,0,0,0,0,120,120,5,5,3
+100983,42,female,Non Hispanic Asian,50.7,0,0,0,0,NA,60,2,3,3
+100985,23,male,Non Hispanic White,40,0,0,0,0,180,60,4,1,4
+100986,50,female,Other Hispanic,62.7,50,30,547,1,0,15,4,3,3
+100992,27,male,Other Hispanic,107,50,30,365,1,0,60,3,1,1
+100994,28,male,Mexican American,51.3,0,0,0,0,480,120,5,3,3
+100996,52,male,Non Hispanic White,82.9,0,0,0,0,14,180,4,3,4
+100999,29,female,Non Hispanic White,27.5,10,20,1460,0,15,30,2,2,2
+101002,37,female,Other Hispanic,60.7,0,0,0,0,0,120,4,3,3
+101003,56,male,Mexican American,64.2,0,0,0,0,30,60,5,5,5
+101004,29,male,Non Hispanic White,44.4,0,0,0,0,60,240,4,5,4
+101005,29,female,Other,69.2,15,5,7,0,60,120,3,5,2
+101007,43,female,Non Hispanic White,61.2,0,0,0,0,0,0,1,5,3
+101009,21,female,Mexican American,21.4,0,0,0,0,60,60,1,5,1
+101011,23,male,Non Hispanic White,94.6,0,0,0,0,180,300,5,5,4
+101013,44,female,Non Hispanic Black,45.1,0,0,0,0,30,30,3,5,2
+101014,42,female,Non Hispanic White,42.5,0,0,0,0,180,240,5,4,3
+101019,49,male,Non Hispanic White,143,200,30,1095,1,0,240,1,3,4
+101023,52,male,Other,74,0,0,0,0,15,180,2,3,3
+101024,53,male,Non Hispanic White,89,25,30,1460,1,NA,60,5,4,3
+101025,23,female,Non Hispanic Asian,59.4,0,0,0,0,180,60,1,5,4
+101027,55,male,Non Hispanic White,67.3,0,0,0,0,NA,480,5,5,3
+101028,59,female,Other Hispanic,67,25,30,152,1,0,300,3,5,5
+101030,30,female,Non Hispanic Asian,48.6,0,0,0,0,0,480,4,3,3
+101031,27,male,Non Hispanic Asian,55.3,0,0,0,0,20,0,4,4,4
+101034,46,female,Non Hispanic White,59.7,0,0,0,0,NA,30,3,5,2
+101037,41,female,Non Hispanic White,109,0,0,0,0,120,180,3,3,3
+101049,57,female,Non Hispanic White,43.7,0,0,0,0,20,30,3,5,2
+101051,57,male,Non Hispanic Asian,62.6,25,30,3650,1,0,240,5,3,5
+101052,49,female,Non Hispanic Black,55.5,0,0,0,0,60,30,5,4,2
+101064,28,male,Other,76.1,0,0,0,0,240,360,5,5,3
+101065,44,female,Mexican American,72.4,60,30,182,1,0,0,1,1,1
+101068,55,female,Non Hispanic White,72.4,50,30,3650,1,180,300,4,4,3
+101069,32,male,Non Hispanic Black,55.9,0,0,0,0,180,60,3,4,3
+101070,34,female,Mexican American,40.8,13.33,25,182,0,0,60,2,5,2
+101076,22,female,Other,89.2,25,30,1095,1,NA,0,2,4,2
+101077,36,male,Non Hispanic White,47.3,0,0,0,0,360,240,3,3,3
+101079,51,female,Non Hispanic Asian,61.9,20,2,365,0,0,120,3,4,3
+101084,46,female,Non Hispanic White,69.9,0,0,0,0,120,240,3,5,3
+101085,31,male,Other,50.5,0,0,0,0,300,120,5,5,2
+101086,32,male,Other,32.2,0,0,0,0,480,180,5,5,2
+101087,51,female,Non Hispanic White,51.2,0,0,0,0,120,180,5,4,3
+101091,58,female,Non Hispanic Black,15.8,0,0,0,0,39,14,5,5,2
+101095,56,female,Non Hispanic Asian,111,75,20,4380,0,30,30,3,5,1
+101096,56,female,Other Hispanic,69.9,20,25,122,1,NA,30,3,3,3
+101097,39,female,Other Hispanic,61.3,0,0,0,0,0,0,1,3,3
+101099,23,female,Non Hispanic White,60.4,0,0,0,0,NA,120,4,5,3
+101101,22,male,Non Hispanic White,75.6,0,0,0,0,0,300,5,4,4
+101103,53,female,Non Hispanic Black,75.2,50,30,182,1,300,0,1,2,2
+101106,49,female,Non Hispanic Black,59.3,0,0,0,0,14,30,5,2,2
+101107,44,female,Mexican American,30.8,0,0,0,0,480,240,5,1,4
+101108,59,female,Other,85.8,45,28,10950,1,0,120,2,5,3
+101111,22,male,Non Hispanic Black,23.9,0,0,0,0,120,240,5,4,3
+101112,45,female,Non Hispanic Asian,108,45,30,1095,0,0,60,5,1,1
+101115,36,female,Non Hispanic Black,71.6,51.25,30,1825,1,120,120,5,3,4
+101118,26,male,Mexican American,41.6,20.83,10,365,0,30,90,3,4,3
+101122,30,male,Non Hispanic Black,33,0,0,0,0,20,60,5,4,4
+101123,59,female,Non Hispanic White,96.1,0,0,0,0,NA,120,4,3,3
+101125,33,female,Non Hispanic White,73,0,0,0,0,300,300,5,5,3
+101132,31,male,Non Hispanic Asian,74.4,17.5,30,730,1,60,180,3,4,3
+101134,30,female,Non Hispanic White,68.7,0,0,0,0,60,180,2,3,2
+101138,33,female,Non Hispanic White,36.9,0,0,0,0,0,60,4,4,2
+101139,33,female,Non Hispanic White,52.6,25,30,1095,1,0,120,4,5,3
+101141,54,male,Mexican American,48.6,0,0,0,0,120,360,5,1,3
+101147,58,female,Non Hispanic Asian,83.1,0,0,0,0,14,180,5,1,1
+101149,59,male,Non Hispanic White,77,50,0,1095,0,0,30,5,4,3
+101153,42,male,Non Hispanic Black,66,25,30,6205,1,30,18,5,3,4
+101155,52,female,Non Hispanic Black,60.7,25,7,7,0,0,0,5,5,5
+101160,49,female,Mexican American,48.8,10,5,1095,0,300,300,4,3,3
+101164,26,female,Non Hispanic Asian,52,0,0,0,0,0,180,2,4,3
+101166,28,female,Non Hispanic White,95.1,0,0,0,0,14,300,2,5,2
+101169,58,female,Non Hispanic Black,46.4,0,0,0,0,0,30,5,4,1
+101171,47,female,Non Hispanic White,57.9,0,0,0,0,60,180,5,5,4
+101174,35,male,Non Hispanic Black,39.1,0,0,0,0,60,60,5,4,2
+101175,55,male,Non Hispanic White,54.8,0,0,0,0,0,0,1,4,4
+101181,50,female,Other Hispanic,97.1,10,30,7300,1,0,60,4,5,2
+101182,58,male,Non Hispanic Black,46,0,0,0,0,300,180,5,2,2
+101185,57,female,Non Hispanic Asian,90.1,0,0,0,0,0,0,5,1,2
+101186,35,male,Other Hispanic,47.4,0,0,0,0,30,90,3,3,3
+101187,33,male,Mexican American,75.5,25,30,5475,1,480,120,2,2,3
+101190,21,male,Other Hispanic,68.2,0,0,0,0,480,0,5,5,4
+101191,35,female,Non Hispanic White,86.6,25,30,49,1,180,480,3,5,3
+101194,48,female,Non Hispanic White,102,110,30,2555,1,30,300,4,4,3
+101201,55,male,Non Hispanic Asian,50.2,0,0,0,0,0,0,5,2,2
+101206,34,male,Mexican American,48.8,0,0,0,0,480,240,5,4,3
+101214,23,male,Non Hispanic Asian,55.1,0,0,0,0,120,120,4,5,2
+101216,55,female,Non Hispanic Black,43.5,0,0,0,0,0,360,5,5,3
+101220,35,female,Non Hispanic Asian,38.9,0,0,0,0,0,60,3,4,2
+101221,54,male,Non Hispanic Black,46.9,0,0,0,0,NA,60,5,3,1
+101222,48,male,Other,83.2,26.5,30,1460,1,60,60,2,3,2
+101226,44,male,Non Hispanic Asian,37.8,10,4,122,0,120,30,5,5,4
+101228,30,female,Non Hispanic White,83.7,25,20,730,1,NA,60,3,4,3
+101229,38,female,Mexican American,49.3,20,30,122,0,120,120,5,2,3
+101230,50,female,Non Hispanic Black,57.9,0,0,0,0,0,360,4,5,3
+101236,26,male,Non Hispanic Black,29.8,0,0,0,0,480,480,5,5,1
+101238,36,male,Other Hispanic,40.3,0,0,0,0,480,240,2,4,4
+101241,27,male,Non Hispanic Asian,58.2,0,0,0,0,60,30,3,3,3
+101242,57,female,Non Hispanic White,58.3,50,4,1095,0,NA,360,1,5,1
+101246,54,male,Non Hispanic Asian,49,0,0,0,0,120,0,5,4,3
+101247,38,male,Non Hispanic Asian,54.4,0,0,0,0,60,300,5,3,4
+101250,38,female,Non Hispanic White,83.5,31.25,20,365,1,NA,180,3,3,3
+101252,33,female,Other,30,0,0,0,0,420,90,5,4,3
+101253,57,male,Non Hispanic Black,45,0,0,0,0,300,360,5,3,3
+101254,29,female,Non Hispanic Black,53.2,0,0,0,0,480,0,5,2,1
+101256,34,female,Non Hispanic Black,42,0,0,0,0,NA,480,5,5,3
+101258,45,male,Non Hispanic White,64.1,0,0,0,0,120,60,4,5,3
+101262,25,male,Mexican American,35,0,0,0,0,120,420,4,2,3
+101265,47,female,Non Hispanic Black,85.3,0,0,0,0,60,240,3,4,3
+101278,44,male,Non Hispanic Asian,57.5,20,2,365,0,240,360,5,3,4
+101281,34,female,Mexican American,54.2,0,0,0,0,0,120,1,5,2
+101283,56,female,Non Hispanic Black,144,37.5,5,60,1,60,120,4,4,3
+101285,30,male,Non Hispanic White,69.6,0,0,0,0,300,180,4,5,4
+101286,52,female,Non Hispanic Black,20.4,0,0,0,0,360,120,5,3,1
+101289,26,female,Mexican American,54.2,0,0,0,0,NA,0,5,3,3
+101294,39,female,Non Hispanic Black,33.2,0,0,0,0,30,360,5,4,3
+101300,35,female,Other Hispanic,55.6,0,0,0,0,120,60,3,2,3
+101307,47,female,Non Hispanic Black,25.2,0,0,0,0,0,0,5,4,2
+101308,25,female,Non Hispanic White,85.4,0,0,0,0,60,180,3,5,3
+101311,30,male,Non Hispanic Asian,83.9,50,12,365,0,240,240,5,5,5
+101313,42,female,Non Hispanic Black,122,10,30,182,0,300,420,5,5,3
+101316,22,male,Non Hispanic Asian,74.6,0,0,0,0,60,60,4,5,3
+101319,34,male,Mexican American,86.1,0,0,0,0,120,240,3,5,5
+101322,57,male,Non Hispanic Asian,33.2,50,30,152,1,240,480,4,2,4
+101324,35,male,Non Hispanic Black,46.8,0,0,0,0,60,180,5,3,3
+101327,52,female,Non Hispanic White,118,50,30,7300,1,NA,180,2,2,2
+101330,22,female,Non Hispanic White,51.6,0,0,0,0,19,14,2,5,3
+101342,41,female,Non Hispanic White,31.4,0,0,0,0,0,300,1,4,3
+101345,29,female,Non Hispanic Black,27.1,0,0,0,0,0,240,5,5,5
+101350,46,male,Non Hispanic White,88.5,5,15,730,0,45,300,5,5,4
+101355,46,male,Non Hispanic Black,47.5,17.5,22,730,0,180,180,5,4,2
+101356,54,female,Non Hispanic White,89,0,0,0,0,0,120,5,5,5
+101359,52,female,Mexican American,59.7,0,0,0,0,60,NA,1,3,3
+101360,46,male,Non Hispanic White,25.4,0,0,0,0,180,60,5,5,2
+101365,30,male,Non Hispanic Asian,30.3,0,0,0,0,60,240,5,3,1
+101366,52,female,Non Hispanic Asian,106,60,0,1460,0,NA,300,3,4,2
+101369,53,female,Non Hispanic Black,51.8,0,0,0,0,0,30,3,4,3
+101370,31,female,Other Hispanic,73.5,15,30,182,1,60,180,3,5,3
+101372,29,female,Non Hispanic Asian,45.5,25,10,30,0,30,120,3,5,3
+101375,53,male,Non Hispanic Asian,29,0,0,0,0,0,60,5,3,3
+101378,34,female,Non Hispanic Asian,70.8,0,0,0,0,20,60,1,2,2
+101379,55,male,Non Hispanic Black,65.5,0,0,0,0,360,240,5,2,2
+101384,22,male,Non Hispanic Black,33.9,0,0,0,0,120,300,4,3,3
+101386,49,female,Other Hispanic,32.2,0,0,0,0,0,0,1,4,2
+101389,42,male,Non Hispanic Asian,35.1,0,0,0,0,60,180,5,4,4
+101390,40,male,Non Hispanic White,70.4,50,30,182,1,0,240,5,5,4
+101394,39,male,Non Hispanic Asian,51.7,0,0,0,0,14,180,1,1,1
+101397,25,male,Non Hispanic Black,35.6,17.5,3,7,0,NA,240,5,5,2
+101399,41,male,Non Hispanic White,70,0,0,0,0,20,120,3,3,4
+101400,53,male,Non Hispanic Asian,27.5,0,0,0,0,60,0,5,1,3
+101401,52,male,Non Hispanic Asian,112,0,0,0,0,120,60,3,2,2
+101404,31,male,Non Hispanic Black,24,0,0,0,0,0,240,5,5,3
+101405,56,female,Non Hispanic Black,100,125,30,304,1,15,20,2,3,3
+101411,59,female,Non Hispanic Black,33.5,0,0,0,0,0,240,5,4,2
+101412,39,female,Non Hispanic Asian,48,0,0,0,0,0,60,1,2,2
+101414,56,female,Non Hispanic Black,37,0,0,0,0,60,60,5,4,2
+101415,38,female,Non Hispanic White,71.9,0,0,0,0,0,0,2,3,3
+101416,44,male,Non Hispanic White,47.8,0,0,0,0,180,60,2,5,4
+101421,58,male,Other,45.6,40,30,30,0,0,0,1,3,1
+101426,41,female,Non Hispanic Black,25.8,0,0,0,0,120,0,5,5,3
+101427,24,female,Non Hispanic White,93.2,0,0,0,0,120,180,4,3,3
+101430,42,female,Non Hispanic Asian,71.2,0,0,0,0,NA,180,2,4,3
+101431,38,female,Non Hispanic White,53.8,0,0,0,0,20,90,3,3,3
+101438,48,female,Other Hispanic,29.7,0,0,0,0,0,60,3,5,1
+101439,38,male,Non Hispanic Black,38.3,17.5,30,365,0,NA,180,5,4,1
+101443,59,male,Non Hispanic Black,16.2,0,0,0,0,30,30,5,3,3
+101446,30,female,Other,96.7,20,20,1825,1,30,120,4,4,3
+101448,49,male,Other,65.4,0,0,0,0,480,480,5,5,4
+101449,59,female,Non Hispanic Black,53.3,50,25,365,1,14,30,1,4,4
+101450,39,male,Mexican American,49.1,0,0,0,0,90,480,5,2,3
+101454,55,female,Mexican American,56.1,0,0,0,0,0,480,5,5,4
+101461,59,female,Mexican American,74.6,20,15,61,0,0,60,5,5,4
+101462,23,female,Non Hispanic White,84.9,125,30,730,1,60,120,2,4,4
+101464,50,female,Non Hispanic White,68.2,0,0,0,0,60,60,2,5,3
+101467,39,male,Non Hispanic White,91,25,30,30,1,NA,120,4,5,3
+101470,57,female,Non Hispanic White,84.7,12.5,30,3650,1,60,240,2,3,3
+101472,51,female,Non Hispanic Asian,65,0,0,0,0,120,240,4,3,3
+101475,50,female,Mexican American,52,0,0,0,0,0,0,5,1,1
+101481,29,female,Non Hispanic White,55.5,0,0,0,0,0,60,3,3,3
+101484,49,male,Non Hispanic White,87.6,17.5,30,7300,1,30,60,3,3,2
+101489,51,female,Non Hispanic Asian,74.8,50,30,365,1,120,120,2,3,1
+101493,34,female,Mexican American,25.8,0,0,0,0,420,60,3,1,3
+101501,30,female,Non Hispanic Asian,40.5,20,15,91,0,0,180,1,3,3
+101513,35,male,Non Hispanic White,33.7,0,0,0,0,NA,30,5,2,2
+101515,51,male,Other Hispanic,53.7,0,0,0,0,14,0,1,9,1
+101516,30,female,Non Hispanic White,78.4,0,0,0,0,30,60,2,5,3
+101517,34,female,Other Hispanic,56.5,0,0,0,0,14,30,1,3,2
+101520,52,male,Mexican American,69.8,0,0,0,0,480,360,5,5,3
+101530,51,male,Other Hispanic,108,75,30,730,1,120,180,3,1,2
+101537,33,male,Non Hispanic White,72.2,0,0,0,0,30,300,4,3,3
+101542,48,male,Non Hispanic Asian,59.9,0,0,0,0,120,240,5,4,3
+101544,44,female,Non Hispanic White,81.9,0,0,0,0,0,60,4,5,2
+101545,22,male,Non Hispanic White,74.1,20,20,30,1,60,360,5,4,4
+101547,42,female,Non Hispanic White,58,0,0,0,0,30,30,2,3,2
+101549,43,female,Non Hispanic Asian,63.8,12.5,3,7,1,30,14,2,2,2
+101550,53,male,Non Hispanic Black,44.6,0,0,0,0,240,120,5,4,2
+101551,35,female,Non Hispanic White,80.7,0,0,0,0,NA,120,3,4,3
+101552,35,male,Non Hispanic Black,30.2,0,0,0,0,60,240,5,5,2
+101558,54,male,Other Hispanic,70.7,0,0,0,0,240,120,3,2,2
+101559,27,male,Mexican American,60.9,0,0,0,0,480,60,5,3,3
+101563,21,male,Non Hispanic Black,63.2,50,30,1825,1,480,0,5,4,3
+101570,30,female,Non Hispanic Black,64.7,0,0,0,0,14,0,5,4,3
+101574,22,female,Non Hispanic Black,47,25,20,61,1,120,300,4,2,3
+101577,52,female,Non Hispanic Asian,66.2,0,0,0,0,NA,30,5,1,4
+101584,55,female,Non Hispanic Asian,80.4,0,0,0,0,120,120,5,5,1
+101588,23,female,Other Hispanic,44.9,10,0,30,0,60,120,5,1,2
+101590,24,male,Mexican American,34.2,0,0,0,0,120,300,5,5,3
+101593,49,female,Non Hispanic Asian,46.4,0,0,0,0,NA,120,5,1,5
+101594,43,female,Non Hispanic White,95.1,250,20,1095,1,60,120,3,3,3
+101596,44,female,Non Hispanic Black,74.4,25,30,7300,1,30,120,5,4,2
+101599,22,male,Non Hispanic White,49.2,0,0,0,0,60,60,3,4,2
+101604,22,male,Non Hispanic Black,28.7,15,12,365,0,NA,180,5,3,5
+101606,58,male,Other Hispanic,77,25,30,182,0,480,420,5,3,4
+101609,22,male,Non Hispanic Asian,26.8,0,0,0,0,120,60,3,3,3
+101613,53,male,Non Hispanic Black,64.3,50,30,30,1,300,300,5,3,3
+101616,56,male,Other,133,20,30,61,1,480,240,5,5,4
+101620,29,female,Non Hispanic Asian,64.5,0,0,0,0,120,60,4,3,2
+101625,21,male,Non Hispanic Black,15.4,0,0,0,0,180,0,5,5,3
+101626,55,female,Non Hispanic White,130,50,0,730,1,0,180,3,5,3
+101638,58,male,Non Hispanic White,96.9,125,15,365,1,15,60,3,5,3
+101640,55,female,Other,63.7,0,0,0,0,0,0,3,4,2
+101642,53,female,Non Hispanic Black,77.5,20,30,730,1,60,240,5,4,3
+101647,58,female,Mexican American,70.7,0,0,0,0,90,70,3,3,3
+101649,40,female,Non Hispanic White,87.1,0,0,0,0,15,240,4,5,4
+101652,20,male,Non Hispanic White,69,0,0,0,0,60,240,3,5,3
+101655,20,male,Non Hispanic Black,28.8,0,0,0,0,180,60,5,3,3
+101657,28,male,Non Hispanic White,74,25,30,30,0,60,120,4,4,2
+101658,30,male,Non Hispanic White,85.2,0,0,0,0,60,480,4,3,3
+101659,36,female,Other Hispanic,134,0,0,0,0,45,180,4,4,3
+101662,58,male,Non Hispanic White,90.1,25,30,18250,1,420,420,4,3,3
+101664,47,female,Non Hispanic White,112,0,0,0,0,300,420,1,5,3
+101668,38,male,Non Hispanic Asian,52.1,0,0,0,0,30,120,5,1,5
+101669,28,female,Non Hispanic White,84.9,0,0,0,0,180,180,5,5,2
+101670,36,female,Non Hispanic Asian,67.1,20,30,730,0,14,30,1,3,2
+101675,55,female,Other Hispanic,101,50,0,730,0,14,180,5,5,2
+101676,55,male,Non Hispanic Asian,38.1,12.5,10,730,0,60,180,5,3,5
+101677,25,male,Non Hispanic White,39.1,0,0,0,0,60,60,4,5,3
+101681,31,female,Non Hispanic Black,26.7,0,0,0,0,30,60,5,3,3
+101682,45,female,Non Hispanic White,68.7,0,0,0,0,NA,90,1,5,1
+101688,20,female,Non Hispanic White,68.2,0,0,0,0,480,120,4,5,4
+101693,28,female,Non Hispanic White,54.5,35,12,15,0,30,150,1,4,3
+101695,45,female,Other,36.3,0,0,0,0,60,20,5,5,1
+101698,57,female,Mexican American,54.1,0,0,0,0,NA,30,4,4,2
+101701,26,female,Other Hispanic,69.4,0,0,0,0,120,240,2,3,3
+101709,23,female,Other Hispanic,46.8,10,10,274,0,300,180,4,5,4
+101711,43,male,Mexican American,26,0,0,0,0,480,240,3,1,3
+101714,36,male,Non Hispanic Black,58.9,15,6,1825,0,120,60,5,4,2
+101716,33,female,Mexican American,31.8,10,7,91,0,0,60,4,2,3
+101718,39,female,Non Hispanic White,74.2,0,0,0,0,120,120,3,5,2
+101721,28,male,Non Hispanic Asian,46.4,0,0,0,0,0,360,5,2,2
+101725,59,female,Non Hispanic Asian,74,0,0,0,0,60,60,1,1,2
+101727,37,male,Other Hispanic,47.9,0,0,0,0,120,240,5,4,2
+101731,46,male,Mexican American,60.2,50,7,7,1,0,0,5,3,3
+101732,39,male,Non Hispanic White,85.1,5,30,91,1,0,120,3,3,3
+101733,25,female,Other,58.1,0,0,0,0,NA,45,3,4,3
+101736,29,male,Non Hispanic White,72.8,0,0,0,0,180,420,3,5,3
+101737,57,male,Non Hispanic White,83.2,0,0,0,0,180,180,5,5,2
+101740,59,female,Non Hispanic Black,45.3,10,14,14,1,0,0,5,5,1
+101742,37,male,Non Hispanic White,69.6,20,30,91,0,120,180,4,5,3
+101744,25,male,Non Hispanic White,44.2,0,0,0,0,60,360,4,4,4
+101753,46,male,Non Hispanic Asian,107,25,30,1825,0,120,120,5,5,3
+101754,56,male,Other Hispanic,58.3,0,0,0,0,0,180,5,5,4
+101758,37,male,Non Hispanic White,25.2,0,0,0,0,0,0,5,3,3
+101761,44,male,Other,63,0,0,0,0,60,60,1,5,3
+101763,54,female,Non Hispanic White,96.6,25,30,91,1,NA,300,4,5,4
+101764,49,male,Non Hispanic Black,141,25,30,5475,1,60,240,2,3,2
+101765,32,female,Non Hispanic Black,21.6,0,0,0,0,0,120,5,5,3
+101766,55,female,Non Hispanic Asian,83.9,25,30,3650,1,60,120,3,2,1
+101768,24,male,Non Hispanic White,131,0,0,0,0,0,240,1,5,5
+101774,28,male,Non Hispanic White,74.1,50,4,91,0,120,45,4,3,3
+101775,36,male,Non Hispanic Asian,37.5,0,0,0,0,120,120,5,4,3
+101779,55,female,Non Hispanic White,107,50,30,365,1,NA,0,5,5,1
+101781,55,male,Other Hispanic,56.6,0,0,0,0,0,120,1,5,3
+101783,51,male,Non Hispanic White,89.1,60,30,10950,0,NA,240,3,4,2
+101786,53,male,Non Hispanic White,79.5,0,0,0,0,480,480,5,5,4
+101787,30,male,Non Hispanic Black,36.8,5,5,547,1,60,60,5,4,3
+101790,22,female,Non Hispanic Black,23.8,0,0,0,0,180,60,5,3,2
+101793,57,male,Other Hispanic,78.1,10,4,7300,0,20,15,4,3,3
+101795,40,female,Mexican American,60.1,50,0,61,0,0,0,3,4,2
+101799,28,female,Non Hispanic White,64.3,0,0,0,0,60,300,1,5,4
+101802,57,female,Other,82.5,70,21,21,1,30,60,2,3,3
+101814,26,female,Non Hispanic White,51.7,0,0,0,0,60,180,4,3,3
+101821,53,female,Other Hispanic,60.4,79.17,4,1095,0,90,30,5,5,1
+101822,40,male,Non Hispanic White,68.1,0,0,0,0,45,120,5,5,3
+101828,32,female,Non Hispanic Asian,36.7,0,0,0,0,NA,60,1,1,1
+101830,45,female,Non Hispanic Black,114,0,0,0,0,120,300,4,4,2
+101832,59,female,Non Hispanic White,72.3,20,25,365,1,0,60,2,5,3
+101838,30,female,Non Hispanic White,32.6,0,0,0,0,60,120,1,4,3
+101842,30,female,Non Hispanic Asian,38.8,0,0,0,0,120,120,5,1,3
+101844,21,female,Non Hispanic Asian,29.2,0,0,0,0,0,120,3,1,1
+101845,38,female,Other,36.2,0,0,0,0,NA,0,5,3,2
+101846,51,male,Non Hispanic White,91.2,0,0,0,0,360,180,4,3,2
+101848,56,female,Mexican American,43.3,0,0,0,0,0,60,5,3,1
+101850,28,male,Mexican American,69.3,10,30,365,0,300,240,4,4,3
+101851,40,male,Other Hispanic,59.7,60,4,730,0,480,300,3,4,3
+101853,30,male,Mexican American,57.8,0,0,0,0,480,240,4,1,3
+101861,49,female,Non Hispanic White,91.9,50,30,1825,1,0,300,1,5,5
+101862,37,male,Mexican American,54.1,0,0,0,0,180,60,5,3,3
+101865,53,female,Non Hispanic Black,62.5,50,15,365,1,0,300,5,4,5
+101866,52,male,Non Hispanic Black,49.1,0,0,0,0,180,180,2,2,2
+101867,22,female,Other Hispanic,56.2,0,0,0,0,0,300,4,3,3
+101871,36,female,Non Hispanic White,41.2,0,0,0,0,0,300,5,2,4
+101875,49,female,Non Hispanic Asian,63.6,1250,1,30,0,30,120,5,5,99
+101876,38,female,Non Hispanic Black,27.8,0,0,0,0,120,120,4,4,2
+101878,50,female,Other Hispanic,18.3,0,0,0,0,0,0,1,1,3
+101879,56,female,Mexican American,55.4,0,0,0,0,0,180,4,5,2
+101880,21,male,Other,34.8,0,0,0,0,NA,NA,5,2,5
+101882,52,female,Non Hispanic Black,66.7,0,0,0,0,0,120,5,4,3
+101885,43,female,Non Hispanic White,70,0,0,0,0,NA,120,5,5,2
+101893,23,male,Mexican American,38.9,0,0,0,0,180,120,5,2,3
+101894,46,female,Other,37,0,0,0,0,300,120,5,5,3
+101896,28,female,Non Hispanic White,75.8,0,0,0,0,NA,60,2,4,3
+101899,36,male,Non Hispanic Black,22.1,0,0,0,0,300,60,5,5,5
+101903,33,female,Mexican American,34.2,0,0,0,0,60,NA,2,5,3
+101904,33,female,Non Hispanic Black,60.5,0,0,0,0,60,60,5,4,2
+101912,31,female,Non Hispanic Asian,45.9,0,0,0,0,NA,120,1,1,1
+101919,33,male,Non Hispanic Asian,55.4,17.5,25,304,0,30,30,5,4,3
+101920,48,male,Non Hispanic Asian,66.8,25,30,243,0,14,120,3,3,2
+101922,55,male,Non Hispanic Asian,57.7,75,0,122,0,120,240,3,3,4
+101928,42,female,Non Hispanic Black,51,0,0,0,0,60,180,1,3,2
+101937,24,male,Other,50.3,0,0,0,0,120,180,4,3,2
+101941,44,female,Non Hispanic Black,25.7,0,0,0,0,60,120,4,5,3
+101950,54,male,Non Hispanic White,53.4,0,0,0,0,NA,120,5,5,2
+101957,35,female,Non Hispanic Asian,39.3,0,0,0,0,0,480,3,5,3
+101965,44,female,Non Hispanic Asian,69.2,20,20,730,1,30,30,2,3,2
+101966,24,male,Other Hispanic,34.9,0,0,0,0,0,480,5,2,3
+101971,24,male,Non Hispanic Black,34.1,0,0,0,0,60,0,5,4,3
+101976,38,male,Non Hispanic Asian,24.7,0,0,0,0,0,180,5,5,5
+101977,45,male,Non Hispanic Black,62.4,0,0,0,0,0,180,3,5,3
+101978,44,female,Non Hispanic Black,67,25,5,365,1,360,240,5,3,3
+101980,35,female,Non Hispanic White,71.3,0,0,0,0,60,120,4,3,3
+101985,27,male,Non Hispanic Black,24.4,0,0,0,0,0,60,5,5,2
+101995,59,male,Non Hispanic White,40.2,25,30,15695,1,120,120,3,3,3
+102003,25,male,Other,73.9,50,5,182,1,0,240,4,4,4
+102005,36,female,Non Hispanic White,73.6,50,28,547,1,60,360,3,5,3
+102007,55,female,Non Hispanic Asian,83,25,15,182,0,60,180,5,1,2
+102008,47,female,Non Hispanic White,86.9,0,0,0,0,15,30,1,5,3
+102012,48,female,Non Hispanic Black,23.2,0,0,0,0,0,0,NA,NA,6
+102015,20,female,Non Hispanic White,71.2,0,0,0,0,120,180,4,5,4
+102022,46,male,Non Hispanic White,73.9,25,6,30,1,120,240,4,4,3
+102024,37,male,Non Hispanic White,73.3,17.5,1,91,0,300,360,4,4,4
+102026,24,female,Non Hispanic White,111,50,30,61,0,60,120,3,4,3
+102028,24,male,Non Hispanic Asian,27.8,0,0,0,0,60,60,5,3,1
+102030,50,female,Mexican American,44.1,0,0,0,0,0,30,1,1,2
+102035,32,female,Non Hispanic White,71.3,0,0,0,0,0,180,5,3,4
+102037,21,female,Mexican American,42.4,0,0,0,0,14,180,1,1,2
+102041,42,male,Non Hispanic White,76.8,0,0,0,0,0,240,4,5,5
+102044,33,female,Non Hispanic Black,47.2,13.33,5,365,0,120,120,3,4,2
+102045,55,male,Non Hispanic White,36,0,0,0,0,30,60,5,5,3
+102050,47,male,Non Hispanic Black,109,10,30,10950,0,480,180,5,2,5
+102064,35,female,Mexican American,64.1,0,0,0,0,60,60,3,4,3
+102067,55,male,Non Hispanic White,164,125,30,182,1,240,240,5,5,3
+102072,50,female,Mexican American,35.5,25,30,30,0,480,0,5,2,5
+102073,43,male,Non Hispanic White,76.3,0,0,0,0,60,480,3,5,3
+102074,35,female,Non Hispanic Black,60.6,0,0,0,0,NA,60,5,5,2
+102081,49,female,Non Hispanic White,122,25,30,730,0,0,300,5,5,2
+102082,58,male,Other,76.8,17.5,30,3650,1,240,120,4,4,2
+102088,29,female,Non Hispanic White,75.1,25,4,4,1,0,120,4,5,3
+102091,32,male,Non Hispanic Black,23.1,0,0,0,0,120,180,4,4,4
+102093,21,female,Other Hispanic,54.2,0,0,0,0,0,180,5,5,3
+102096,20,male,Other Hispanic,59.6,0,0,0,0,0,300,3,2,2
+102099,32,female,Non Hispanic White,39.6,0,0,0,0,0,NA,2,2,1
+102101,20,male,Mexican American,39.4,0,0,0,0,0,0,5,4,3
+102103,37,male,Other,68.6,0,0,0,0,180,180,3,3,1
+102105,24,female,Non Hispanic Black,46.8,0,0,0,0,NA,120,5,3,4
+102107,31,male,Other,49.9,0,0,0,0,120,210,4,3,2
+102111,53,male,Other Hispanic,72.9,0,0,0,0,0,30,5,4,4
+102112,33,female,Non Hispanic Black,17,0,0,0,0,20,0,5,3,3
+102113,26,female,Mexican American,78.1,0,0,0,0,0,0,1,3,2
+102121,53,female,Mexican American,91.4,0,0,0,0,0,0,5,1,2
+102126,23,female,Other Hispanic,54.6,1.25,3,30,0,NA,180,5,5,4
+102128,21,male,Non Hispanic Black,79.4,0,0,0,0,480,360,4,3,2
+102129,34,male,Mexican American,38.1,0,0,0,0,240,60,3,4,3
+102130,56,male,Non Hispanic White,101,25,30,7300,1,NA,120,3,3,3
+102132,39,female,Mexican American,49.8,0,0,0,0,NA,120,3,3,1
+102134,42,female,Non Hispanic White,65.8,0,0,0,0,120,300,3,5,3
+102135,24,male,Non Hispanic Black,46.9,0,0,0,0,480,300,5,3,3
+102139,31,male,Other,30.7,25,25,182,0,0,120,4,3,2
+102147,55,female,Other,74.8,0,0,0,0,0,180,3,2,2
+102149,27,female,Non Hispanic Black,22.6,0,0,0,0,0,240,5,4,2
+102151,44,female,Non Hispanic Asian,57.1,0,0,0,0,0,0,5,5,5
+102154,41,male,Mexican American,52.1,0,0,0,0,480,180,5,3,4
+102155,47,male,Mexican American,68.5,25,30,30,0,480,180,5,1,5
+102160,31,female,Non Hispanic Asian,45.7,0,0,0,0,0,300,3,3,4
+102163,23,male,Non Hispanic White,81.1,0,0,0,0,0,180,3,5,3
+102168,59,female,Non Hispanic Black,79.2,10,30,365,1,45,45,NA,NA,6
+102179,42,male,Non Hispanic Black,34,0,0,0,0,120,240,5,4,2
+102181,43,female,Non Hispanic Black,72.2,25,30,243,1,60,120,4,2,2
+102184,25,female,Non Hispanic Asian,36.7,10,0,182,1,120,0,5,3,1
+102185,45,male,Non Hispanic Black,17.8,0,0,0,0,30,60,5,5,3
+102187,20,male,Non Hispanic Black,21.4,0,0,0,0,90,300,5,5,3
+102191,58,male,Non Hispanic White,58.9,0,0,0,0,0,240,4,4,4
+102193,36,male,Non Hispanic Asian,53.5,0,0,0,0,30,30,5,3,4
+102194,36,female,Mexican American,42.1,0,0,0,0,120,0,3,4,3
+102196,38,female,Non Hispanic White,76.6,0,0,0,0,15,180,1,3,3
+102199,57,male,Other Hispanic,32.3,0,0,0,0,90,180,4,3,3
+102201,47,female,Non Hispanic Black,26.9,0,0,0,0,0,480,5,5,1
+102202,23,female,Other,60.6,10,30,45,0,0,0,3,4,3
+102204,49,female,Non Hispanic White,76.7,0,0,0,0,120,120,5,5,3
+102211,37,male,Mexican American,61.2,20,30,182,1,0,60,3,2,3
+102212,31,female,Non Hispanic White,74.5,0,0,0,0,120,300,2,3,2
+102215,48,male,Non Hispanic White,62,0,0,0,0,240,360,3,4,3
+102217,27,male,Non Hispanic Black,15.6,0,0,0,0,14,60,5,4,3
+102218,48,female,Non Hispanic Black,16.9,0,0,0,0,NA,120,5,3,3
+102219,54,male,Non Hispanic Black,29.4,0,0,0,0,240,180,5,3,3
+102221,38,male,Mexican American,56.7,40,30,30,1,420,60,2,1,3
+102223,36,female,Non Hispanic White,148,75,30,12410,0,120,180,2,5,4
+102225,41,male,Non Hispanic White,73.7,20,30,1825,1,120,300,4,5,4
+102226,26,male,Non Hispanic Asian,55.7,0,0,0,0,180,180,3,4,4
+102229,57,male,Mexican American,45.3,25,30,243,1,NA,30,4,1,3
+102232,22,male,Non Hispanic Asian,81.8,250,4,1095,0,NA,0,NA,NA,6
+102234,41,male,Non Hispanic White,68.1,0,0,0,0,30,360,3,5,3
+102238,49,female,Non Hispanic White,60.4,0,0,0,0,0,0,4,4,3
+102239,23,male,Non Hispanic Asian,65.1,0,0,0,0,360,0,5,4,3
+102242,23,male,Non Hispanic White,56.7,0,0,0,0,240,480,5,2,4
+102248,48,male,Non Hispanic Asian,61.5,17.5,4,730,0,120,120,4,3,3
+102249,22,male,Non Hispanic White,44,25,30,182,1,60,120,3,3,2
+102250,34,male,Non Hispanic White,67.3,0,0,0,0,60,120,3,4,3
+102254,38,female,Mexican American,39.3,0,0,0,0,0,20,4,5,3
+102255,24,female,Non Hispanic White,147,40,30,1825,1,60,120,2,4,4
+102256,40,male,Other Hispanic,39.7,0,0,0,0,60,60,5,5,5
+102258,51,female,Other Hispanic,79.6,25,30,61,1,14,15,1,2,3
+102265,34,male,Non Hispanic White,80,25,30,365,1,NA,120,3,4,4
+102269,54,female,Non Hispanic Black,23.4,0,0,0,0,14,300,3,4,3
+102272,26,female,Non Hispanic White,72.8,95,30,1095,1,60,60,3,3,4
+102278,36,female,Mexican American,73.8,60,0,365,1,0,0,4,5,1
+102279,38,male,Mexican American,46,0,0,0,0,360,360,5,5,3
+102281,54,female,Non Hispanic Asian,93.5,70,30,1825,1,14,14,1,3,1
+102283,22,female,Non Hispanic White,61.9,0,0,0,0,0,120,3,5,2
+102285,37,male,Non Hispanic Black,86.9,0,0,0,0,120,60,5,5,5
+102288,32,male,Non Hispanic Asian,34.9,0,0,0,0,0,60,3,3,3
+102302,40,female,Other Hispanic,33.8,0,0,0,0,NA,180,5,4,2
+102309,55,female,Non Hispanic White,104,0.63,30,122,0,14,60,3,5,3
+102311,33,male,Other Hispanic,86,10,25,61,0,240,180,3,4,3
+102315,39,female,Non Hispanic Asian,69.3,0,0,0,0,240,300,4,1,3
+102317,59,male,Non Hispanic White,83.1,50,30,1095,1,NA,120,3,4,2
+102321,56,male,Mexican American,29.2,0,0,0,0,0,0,5,5,4
+102322,45,male,Non Hispanic Black,33.2,0,0,0,0,0,0,5,3,3
+102324,28,female,Mexican American,61.2,25,7,91,0,120,480,4,3,2
+102331,53,male,Non Hispanic White,64.8,2.5,30,1825,1,60,90,5,4,2
+102334,25,male,Non Hispanic White,72.3,0,0,0,0,360,480,5,5,4
+102336,33,male,Non Hispanic White,45.9,0,0,0,0,0,120,3,4,3
+102338,54,male,Non Hispanic White,72.2,0,0,0,0,60,240,3,5,3
+102340,33,male,Non Hispanic White,55.8,0,0,0,0,240,300,4,5,3
+102341,39,female,Non Hispanic White,80.9,0,0,0,0,0,180,2,5,2
+102342,52,male,Other Hispanic,35.6,0,0,0,0,60,120,5,4,4
+102344,34,female,Non Hispanic Asian,32.9,0,0,0,0,240,480,4,3,4
+102345,39,female,Non Hispanic Black,26.8,0,0,0,0,14,0,4,4,1
+102346,37,female,Non Hispanic White,57.2,25,30,456,1,NA,30,4,5,2
+102348,27,female,Mexican American,57.8,20,30,30,0,NA,180,1,2,2
+102350,36,male,Mexican American,74.3,8.33,15,1460,0,360,120,5,5,3
+102352,31,male,Non Hispanic White,51.5,0,0,0,0,420,240,5,5,3
+102355,33,male,Non Hispanic Asian,83.8,17.5,30,1825,1,300,240,4,4,2
+102356,22,male,Other Hispanic,51.9,0,0,0,0,60,120,3,3,3
+102358,31,female,Non Hispanic Asian,52.6,10,30,61,1,240,240,1,1,2
+102359,39,female,Non Hispanic Asian,52.9,0,0,0,0,45,0,3,5,2
+102360,28,female,Non Hispanic Black,55.8,25,25,30,0,30,20,3,3,2
+102361,31,male,Other,65.3,50,30,365,1,240,240,5,2,4
+102364,33,female,Non Hispanic White,72,0,0,0,0,0,300,3,5,2
+102369,42,female,Mexican American,42.6,0,0,0,0,NA,90,4,3,2
+102371,54,male,Non Hispanic Black,88.6,0,0,0,0,300,180,3,4,3
+102373,31,male,Mexican American,26,0,0,0,0,60,180,4,3,2
+102377,59,female,Mexican American,69.9,0,0,0,0,NA,90,3,3,1
+102378,40,female,Mexican American,48.2,0,0,0,0,60,60,1,4,2
+102380,26,female,Non Hispanic Black,49.5,0,0,0,0,60,0,5,4,4
+102381,42,male,Non Hispanic White,96.2,25,30,182,1,480,120,3,4,2
+102382,44,male,Other,98.3,3.33,30,1095,0,30,30,2,4,2
+102383,26,female,Mexican American,36.1,0,0,0,0,0,60,5,3,3
+102386,27,female,Non Hispanic Asian,40.4,0,0,0,0,14,0,5,5,2
+102391,31,male,Non Hispanic Asian,19.6,0,0,0,0,30,0,3,2,3
+102393,20,female,Non Hispanic White,88.4,0,0,0,0,120,300,3,5,5
+102395,25,male,Mexican American,122,20,30,365,1,240,480,4,3,3
+102396,45,male,Other,61.6,0,0,0,0,NA,90,4,5,3
+102400,42,male,Mexican American,77.4,0,0,0,0,60,120,3,2,3
+102401,44,female,Other Hispanic,74.8,50,21,365,1,120,180,5,2,2
+102405,49,male,Mexican American,56.7,17.5,30,730,0,300,120,5,4,4
+102410,44,male,Mexican American,81.1,37.51,30,730,1,300,120,5,4,3
+102415,54,female,Other Hispanic,47,0,0,0,0,0,0,4,1,1
+102419,32,male,Other,102,37.5,20,365,1,60,180,5,4,5
+102421,57,female,Other Hispanic,71.9,50,30,91,0,0,360,5,5,1
+102424,37,male,Non Hispanic Asian,47.5,17.5,15,365,0,0,180,3,5,3
+102425,33,male,Other,49.7,0,0,0,0,240,180,5,3,2
+102428,41,male,Non Hispanic White,50.5,0,0,0,0,0,0,1,5,1
+102429,38,female,Mexican American,44.4,0,0,0,0,NA,120,1,1,1
+102432,33,male,Non Hispanic White,65.6,0,0,0,0,360,60,2,3,5
+102434,44,female,Non Hispanic Black,64.7,0,0,0,0,NA,180,4,5,2
+102436,56,female,Non Hispanic White,90,25,20,9125,1,0,300,1,4,3
+102443,56,female,Non Hispanic White,94.3,0,0,0,0,60,300,4,5,3
+102444,58,male,Non Hispanic White,63.6,0,0,0,0,NA,180,5,5,1
+102450,39,male,Non Hispanic White,54.1,0,0,0,0,NA,240,5,5,3
+102454,34,female,Mexican American,54.4,25,15,365,0,0,180,2,4,3
+102456,29,female,Other,27.5,0,0,0,0,0,0,5,3,3
+102457,58,male,Non Hispanic White,47.3,0,0,0,0,60,60,4,3,3
+102458,34,male,Non Hispanic Black,42,0,0,0,0,0,0,4,4,4
+102460,25,female,Non Hispanic White,93.2,0,0,0,0,180,360,2,4,3
+102461,28,female,Non Hispanic Asian,52.9,0,0,0,0,60,180,3,2,2
+102464,46,male,Non Hispanic White,135,125,30,3650,1,0,60,2,2,3
+102466,34,male,Non Hispanic White,69.6,20,30,91,0,14,180,2,2,1
+102467,58,female,Non Hispanic Black,55.3,0,0,0,0,0,0,3,3,5
+102469,33,male,Non Hispanic White,70,0,0,0,0,60,120,5,4,3
+102472,41,male,Non Hispanic Black,60.6,17.5,20,182,1,180,300,3,3,2
+102473,41,female,Other Hispanic,80.7,750,30,30,0,240,60,3,5,4
+102474,52,female,Other,27,0,0,0,0,0,180,5,2,1
+102475,38,male,Mexican American,61.5,0,0,0,0,420,300,5,4,5
+102482,36,male,Non Hispanic White,59.8,0,0,0,0,60,240,4,5,2
+102486,21,female,Non Hispanic Asian,27.8,20,30,1825,0,0,300,5,5,5
+102488,29,male,Other Hispanic,36.8,0,0,0,0,120,120,2,2,2
+102492,31,male,Non Hispanic Black,41.9,0,0,0,0,300,480,5,5,3
+102495,33,male,Non Hispanic White,80.9,25,30,2190,0,60,240,5,4,5
+102501,45,male,Non Hispanic White,77.7,0,0,0,0,240,240,4,3,3
+102505,38,male,Mexican American,63.8,10,5,7,0,0,120,4,3,3
+102506,51,female,Other Hispanic,46.8,0,0,0,0,60,360,5,5,5
+102507,24,male,Mexican American,32.8,0,0,0,0,480,180,3,4,2
+102512,59,female,Non Hispanic White,80.8,0,0,0,0,NA,60,4,4,2
+102514,33,male,Other,86.3,17.5,30,730,1,120,360,5,4,3
+102515,56,male,Non Hispanic White,94,25,30,10950,1,60,60,1,3,3
+102516,46,male,Non Hispanic White,58.7,0,0,0,0,0,60,2,4,3
+102518,44,female,Mexican American,71,25,20,365,0,240,300,1,1,1
+102526,42,male,Non Hispanic Black,65.2,0,0,0,0,420,240,5,3,3
+102532,34,female,Non Hispanic Black,53.3,0,0,0,0,120,180,3,2,2
+102533,55,male,Mexican American,33.2,0,0,0,0,0,0,5,4,3
+102541,26,male,Other,68.3,17.5,30,61,0,120,120,5,5,2
+102546,41,male,Non Hispanic Asian,52.9,0,0,0,0,15,0,5,5,5
+102548,28,female,Other,85.5,0,0,0,0,120,300,2,4,4
+102551,58,female,Non Hispanic Black,47.2,0,0,0,0,NA,120,3,3,1
+102553,50,male,Non Hispanic Asian,52.9,0,0,0,0,120,180,4,2,3
+102556,50,male,Other Hispanic,86.9,0,0,0,0,120,180,5,5,3
+102559,53,male,Mexican American,47.4,0,0,0,0,300,120,3,1,3
+102560,33,male,Other,82,10,23,3650,1,120,60,4,5,4
+102562,38,female,Other Hispanic,45.1,0,0,0,0,0,180,1,4,2
+102568,23,male,Other Hispanic,70.8,17.5,30,182,1,60,240,2,2,2
+102573,54,male,Non Hispanic Black,37.6,0,0,0,0,0,120,5,4,1
+102580,25,female,Mexican American,44.3,0,0,0,0,0,0,5,3,2
+102581,50,male,Non Hispanic Black,28.1,0,0,0,0,0,120,5,3,3
+102586,52,male,Mexican American,103,22.5,30,1825,1,14,240,4,4,1
+102589,24,female,Non Hispanic Black,34.9,0,0,0,0,480,480,5,3,2
+102591,59,female,Non Hispanic White,73.1,6.25,15,7300,0,120,120,1,4,4
+102593,39,male,Non Hispanic Asian,42.4,25,3,1825,1,30,45,2,3,2
+102600,34,male,Non Hispanic Asian,88.4,0,0,0,0,30,240,2,3,3
+102605,57,female,Non Hispanic Black,119,125,12,365,0,240,240,4,5,4
+102612,33,male,Non Hispanic White,69.5,25,4,4,0,0,180,5,5,3
+102616,56,female,Non Hispanic White,94,120,30,730,0,30,60,3,4,3
+102620,48,male,Non Hispanic Asian,46.6,17.5,10,1825,0,30,60,5,3,2
+102621,32,female,Non Hispanic Black,52.2,0,0,0,0,NA,60,5,5,1
+102622,46,male,Non Hispanic White,88.1,17.5,4,1825,1,180,120,5,3,3
+102625,33,male,Other,82.6,0,0,0,0,0,240,2,5,5
+102626,46,male,Mexican American,84.5,0,0,0,0,0,120,3,3,3
+102631,22,male,Non Hispanic Black,48.8,0,0,0,0,0,240,5,4,3
+102633,41,female,Other Hispanic,59.3,0,0,0,0,NA,0,3,5,3
+102635,40,female,Non Hispanic Asian,58.8,15,25,182,1,30,45,3,3,3
+102638,26,female,Non Hispanic White,55.7,20,2,365,0,14,14,2,5,3
+102641,34,male,Non Hispanic White,77.6,0,0,0,0,30,60,5,4,3
+102642,44,female,Non Hispanic Asian,48.6,25,12,1825,0,30,180,3,2,3
+102644,53,male,Non Hispanic White,98.7,0,0,0,0,360,480,4,4,3
+102648,33,male,Non Hispanic Black,48.7,0,0,0,0,0,180,5,4,3
+102649,57,male,Non Hispanic Black,65.1,0,0,0,0,480,300,5,5,3
+102653,25,female,Other Hispanic,63.9,0,0,0,0,20,180,3,5,3
+102655,21,male,Other Hispanic,68.5,0,0,0,0,0,240,1,5,4
+102661,59,female,Non Hispanic White,61.9,0,0,0,0,30,60,5,5,4
+102664,51,male,Non Hispanic Asian,52,0,0,0,0,0,0,5,3,3
+102666,44,female,Non Hispanic White,122,45,30,9125,1,30,60,1,5,3
+102667,50,male,Mexican American,68.8,0,0,0,0,480,60,1,1,1
+102668,39,female,Non Hispanic White,69.6,0,0,0,0,240,180,4,5,3
+102669,32,male,Non Hispanic Black,27.2,0,0,0,0,30,60,5,4,3
+102672,21,female,Non Hispanic Black,73.7,0,0,0,0,30,120,1,4,2
+102673,47,female,Non Hispanic Asian,57.3,0,0,0,0,45,120,4,3,2
+102674,26,male,Non Hispanic White,59.1,0,0,0,0,360,360,4,2,4
+102675,22,male,Non Hispanic Black,55.1,0,0,0,0,180,300,5,5,3
+102676,22,male,Other,17.3,0,0,0,0,300,180,4,5,1
+102682,33,female,Non Hispanic Asian,50.3,0,0,0,0,60,120,2,2,2
+102684,34,male,Non Hispanic Asian,46.8,0,0,0,0,0,60,3,5,3
+102685,39,male,Non Hispanic White,82.6,0,0,0,0,120,240,5,4,4
+102686,51,female,Non Hispanic White,55.8,0,0,0,0,14,480,5,5,3
+102688,53,female,Non Hispanic White,107,10,30,1095,1,120,240,2,5,2
+102689,24,male,Non Hispanic White,58.3,0,0,0,0,360,180,5,3,3
+102694,55,female,Non Hispanic White,65,75,5,365,1,15,90,5,5,5
+102704,52,female,Non Hispanic White,74.2,12.5,28,365,1,30,360,5,5,4
+102706,40,male,Non Hispanic Asian,73.3,0,0,0,0,60,240,2,4,2
+102713,23,female,Non Hispanic Black,29.7,0,0,0,0,60,60,5,5,2
+102718,20,male,Mexican American,45.3,0,0,0,0,360,240,4,1,3
+102720,59,male,Non Hispanic White,79.2,40,30,3650,1,120,300,5,5,4
+102721,53,female,Other Hispanic,45,0,0,0,0,300,360,4,5,4
+102724,43,male,Mexican American,56.7,0,0,0,0,0,0,5,3,3
+102730,54,male,Non Hispanic Asian,40.8,25,10,182,1,240,240,5,5,2
+102737,50,female,Non Hispanic White,70.7,0,0,0,0,60,60,2,4,3
+102743,45,male,Mexican American,31.1,0,0,0,0,NA,120,5,3,3
+102746,23,male,Non Hispanic White,56.3,0,0,0,0,120,300,4,4,3
+102747,57,female,Non Hispanic White,81.4,0,0,0,0,120,180,3,3,3
+102750,50,male,Non Hispanic Asian,53,0,0,0,0,NA,300,5,2,2
+102753,50,male,Non Hispanic White,88.7,25,30,1825,1,0,120,3,3,3
+102754,50,male,Non Hispanic Black,49.2,25,30,730,1,14,30,5,2,3
+102756,34,male,Non Hispanic White,91.3,0,0,0,0,NA,240,5,5,3
+102758,46,female,Non Hispanic Asian,58.9,0,0,0,0,0,240,5,4,2
+102759,47,female,Non Hispanic White,113,15,30,365,1,14,30,2,5,3
+102761,25,male,Non Hispanic Black,40.2,0,0,0,0,180,60,5,5,1
+102762,20,male,Non Hispanic White,61.6,0,0,0,0,60,30,2,4,4
+102766,46,female,Non Hispanic Asian,92,25,30,2190,1,0,0,3,5,1
+102768,49,male,Non Hispanic White,41.2,0,0,0,0,60,180,3,3,3
+102772,56,male,Non Hispanic White,85.5,17.5,15,730,0,120,120,5,1,3
+102775,58,male,Non Hispanic White,78.2,0,0,0,0,NA,60,5,5,1
+102776,35,male,Non Hispanic White,60.8,0,0,0,0,60,120,5,2,3
+102779,57,male,Non Hispanic White,67.6,0,0,0,0,14,120,3,4,3
+102781,24,male,Mexican American,46.7,0,0,0,0,60,120,4,4,4
+102785,54,female,Non Hispanic White,112,56.25,25,1825,0,30,60,2,4,3
+102786,46,female,Non Hispanic Asian,63.4,0,0,0,0,60,30,2,4,2
+102788,42,female,Non Hispanic Black,62,25,25,1095,0,0,480,5,5,5
+102790,47,male,Non Hispanic White,84.5,25,15,7300,0,120,60,3,3,3
+102793,30,female,Non Hispanic White,64.3,10,30,182,0,180,180,3,5,2
+102797,20,male,Non Hispanic Black,66.3,0,0,0,0,240,240,5,3,2
+102798,57,female,Other Hispanic,104,20,30,730,1,NA,120,1,5,3
+102801,58,female,Non Hispanic Black,115,0,0,0,0,NA,300,5,5,4
+102802,25,male,Non Hispanic Asian,62.8,25,25,1095,1,30,60,4,4,4
+102809,24,male,Mexican American,33.5,0,0,0,0,0,30,5,5,4
+102811,41,female,Mexican American,56,0,0,0,0,0,180,3,2,2
+102816,42,female,Other Hispanic,66.1,50,30,30,0,0,0,3,2,1
+102819,48,female,Non Hispanic White,70.4,0,0,0,0,0,240,5,5,5
+102820,57,female,Mexican American,73.4,0,0,0,0,0,120,1,5,5
+102821,35,female,Non Hispanic Black,43.5,0,0,0,0,120,60,2,3,3
+102823,55,female,Other Hispanic,76.7,0,0,0,0,480,30,5,5,3
+102826,58,female,Mexican American,52.4,0,0,0,0,30,60,4,3,3
+102831,51,female,Non Hispanic Asian,69.5,0,0,0,0,35,60,3,5,3
+102832,29,male,Non Hispanic White,89,0,0,0,0,300,120,4,4,3
+102833,25,male,Non Hispanic Black,39.7,30,8,7300,0,60,360,5,3,3
+102834,57,male,Non Hispanic Black,46,0,0,0,0,480,240,5,3,2
+102836,40,male,Mexican American,37.8,0,0,0,0,120,240,5,5,3
+102838,41,male,Other,113,50,0,548,0,300,180,4,3,3
+102847,30,female,Non Hispanic White,75.7,0,0,0,0,120,240,4,5,3
+102849,29,male,Non Hispanic Asian,37.8,0,0,0,0,180,480,3,3,3
+102850,54,male,Other Hispanic,86.6,17.5,30,30,1,30,20,3,5,2
+102851,58,male,Mexican American,83.1,10,25,1825,1,0,120,4,3,4
+102854,45,male,Other,66.4,50,30,1460,1,480,120,5,3,3
+102858,36,male,Non Hispanic Asian,53.4,0,0,0,0,120,180,3,3,2
+102861,41,female,Non Hispanic Black,77.2,0,0,0,0,120,180,4,3,3
+102865,44,female,Non Hispanic White,148,325,30,730,1,0,300,2,5,3
+102870,51,female,Non Hispanic Asian,74.3,0,0,0,0,0,180,3,3,3
+102879,21,male,Non Hispanic White,64.1,0,0,0,0,30,30,4,5,3
+102880,51,female,Non Hispanic Asian,78.5,25,14,365,1,0,0,5,2,2
+102884,32,male,Mexican American,46.9,0,0,0,0,480,120,5,2,4
+102885,37,female,Non Hispanic Black,48.2,0,0,0,0,60,120,3,5,2
+102886,50,female,Non Hispanic Asian,86.6,50,7,1825,0,0,15,1,5,1
+102889,47,male,Mexican American,53.6,12.4,5,61,0,30,120,4,4,3
+102892,42,female,Mexican American,47.1,25,30,182,1,120,180,3,5,1
+102893,44,female,Non Hispanic White,69.5,25,20,730,1,0,180,2,4,2
+102894,26,male,Other Hispanic,77.3,20,30,3650,0,480,360,4,5,3
+102895,43,male,Non Hispanic Black,41,0,0,0,0,0,180,5,4,3
+102899,20,female,Non Hispanic White,93.5,0,0,0,0,300,480,3,3,3
+102903,20,female,Non Hispanic Black,42.4,0,0,0,0,20,60,5,3,2
+102908,51,male,Non Hispanic White,54.6,125,30,730,1,240,360,5,5,3
+102911,55,female,Other,87.6,0,0,0,0,NA,240,5,2,2
+102913,39,female,Non Hispanic White,52,10,5,7,1,14,120,3,4,2
+102918,33,male,Non Hispanic White,57.4,0,0,0,0,60,180,5,5,4
+102921,53,male,Mexican American,62.1,0,0,0,0,60,60,5,2,2
+102923,43,female,Non Hispanic White,109,0,0,0,0,0,0,1,2,1
+102933,24,female,Non Hispanic Black,68.6,12.5,30,122,1,0,60,2,3,2
+102934,48,male,Non Hispanic Black,36.2,0,0,0,0,60,180,5,4,3
+102943,48,female,Mexican American,90.5,50,30,182,1,60,120,3,4,2
+102944,55,male,Non Hispanic Asian,81.5,25,30,365,1,360,360,5,3,3
+102948,31,female,Non Hispanic White,76.7,0,0,0,0,NA,240,3,3,3
+102949,33,male,Non Hispanic White,111,0,0,0,0,300,60,5,5,3
+102953,42,male,Mexican American,49.5,0,0,0,0,480,120,5,1,3
+102954,41,female,Non Hispanic Black,50.5,0,0,0,0,NA,180,5,3,3
+102956,38,male,Non Hispanic White,58.9,0,0,0,0,NA,180,1,4,2
